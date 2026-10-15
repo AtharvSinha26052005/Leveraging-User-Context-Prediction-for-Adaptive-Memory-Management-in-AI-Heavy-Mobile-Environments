@@ -1,0 +1,10 @@
+Variant,Description,Hit Rate,Latency (ms),Evictions,Delta Hit Rate,Delta Latency
+full_system,Full proposed system (all components),69.4%,842,294,+0.0%,+0 ms
+no_prediction,Remove ML prediction (w_prediction=0),69.9%,881,289,+0.5%,+39 ms
+no_recency,Remove recency factor (w_recency=0),72.4%,706,264,+3.0%,-136 ms
+no_frequency,Remove frequency factor (w_frequency=0),68.3%,890,305,-1.1%,+48 ms
+no_context,Remove context factor (w_context=0),70.0%,796,289,+0.6%,-47 ms
+no_importance,Remove importance factor (w_importance=0),71.3%,686,275,+1.9%,-156 ms
+no_pressure,Remove memory pressure penalty (w_pressure=0),69.4%,842,294,+0.0%,+0 ms
+no_preloading,Disable preloading entirely,69.4%,842,294,+0.0%,+0 ms
+no_thrashing_det,Disable thrashing detection,69.4%,842,294,+0.0%,+0 ms

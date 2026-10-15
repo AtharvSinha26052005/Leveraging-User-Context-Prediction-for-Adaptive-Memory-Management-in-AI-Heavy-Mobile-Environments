@@ -1,0 +1,205 @@
+{
+  "version": 8,
+  "version_history": [
+    {
+      "version": 2,
+      "timestamp": "2026-09-14T19:24:38.257991",
+      "accuracy": 0.115,
+      "n_training_events": 800,
+      "window_start": 0,
+      "window_end": 1000,
+      "is_active": true,
+      "rollback_from": null
+    },
+    {
+      "version": 8,
+      "timestamp": "2026-09-14T19:26:14.811672",
+      "accuracy": 0.1067,
+      "n_training_events": 2400,
+      "window_start": 2500,
+      "window_end": 5500,
+      "is_active": true,
+      "rollback_from": null
+    }
+  ],
+  "drift_reports": [
+    {
+      "timestamp": "2026-09-14T19:24:22.723636",
+      "kl_divergence": 0.30763341391684235,
+      "psi": 1.4282677803911081,
+      "accuracy_rolling": 0.102,
+      "accuracy_baseline": 0.75,
+      "is_drifted": true,
+      "drift_reason": "KL-divergence (0.3076 > 0.1)",
+      "n_events_since_last_train": 500
+    },
+    {
+      "timestamp": "2026-09-14T19:24:30.788602",
+      "kl_divergence": 0.29839661143740737,
+      "psi": 1.415196909330041,
+      "accuracy_rolling": 0.102,
+      "accuracy_baseline": 0.75,
+      "is_drifted": true,
+      "drift_reason": "KL-divergence (0.2984 > 0.1)",
+      "n_events_since_last_train": 1000
+    },
+    {
+      "timestamp": "2026-09-14T19:24:41.855720",
+      "kl_divergence": 0.00666381725357694,
+      "psi": 0.013197739259901866,
+      "accuracy_rolling": 0.112,
+      "accuracy_baseline": 0.115,
+      "is_drifted": false,
+      "drift_reason": "none",
+      "n_events_since_last_train": 1500
+    },
+    {
+      "timestamp": "2026-09-14T19:24:45.684185",
+      "kl_divergence": 0.008044845321321804,
+      "psi": 0.016032467556778347,
+      "accuracy_rolling": 0.106,
+      "accuracy_baseline": 0.115,
+      "is_drifted": false,
+      "drift_reason": "none",
+      "n_events_since_last_train": 2000
+    },
+    {
+      "timestamp": "2026-09-14T19:24:49.382220",
+      "kl_divergence": 0.012545603338762642,
+      "psi": 0.025015962389943427,
+      "accuracy_rolling": 0.12,
+      "accuracy_baseline": 0.115,
+      "is_drifted": false,
+      "drift_reason": "none",
+      "n_events_since_last_train": 2500
+    },
+    {
+      "timestamp": "2026-09-14T19:24:52.922003",
+      "kl_divergence": 0.2335533510984385,
+      "psi": 0.2713654905250255,
+      "accuracy_rolling": 0.098,
+      "accuracy_baseline": 0.115,
+      "is_drifted": true,
+      "drift_reason": "KL-divergence (0.2336 > 0.1)",
+      "n_events_since_last_train": 3000
+    },
+    {
+      "timestamp": "2026-09-14T19:25:08.703946",
+      "kl_divergence": 0.4331484359294018,
+      "psi": 0.5105959601491628,
+      "accuracy_rolling": 0.08,
+      "accuracy_baseline": 0.115,
+      "is_drifted": true,
+      "drift_reason": "KL-divergence (0.4331 > 0.1)",
+      "n_events_since_last_train": 3500
+    },
+    {
+      "timestamp": "2026-09-14T19:25:23.872299",
+      "kl_divergence": 0.8000928735583481,
+      "psi": 0.9535853396654037,
+      "accuracy_rolling": 0.096,
+      "accuracy_baseline": 0.115,
+      "is_drifted": true,
+      "drift_reason": "KL-divergence (0.8001 > 0.1)",
+      "n_events_since_last_train": 4000
+    },
+    {
+      "timestamp": "2026-09-14T19:25:37.632118",
+      "kl_divergence": 1.0990409244034391,
+      "psi": 1.338259097713672,
+      "accuracy_rolling": 0.086,
+      "accuracy_baseline": 0.115,
+      "is_drifted": true,
+      "drift_reason": "KL-divergence (1.0990 > 0.1)",
+      "n_events_since_last_train": 4500
+    },
+    {
+      "timestamp": "2026-09-14T19:25:51.433670",
+      "kl_divergence": 1.3655182849747776,
+      "psi": 1.7564088024187126,
+      "accuracy_rolling": 0.13,
+      "accuracy_baseline": 0.115,
+      "is_drifted": true,
+      "drift_reason": "KL-divergence (1.3655 > 0.1)",
+      "n_events_since_last_train": 5000
+    },
+    {
+      "timestamp": "2026-09-14T19:26:05.111365",
+      "kl_divergence": 1.7344663984914137,
+      "psi": 5.721017665507337,
+      "accuracy_rolling": 0.104,
+      "accuracy_baseline": 0.115,
+      "is_drifted": true,
+      "drift_reason": "KL-divergence (1.7345 > 0.1)",
+      "n_events_since_last_train": 5500
+    },
+    {
+      "timestamp": "2026-09-14T19:26:17.895263",
+      "kl_divergence": 0.0032729310605980355,
+      "psi": 0.006470888040588567,
+      "accuracy_rolling": 0.11,
+      "accuracy_baseline": 0.1067,
+      "is_drifted": false,
+      "drift_reason": "none",
+      "n_events_since_last_train": 6000
+    },
+    {
+      "timestamp": "2026-09-14T19:26:20.788318",
+      "kl_divergence": 0.0028381345920592245,
+      "psi": 0.005593899251866131,
+      "accuracy_rolling": 0.128,
+      "accuracy_baseline": 0.1067,
+      "is_drifted": false,
+      "drift_reason": "none",
+      "n_events_since_last_train": 6500
+    },
+    {
+      "timestamp": "2026-09-14T19:26:23.652755",
+      "kl_divergence": 0.0037657381913635112,
+      "psi": 0.007429127129817012,
+      "accuracy_rolling": 0.112,
+      "accuracy_baseline": 0.1067,
+      "is_drifted": false,
+      "drift_reason": "none",
+      "n_events_since_last_train": 7000
+    },
+    {
+      "timestamp": "2026-09-14T19:26:26.528215",
+      "kl_divergence": 0.004851458044279851,
+      "psi": 0.00956946413183888,
+      "accuracy_rolling": 0.096,
+      "accuracy_baseline": 0.1067,
+      "is_drifted": false,
+      "drift_reason": "none",
+      "n_events_since_last_train": 7500
+    }
+  ],
+  "training_distribution": {
+    "Gmail": 0.135,
+    "Docs": 0.13166666666666665,
+    "ChatGPT": 0.13,
+    "WhatsApp": 0.1025,
+    "Calendar": 0.06041666666666667,
+    "Telegram": 0.055,
+    "Translate": 0.051666666666666666,
+    "Twitter": 0.04833333333333333,
+    "YouTube": 0.0475,
+    "Spotify": 0.04625,
+    "Instagram": 0.03791666666666667,
+    "Settings": 0.03208333333333333,
+    "Maps": 0.03166666666666667,
+    "Netflix": 0.030416666666666668,
+    "PhonePe": 0.025,
+    "Camera": 0.022916666666666665,
+    "Paytm": 0.011666666666666667
+  },
+  "baseline_accuracy": 0.1067,
+  "total_events": 7500,
+  "config": {
+    "window_size": 3000,
+    "check_interval": 500,
+    "kl_threshold": 0.1,
+    "psi_threshold": 0.15,
+    "accuracy_drop_threshold": 0.05
+  }
+}

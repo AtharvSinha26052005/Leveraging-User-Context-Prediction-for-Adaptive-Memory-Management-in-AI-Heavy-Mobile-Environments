@@ -1,0 +1,6 @@
+Model,Top-1 Acc,Top-3 Acc,F1 (Macro),Train Time,Inference
+Markov Chain,9.9%,29.6%,0.099,0.0s,0.01ms
+Random Forest,11.1%,30.6%,0.035,0.7s,0.01ms
+GradientBoosting,9.5%,27.4%,0.056,176.9s,0.04ms
+XGBoost,10.7%,28.7%,0.053,5.0s,0.01ms
+MLP (Neural Net),9.7%,28.0%,0.026,2.3s,0.00ms

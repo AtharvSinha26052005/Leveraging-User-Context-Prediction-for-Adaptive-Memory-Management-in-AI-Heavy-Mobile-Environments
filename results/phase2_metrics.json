@@ -1,0 +1,12 @@
+{
+  "phase": 2,
+  "train_events": 145236,
+  "test_events": 36185,
+  "total_features": 46,
+  "base_features": 19,
+  "app2vec_features": 16,
+  "prefixspan_features": 11,
+  "test_top1_accuracy": 0.154,
+  "test_top3_accuracy": 0.3926,
+  "n_classes": 29
+}

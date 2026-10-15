@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capstone Project - Review Presentation</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    color: #000;
+    background: #fff;
+    font-size: 12pt;
+    line-height: 1.5;
+  }
+
+  .slide {
+    width: 100%;
+    max-width: 10in;
+    min-height: 7.5in;
+    margin: 0 auto;
+    padding: 0.6in 0.8in;
+    page-break-after: always;
+    border: 1px solid #999;
+    margin-bottom: 20px;
+    position: relative;
+  }
+
+  .slide:last-child { page-break-after: avoid; }
+
+  .slide-number {
+    position: absolute;
+    bottom: 0.3in;
+    right: 0.5in;
+    font-size: 10pt;
+    color: #666;
+  }
+
+  h1 {
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 8px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 8px;
+  }
+
+  h2 {
+    font-size: 16pt;
+    font-weight: bold;
+    margin-bottom: 12px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 4px;
+  }
+
+  h3 {
+    font-size: 13pt;
+    font-weight: bold;
+    margin-bottom: 6px;
+    margin-top: 10px;
+  }
+
+  .subtitle {
+    text-align: center;
+    font-size: 12pt;
+    margin-bottom: 6px;
+  }
+
+  .author-block {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 11pt;
+    line-height: 1.6;
+  }
+
+  .date-block {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 11pt;
+    font-style: italic;
+  }
+
+  ul, ol {
+    margin-left: 22px;
+    margin-bottom: 8px;
+  }
+
+  li {
+    margin-bottom: 4px;
+    font-size: 11.5pt;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 8px 0;
+    font-size: 10pt;
+  }
+
+  th, td {
+    border: 1px solid #000;
+    padding: 4px 6px;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  th {
+    background: #e8e8e8;
+    font-weight: bold;
+  }
+
+  .equation-box {
+    border: 1px solid #000;
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-family: 'Courier New', monospace;
+    font-size: 11pt;
+    background: #f9f9f9;
+  }
+
+  .diagram-box {
+    border: 1px solid #000;
+    padding: 8px;
+    margin: 8px 0;
+    font-family: 'Courier New', monospace;
+    font-size: 9pt;
+    white-space: pre;
+    line-height: 1.3;
+    background: #fff;
+    overflow-x: auto;
+  }
+
+  .gap-box {
+    border: 1px dashed #000;
+    padding: 8px 12px;
+    margin: 8px 0;
+    font-style: italic;
+    font-size: 11pt;
+  }
+
+  /* Simple explanation boxes */
+  .explain {
+    border-left: 3px solid #000;
+    padding: 6px 10px;
+    margin: 8px 0;
+    background: #f5f5f5;
+    font-size: 10.5pt;
+  }
+  .explain b { font-size: 10.5pt; }
+  .explain ul { margin-bottom: 2px; }
+  .explain li { font-size: 10pt; margin-bottom: 2px; }
+
+  .slide img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #000;
+    margin: 8px 0;
+  }
+
+  p { margin-bottom: 6px; font-size: 11.5pt; }
+
+  .small { font-size: 9pt; }
+  .bold { font-weight: bold; }
+
+  .two-col {
+    display: flex;
+    gap: 20px;
+  }
+  .two-col > div { flex: 1; }
+
+  .ref-list {
+    font-size: 8.5pt;
+    line-height: 1.4;
+    columns: 2;
+    column-gap: 20px;
+  }
+  .ref-list li {
+    margin-bottom: 3px;
+    font-size: 8.5pt;
+  }
+
+  @media print {
+    body { background: #fff; }
+    .slide {
+      border: none;
+      margin: 0;
+      padding: 0.5in 0.7in;
+      max-width: none;
+      width: 100%;
+      min-height: 0;
+      height: 7.5in;
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1: Title -->
+<div class="slide">
+  <div style="padding-top: 1.5in;"></div>
+  <h1 style="font-size: 18pt; border: none;">Leveraging User Context Prediction for Adaptive Memory Management in AI-Heavy Mobile Environments</h1>
+  <p class="subtitle" style="margin-top: 20px; font-size: 13pt;">Capstone Project &mdash; Project-I Review</p>
+
+  <div class="author-block">
+    <p><b>Presented By:</b></p>
+    <p>[Student Name 1] &mdash; [Roll No.]</p>
+    <p>[Student Name 2] &mdash; [Roll No.]</p>
+    <p>[Student Name 3] &mdash; [Roll No.]</p>
+    <p style="margin-top: 12px;"><b>Guide:</b> [Prof. Name], [Department]</p>
+    <p>[University Name], [City]</p>
+  </div>
+  <div class="date-block">August 2026</div>
+  <span class="slide-number">1</span>
+</div>
+
+<!-- SLIDE 2: Problem Statement -->
+<div class="slide">
+  <h2>1. Problem Statement</h2>
+
+  <p>Mobile devices with 4&ndash;8 GB RAM run concurrent AI workloads (camera AI, translation, on-device LLMs, voice assistants) alongside user applications. Current memory management is <b>reactive</b>:</p>
+
+  <ul>
+    <li><b>LRU-based process cache</b> &mdash; evicts least recently used app; ignores temporal patterns, context, and variable reload cost</li>
+    <li><b>Low Memory Killer (LMKD)</b> &mdash; kills processes only after pressure is critical; no predictive capability</li>
+  </ul>
+
+  <div class="explain">
+    <ul>
+      <li>When too many apps are open, the OS removes older apps from RAM to free space. The evicted app must reload from scratch on next use.</li>
+      <li>Current policies remove apps based only on recency, without considering whether the user is about to switch back to them.</li>
+      <li>This leads to unnecessary cold starts (1&ndash;3s delay), wasted CPU cycles, and excess battery consumption.</li>
+      <li>The proposed approach uses ML-based prediction to anticipate which app will be needed next and retain it in cache proactively.</li>
+    </ul>
+  </div>
+
+  <h3>Consequences</h3>
+  <table>
+    <tr><th>Problem</th><th>Impact</th></tr>
+    <tr><td>App cold-start (process reload)</td><td>1&ndash;3 sec latency per evicted app; 3&ndash;6 sec for AI apps</td></tr>
+    <tr><td>Memory thrashing</td><td>Repeated evict &rarr; reload &rarr; evict cycles</td></tr>
+    <tr><td>AI model cache eviction</td><td>Camera AI, LLM weights evicted; expensive to reload</td></tr>
+    <tr><td>Battery drain</td><td>8&ndash;15% additional consumption from redundant I/O</td></tr>
+  </table>
+
+  <span class="slide-number">2</span>
+</div>
+
+<!-- SLIDE 3: Domain Knowledge -->
+<div class="slide">
+  <h2>2. Domain Background</h2>
+
+  <h3>2.1 Mobile Memory Landscape (2024&ndash;2026)</h3>
+  <ul>
+    <li>Average user: 40&ndash;80 installed apps, 9&ndash;10 active daily, ~65 app switches/day (Statista, 2024)</li>
+    <li>Median Android device: 6 GB RAM; on-device AI models consume 300 MB &ndash; 4 GB each</li>
+    <li>Mobile AI market projected at $46.7B by 2027 (MarketsandMarkets)</li>
+  </ul>
+
+  <h3>2.2 How Android Currently Manages Memory</h3>
+  <table>
+    <tr><th>Mechanism</th><th>How It Works</th><th>Limitation</th></tr>
+    <tr><td>LMKD</td><td>Gives each app a priority score; kills lowest priority apps when memory is full</td><td>Reacts only after memory is already full; can't look ahead</td></tr>
+    <tr><td>LRU Cache</td><td>Keeps a list of background apps; removes the one you haven't used the longest</td><td>Doesn't know if you're about to use that app again in 2 minutes</td></tr>
+    <tr><td>App Standby Buckets</td><td>Puts apps in groups like "active", "frequent", "rare"</td><td>Updates only once an hour; too slow</td></tr>
+    <tr><td>Android 17 Limits</td><td>Sets a fixed memory cap per app based on device</td><td>Fixed rules; can't adapt to your behavior</td></tr>
+  </table>
+
+  <h3>2.3 Cold Start vs. Warm Start</h3>
+  <div class="explain">
+    <ul>
+      <li><b>Warm Start</b> &mdash; process remains resident in RAM; UI state is preserved, and the app resumes within 50&ndash;200 ms with negligible I/O overhead.</li>
+      <li><b>Cold Start</b> &mdash; process has been terminated; the OS must re-create the process, re-initialize resources, and restore state from disk (1&ndash;3 seconds).</li>
+      <li><b>AI-App Cold Start</b> &mdash; additionally requires reloading large model weights (300 MB &ndash; 4 GB) into accelerator memory, increasing latency to 3&ndash;6 seconds.</li>
+    </ul>
+  </div>
+
+  <table>
+    <tr><th>Launch Type</th><th>Latency</th><th>CPU Cost</th><th>I/O Cost</th></tr>
+    <tr><td>Warm (from cache)</td><td>50&ndash;200 ms</td><td>Low</td><td>None</td></tr>
+    <tr><td>Cold (process reload)</td><td>1,000&ndash;3,000 ms</td><td>High</td><td>High</td></tr>
+    <tr><td>Cold (AI app)</td><td>3,000&ndash;6,000 ms</td><td>Very High</td><td>Very High</td></tr>
+  </table>
+
+  <span class="slide-number">3</span>
+</div>
+
+<!-- SLIDE 4: Literature Review Part 1 -->
+<div class="slide">
+  <h2>3. Literature Review (1/2)</h2>
+
+  <h3>3.1 App Usage Prediction</h3>
+  <table>
+    <tr><th>#</th><th>Authors / Title</th><th>Year</th><th>Method</th><th>Gap</th></tr>
+    <tr><td>[1]</td><td>Shin et al. &mdash; Mobile App Usage Prediction Using Contextual Info</td><td>2012</td><td>Naive Bayes, Decision Trees; 72% acc.</td><td>No memory mgmt. integration</td></tr>
+    <tr><td>[2]</td><td>Xu et al. &mdash; Heterogeneous Graph Attention for App Prediction</td><td>2024</td><td>Graph Neural Networks; 78% acc.</td><td>GPU required; too heavy for real-time</td></tr>
+    <tr><td>[3]</td><td>Huang et al. &mdash; AppUsage2Vec</td><td>2019</td><td>App embeddings + attention</td><td>No resource-constrained inference</td></tr>
+    <tr><td>[4]</td><td>Zhao et al. &mdash; ContextSense</td><td>2023</td><td>LSTM + contextual features; 74% acc.</td><td>Deep learning overhead</td></tr>
+    <tr><td>[5]</td><td>Pan et al. &mdash; DeepApp</td><td>2023</td><td>Multi-task learning (usage + duration)</td><td>On-device training infeasible</td></tr>
+  </table>
+
+  <div class="explain">
+    Existing app prediction research achieves 72&ndash;78% accuracy using various ML techniques, but none of these works integrate the prediction output into OS-level memory management decisions. Additionally, most methods (GNNs, LSTMs) require GPU acceleration, making them unsuitable for real-time, per-event processing on mobile devices.
+  </div>
+
+  <h3>3.2 Mobile Memory Management &amp; OS Optimization</h3>
+  <table>
+    <tr><th>#</th><th>Authors / Title</th><th>Year</th><th>Method</th><th>Gap</th></tr>
+    <tr><td>[6]</td><td>AOSP &mdash; LMKD Documentation</td><td>2024</td><td>PSI + oom_adj_score</td><td>Reactive; no prediction</td></tr>
+    <tr><td>[7]</td><td>Lee et al. &mdash; SWAM (Samsung Research)</td><td>2023</td><td>Enhanced OOM + swap-clean</td><td>Static relaunch cost; no ML</td></tr>
+    <tr><td>[8]</td><td>Chen et al. &mdash; Predictive Caching for Mobile</td><td>2024</td><td>Frequency-based caching; 22% fewer cold starts</td><td>Frequency only; no context</td></tr>
+    <tr><td>[9]</td><td>Android &mdash; App Standby Buckets</td><td>2024</td><td>Usage-tier classification</td><td>Hourly updates; coarse-grained</td></tr>
+    <tr><td>[10]</td><td>Park et al. &mdash; RL-Based Memory Management</td><td>2023</td><td>Reinforcement learning on Android traces</td><td>Requires online interaction; fragile</td></tr>
+  </table>
+
+  <div class="explain">
+    Existing memory management strategies are fundamentally reactive &mdash; they intervene only after memory pressure becomes critical. Even the most advanced approaches (SWAM, RL-based policies) rely on static heuristics or require extensive online training. None incorporate real-time, context-aware ML predictions into eviction decisions.
+  </div>
+
+  <span class="slide-number">4</span>
+</div>
+
+<!-- SLIDE 5: Literature Review Part 2 -->
+<div class="slide">
+  <h2>3. Literature Review (2/2)</h2>
+
+  <h3>3.3 ML for System Resource Management</h3>
+  <table>
+    <tr><th>#</th><th>Authors / Title</th><th>Year</th><th>Method</th><th>Gap</th></tr>
+    <tr><td>[11]</td><td>Chen &amp; Guestrin &mdash; XGBoost</td><td>2016</td><td>Gradient boosted trees</td><td>General framework; not app-specific</td></tr>
+    <tr><td>[12]</td><td>Ipek et al. &mdash; Self-Optimizing Memory Controllers</td><td>2008</td><td>RL for DRAM scheduling</td><td>Hardware-level; not mobile apps</td></tr>
+    <tr><td>[13]</td><td>Shi et al. &mdash; Deep Learning for Data Prefetching</td><td>2023</td><td>Neural network cache prefetching</td><td>L1/L2 cache; not app-level</td></tr>
+    <tr><td>[14]</td><td>Hashemi et al. &mdash; Learning Memory Access Patterns</td><td>2018</td><td>LSTM for hardware prefetching</td><td>No user-level context</td></tr>
+  </table>
+
+  <div class="explain">
+    ML-based optimization has been applied to hardware-level cache hierarchies (L1/L2 prefetching, DRAM scheduling), but has not been extended to application-level process cache management on mobile devices. XGBoost, as a tree-based ensemble, offers the required combination of low-latency inference, interpretability, and no GPU dependency.
+  </div>
+
+  <h3>3.4 On-Device AI &amp; Edge Computing</h3>
+  <table>
+    <tr><th>#</th><th>Authors / Title</th><th>Year</th><th>Method</th><th>Gap</th></tr>
+    <tr><td>[15]</td><td>Lin et al. &mdash; MCUNet</td><td>2020</td><td>NAS for IoT (256 KB RAM)</td><td>Model arch.; not OS memory mgmt.</td></tr>
+    <tr><td>[16]</td><td>Laskaridis et al. &mdash; Adaptive Early-Exit Networks</td><td>2024</td><td>Dynamic inference depth</td><td>Per-inference; not cross-app</td></tr>
+    <tr><td>[17]</td><td>He et al. &mdash; On-Device LLM Memory Optimization</td><td>2025</td><td>KV-cache compression, offloading</td><td>Single model; not multi-app</td></tr>
+    <tr><td>[18]</td><td>Dhakal et al. &mdash; mLLM</td><td>2025</td><td>Elastic pipelines for LLM serving</td><td>Complements; single workload focus</td></tr>
+  </table>
+
+  <div class="explain">
+    On-device AI research focuses on optimizing memory for individual model inference (quantization, KV-cache compression, speculative decoding). However, the system-level problem of managing contention between <i>multiple</i> concurrent AI workloads and user applications for limited RAM remains unaddressed.
+  </div>
+
+  <div class="gap-box">
+    <b>Research Gap:</b> No existing work combines ML-based app prediction with OS-level cache eviction scoring, multi-condition preload gating, and automatic thrashing detection &mdash; all working together as one system for AI-heavy mobile devices.
+  </div>
+
+  <span class="slide-number">5</span>
+</div>
+
+<!-- SLIDE 6: Proposed Methodology Overview -->
+<div class="slide">
+  <h2>4. Proposed Methodology</h2>
+
+  <h3>4.1 Approach Overview</h3>
+  <div class="explain">
+    <ul>
+      <li><b>Step 1:</b> On each app-switch event, the system captures a context snapshot (foreground app, temporal features, battery, RAM utilization, AI task state).</li>
+      <li><b>Step 2:</b> The context is passed to an XGBoost classifier that outputs the predicted next application with a calibrated confidence score.</li>
+      <li><b>Step 3:</b> A multi-factor cache priority score is computed for each resident app, incorporating prediction reuse probability alongside recency, frequency, and importance.</li>
+      <li><b>Step 4:</b> Under memory pressure, lowest-scored apps are evicted. If confidence exceeds the threshold and resource conditions are met, the predicted app is pre-loaded.</li>
+      <li><b>Step 5:</b> A thrashing detector monitors eviction-reload cycles and triggers automatic degradation to Safe Mode when instability is detected.</li>
+    </ul>
+  </div>
+
+  <h3>4.2 Predict-Decide-Act Pipeline</h3>
+  <img src="pipeline_diagram.jpg" alt="Predict-Decide-Act Pipeline Diagram" style="width: 100%;">
+
+  <span class="slide-number">6</span>
+</div>
+
+<!-- SLIDE 7: Mathematical Formulation -->
+<div class="slide">
+  <h2>5. Mathematical Formulation</h2>
+
+  <h3>5.1 Cache Priority Score (how we decide which apps to keep)</h3>
+  <div class="equation-box">
+S(a, t) = w&#x2081;&middot;R + w&#x2082;&middot;F + w&#x2083;&middot;P + w&#x2084;&middot;I + w&#x2085;&middot;C &minus; w&#x2086;&middot;M
+
+Weights: w&#x2081;=0.25, w&#x2082;=0.20, w&#x2083;=0.25, w&#x2084;=0.15, w&#x2085;=0.15, w&#x2086;=0.30
+  </div>
+
+  <div class="explain">
+    <ul>
+      <li><b>R (Recency)</b> &mdash; exponential decay based on time since last access; recently used apps score higher</li>
+      <li><b>F (Frequency)</b> &mdash; normalized access count relative to the most-used app in cache</li>
+      <li><b>P (Prediction)</b> &mdash; ML model's predicted reuse probability for this app &larr; <b>key innovation</b></li>
+      <li><b>I (Importance)</b> &mdash; static weight by app category (communication: 0.9, gaming: 0.3)</li>
+      <li><b>C (Context)</b> &mdash; relevance to current temporal, network, and AI-task context</li>
+      <li><b>M (Memory Pressure)</b> &mdash; penalty that increases eviction aggressiveness when RAM utilization exceeds 70%</li>
+    </ul>
+    <p>Apps with the <b>highest</b> composite score are retained; lowest-scored apps are evicted first under pressure.</p>
+  </div>
+
+  <h3>5.2 Preload Gate (5 safety checks before pre-loading an app)</h3>
+  <div class="equation-box">
+PRELOAD = YES only if ALL 5 conditions are true:
+  (1) ML confidence > 60%          (we're fairly sure you'll use it)
+  (2) Enough free RAM available    (phone won't run out of memory)
+  (3) Battery > 20%               (don't waste battery when it's low)
+  (4) Not currently thrashing      (system is stable)
+  (5) App not already in memory    (no point loading what's already there)
+  </div>
+
+  <h3>5.3 Thrashing Detection</h3>
+  <div class="explain">
+    <ul>
+      <li><b>Thrashing</b> occurs when the system repeatedly evicts and reloads the same applications within a short window, indicating that eviction decisions are counterproductive.</li>
+      <li>The detector monitors eviction and reload events in a sliding 120-second window, computing a composite thrashing score from reload frequency, cache miss rate, and eviction rate.</li>
+      <li>When the score exceeds 0.7, the system enters <b>Safe Mode</b> &mdash; preloading is disabled and eviction thresholds are tightened.</li>
+      <li>Safe Mode exits automatically when the thrashing score drops below 0.3 for 60 continuous seconds.</li>
+    </ul>
+  </div>
+
+  <span class="slide-number">7</span>
+</div>
+
+<!-- SLIDE 8: ML Model Details -->
+<div class="slide">
+  <h2>6. ML Model Selection</h2>
+
+  <h3>6.1 Why We Chose XGBoost (and not Deep Learning)</h3>
+  <table>
+    <tr><th>Criterion</th><th>Markov Chain (Baseline)</th><th>XGBoost (Selected)</th><th>LSTM (Rejected)</th></tr>
+    <tr><td>Speed</td><td>Instant (&lt;1 ms)</td><td>Very fast (~2 ms)</td><td>Slow (~15 ms)</td></tr>
+    <tr><td>Context-awareness</td><td>Knows only current app</td><td>Knows time, battery, RAM, history, etc.</td><td>Same as XGBoost</td></tr>
+    <tr><td>Can we explain decisions?</td><td>Yes (simple matrix)</td><td>Yes (feature importance)</td><td>No (black box)</td></tr>
+    <tr><td>Needs a GPU?</td><td>No</td><td>No</td><td>Yes</td></tr>
+    <tr><td>Expected accuracy</td><td>55&ndash;65%</td><td>70&ndash;80%</td><td>72&ndash;82%</td></tr>
+  </table>
+
+  <div class="explain">
+    <ul>
+      <li><b>Markov Chain</b> &mdash; first-order transition model. Predicts based solely on the current app using historical transition frequencies. Context-blind (ignores time, battery, device state).</li>
+      <li><b>XGBoost</b> &mdash; gradient boosted decision tree ensemble. Processes 19 contextual features per event with ~2ms inference latency. Provides interpretable feature importance rankings, which are critical for patent claim substantiation.</li>
+      <li><b>LSTM</b> &mdash; recurrent neural network. Marginally higher accuracy (+2%), but ~7x slower inference and requires GPU acceleration via TFLite, introducing significant energy overhead.</li>
+    </ul>
+  </div>
+
+  <h3>6.2 What Information the Model Uses (19 features)</h3>
+  <div class="two-col">
+    <div>
+      <p><b>Raw Features (12):</b></p>
+      <ul>
+        <li>current_app, prev_app_1/2/3</li>
+        <li>hour_of_day, day_of_week</li>
+        <li>battery_level, is_charging</li>
+        <li>ram_free_mb, network_type</li>
+        <li>ai_task_active, app_category</li>
+      </ul>
+    </div>
+    <div>
+      <p><b>Derived Features (7):</b></p>
+      <ul>
+        <li>ram_utilization (how full is RAM)</li>
+        <li>is_peak_hour (morning/lunch/evening)</li>
+        <li>is_weekend</li>
+        <li>session_depth (how long into session)</li>
+        <li>time_since_last_switch</li>
+        <li>battery_bucket (low/med/high)</li>
+        <li>prev_app_category</li>
+      </ul>
+    </div>
+  </div>
+
+  <span class="slide-number">8</span>
+</div>
+
+<!-- SLIDE 9: System Architecture -->
+<div class="slide">
+  <h2>7. System Architecture (HLD)</h2>
+
+  <img src="hld_architecture.jpg" alt="End-to-End High Level Design Architecture Diagram" style="width: 100%;">
+
+  <div class="explain">
+    <ul>
+      <li>Each app-switch event triggers the Context Collection Layer, which captures 12 device signals into a ContextSnapshot.</li>
+      <li>The Prediction Layer transforms the snapshot into features and runs XGBoost inference to produce a PredictionResult with calibrated confidence.</li>
+      <li>The Memory Decision Layer integrates prediction output into cache scoring, evaluates preload conditions, and monitors for thrashing.</li>
+      <li>The Action Executor applies the resulting MemoryActionPlan (evict/preload/retain) and feeds the updated MemoryState back for the next cycle.</li>
+      <li>The Simulation Engine replays 50,000 recorded events to benchmark against baseline policies with statistical validation.</li>
+    </ul>
+  </div>
+
+  <h3>Data Flow Summary</h3>
+  <table>
+    <tr><th>From</th><th>To</th><th>Data Passed</th></tr>
+    <tr><td>Module 1</td><td>Module 2</td><td>ContextSnapshot (12 device signals)</td></tr>
+    <tr><td>Module 2</td><td>Module 3</td><td>PredictionResult (predicted app + confidence %)</td></tr>
+    <tr><td>Module 3</td><td>Module 4</td><td>MemoryActionPlan (list of evictions + preloads)</td></tr>
+    <tr><td>Module 4</td><td>Module 3</td><td>Updated MemoryState (feedback loop)</td></tr>
+  </table>
+
+  <span class="slide-number">9</span>
+</div>
+
+<!-- SLIDE 10: Module Descriptions -->
+<div class="slide">
+  <h2>8. Module Descriptions</h2>
+
+  <table>
+    <tr><th>Module</th><th>What It Does (Simple)</th><th>Input</th><th>Output</th><th>Key Classes</th></tr>
+    <tr>
+      <td><b>1. Context Collection</b></td>
+      <td>Takes a snapshot of your phone's current state every time you switch apps</td>
+      <td>Raw device signals</td>
+      <td>ContextSnapshot</td>
+      <td>ContextCollector, SystemMonitor</td>
+    </tr>
+    <tr>
+      <td><b>2. Prediction</b></td>
+      <td>Predicts which app you'll open next and how confident it is</td>
+      <td>ContextSnapshot</td>
+      <td>PredictionResult (app + confidence)</td>
+      <td>FeatureEngine, XGBoostPredictor</td>
+    </tr>
+    <tr>
+      <td><b>3. Memory Decision</b></td>
+      <td>Scores each cached app (keep or remove?) using 6-factor formula. Also checks if pre-loading is safe and watches for thrashing.</td>
+      <td>PredictionResult + MemoryState</td>
+      <td>MemoryActionPlan</td>
+      <td>CacheScorer, PreloadGate, ThrashDetector</td>
+    </tr>
+    <tr>
+      <td><b>4. Action Executor</b></td>
+      <td>Carries out the decisions &mdash; actually removes or loads apps in memory</td>
+      <td>MemoryActionPlan</td>
+      <td>Updated MemoryState</td>
+      <td>MemoryActionExecutor</td>
+    </tr>
+    <tr>
+      <td><b>5. Simulation</b></td>
+      <td>Replays 50,000 app switches to test our system vs. existing methods with statistics</td>
+      <td>UserSession + Policy</td>
+      <td>BenchmarkResult (hit rate, latency, etc.)</td>
+      <td>SimulationEngine, MetricsCollector</td>
+    </tr>
+    <tr>
+      <td><b>6. Dashboard</b></td>
+      <td>Web page showing real-time memory map, predictions, and comparison charts</td>
+      <td>All module outputs</td>
+      <td>Interactive web UI</td>
+      <td>Streamlit, Plotly</td>
+    </tr>
+  </table>
+
+  <h3>Inter-Module Data Flow</h3>
+  <table>
+    <tr><th>Step</th><th>From</th><th>To</th><th>Data Object</th></tr>
+    <tr><td>1</td><td>Device Event</td><td>Module 1</td><td>App foreground transition trigger</td></tr>
+    <tr><td>2</td><td>Module 1</td><td>Module 2</td><td>ContextSnapshot (12 signals)</td></tr>
+    <tr><td>3</td><td>Module 2</td><td>Module 3</td><td>PredictionResult (app, confidence, top-K)</td></tr>
+    <tr><td>4</td><td>Module 3</td><td>Module 4</td><td>MemoryActionPlan (evictions, preloads, mode)</td></tr>
+    <tr><td>5</td><td>Module 4</td><td>Module 3</td><td>Updated MemoryState (feedback loop)</td></tr>
+  </table>
+
+  <span class="slide-number">10</span>
+</div>
+
+<!-- SLIDE 11: Class Diagram -->
+<div class="slide">
+  <h2>9. Class Diagram</h2>
+
+  <img src="class_diagram.jpg" alt="UML Class Diagram" style="width: 100%;">
+
+  <div class="explain">
+    <ul>
+      <li><b>ContextSnapshot</b> &mdash; data transfer object encapsulating 12 device state signals captured at each app-switch event.</li>
+      <li><b>FeatureEngine</b> &mdash; transforms categorical and numerical inputs into the feature vector consumed by the ML predictor.</li>
+      <li><b>Predictor interface</b> &mdash; defines a common contract; implemented by both MarkovPredictor (baseline) and XGBoostPredictor (primary).</li>
+      <li><b>CacheScoringEngine</b> &mdash; computes the 6-factor weighted priority score for each cached application.</li>
+      <li><b>ThrashingDetector</b> &mdash; monitors eviction-reload patterns within a sliding window and triggers Safe Mode transitions.</li>
+      <li><b>MemoryDecisionController</b> &mdash; orchestrator that composes the scorer, preload gate, and thrashing detector to produce a MemoryActionPlan.</li>
+    </ul>
+  </div>
+
+  <span class="slide-number">11</span>
+</div>
+
+<!-- SLIDE 12: Comparison with Existing -->
+<div class="slide">
+  <h2>10. Comparison with Existing Approaches</h2>
+
+  <table>
+    <tr><th>Feature</th><th>NoOpt</th><th>LRU</th><th>Android LMKD</th><th>Static Preload</th><th style="background:#ddd;"><b>Proposed</b></th></tr>
+    <tr><td>Eviction strategy</td><td>FIFO</td><td>Least recent</td><td>oom_adj + PSI</td><td>LRU + top-3</td><td style="background:#ddd;"><b>ML-weighted scoring</b></td></tr>
+    <tr><td>Prediction-aware</td><td>No</td><td>No</td><td>No</td><td>Partial</td><td style="background:#ddd;"><b>Yes (real-time ML)</b></td></tr>
+    <tr><td>Context-aware</td><td>No</td><td>No</td><td>No</td><td>No</td><td style="background:#ddd;"><b>Yes (12+ signals)</b></td></tr>
+    <tr><td>Preload capability</td><td>No</td><td>No</td><td>No</td><td>Yes (fixed)</td><td style="background:#ddd;"><b>Yes (5-gate)</b></td></tr>
+    <tr><td>Thrashing detection</td><td>No</td><td>No</td><td>PSI (reactive)</td><td>No</td><td style="background:#ddd;"><b>Yes (proactive)</b></td></tr>
+    <tr><td>Expected cache hit rate</td><td>~40%</td><td>~55%</td><td>~58%</td><td>~62%</td><td style="background:#ddd;"><b>&gt;75%</b></td></tr>
+    <tr><td>Expected avg latency</td><td>~1200 ms</td><td>~900 ms</td><td>~850 ms</td><td>~750 ms</td><td style="background:#ddd;"><b>&lt;400 ms</b></td></tr>
+  </table>
+
+  <div class="explain">
+    <ul>
+      <li><b>NoOpt</b> &mdash; FIFO eviction with no optimization; serves as a lower-bound baseline.</li>
+      <li><b>LRU</b> &mdash; evicts the least recently accessed app; effective for temporal locality but context-blind.</li>
+      <li><b>Android LMKD</b> &mdash; production Android mechanism using PSI pressure detection and priority-based killing; reactive, no prediction.</li>
+      <li><b>Static Preload</b> &mdash; pre-loads the top-N most frequently used apps; context-independent and cannot adapt to varying usage patterns.</li>
+      <li><b>Proposed</b> &mdash; integrates real-time ML prediction confidence into a multi-factor eviction score with resource-gated preloading and automatic thrashing degradation.</li>
+    </ul>
+  </div>
+
+  <h3>What Makes Our System Novel (4 Key Contributions)</h3>
+  <ol>
+    <li><b>Prediction in the eviction formula</b> &mdash; first system to use ML confidence as a weighted number in deciding what to keep/remove</li>
+    <li><b>5-condition preload safety gate</b> &mdash; won't blindly pre-load; checks confidence, RAM, battery, stability, and cache status first</li>
+    <li><b>Self-monitoring thrashing detection</b> &mdash; automatically goes to "safe mode" when making bad decisions</li>
+    <li><b>AI-workload awareness</b> &mdash; gives higher protection to expensive AI model caches (camera AI, LLM weights)</li>
+  </ol>
+
+  <span class="slide-number">12</span>
+</div>
+
+<!-- SLIDE 13: Evaluation Plan -->
+<div class="slide">
+  <h2>11. Evaluation Plan</h2>
+
+  <h3>11.1 How We Will Test</h3>
+  <div class="explain">
+    Since modifying the Android kernel for direct evaluation is infeasible, we employ a discrete-event simulator that replays 50,000 synthetic app-switch events (across 5 user persona profiles) through each policy. Each configuration is run 30 times to ensure statistical significance, validated using paired t-tests (p &lt; 0.05).
+  </div>
+
+  <table>
+    <tr><th>Parameter</th><th>Configuration</th></tr>
+    <tr><td>Synthetic data</td><td>50,000 app-switch events across 5 user personas</td></tr>
+    <tr><td>Policies compared</td><td>NoOpt, LRU, StaticPreload, Proposed (4 policies)</td></tr>
+    <tr><td>RAM configurations</td><td>4 GB, 6 GB, 8 GB</td></tr>
+    <tr><td>Benchmark runs</td><td>4 &times; 5 &times; 3 &times; 30 = <b>1,800 simulations</b></td></tr>
+    <tr><td>Ablation experiments</td><td>6 &times; 5 &times; 3 &times; 30 = <b>2,700 simulations</b></td></tr>
+    <tr><td>Statistical test</td><td>Paired t-test, p &lt; 0.05</td></tr>
+  </table>
+
+  <h3>11.2 What We Measure (KPIs)</h3>
+  <table>
+    <tr><th>KPI</th><th>What It Means</th><th>Target</th></tr>
+    <tr><td>Cache Hit Rate</td><td>How often the app you open is already in memory (no reload)</td><td>&gt;75%</td></tr>
+    <tr><td>Avg Launch Latency</td><td>Average time to open an app (lower = better)</td><td>&lt;400 ms</td></tr>
+    <tr><td>Thrashing Events</td><td>Times the system evicts an app and immediately needs it back</td><td>&lt;3 per session</td></tr>
+    <tr><td>Preload Success</td><td>How often a pre-loaded app was actually used</td><td>&gt;60%</td></tr>
+    <tr><td>Prediction Accuracy</td><td>How often the ML model guesses the right next app</td><td>&gt;70%</td></tr>
+  </table>
+
+  <h3>11.3 Ablation Study (which features matter most?)</h3>
+  <div class="explain">
+    The ablation study systematically removes feature groups to quantify their individual contribution to prediction accuracy. This validates the model design and identifies which contextual signals are most informative. The largest expected degradation (~10&ndash;15%) occurs when app history features are removed, confirming sequential usage patterns as the primary predictive signal.
+  </div>
+
+  <table>
+    <tr><th>Experiment</th><th>Features Removed</th><th>Expected Impact</th></tr>
+    <tr><td>Full model</td><td>None</td><td>Best accuracy</td></tr>
+    <tr><td>No temporal</td><td>hour, day, is_weekend, is_peak</td><td>~5&ndash;8% drop</td></tr>
+    <tr><td>No resource</td><td>battery, ram_free, is_charging</td><td>~2&ndash;4% drop</td></tr>
+    <tr><td>No history</td><td>prev_app_1/2/3</td><td>~10&ndash;15% drop</td></tr>
+    <tr><td>No category</td><td>app_category, prev_app_category</td><td>~2&ndash;3% drop</td></tr>
+    <tr><td>Current app only</td><td>All except current_app</td><td>Drops to Markov baseline</td></tr>
+  </table>
+
+  <span class="slide-number">13</span>
+</div>
+
+<!-- SLIDE 14: Timeline -->
+<div class="slide">
+  <h2>12. Implementation Timeline</h2>
+
+  <table>
+    <tr><th>Week</th><th>Phase</th><th>What We Build</th></tr>
+    <tr><td>1</td><td>Foundation + Data Generation</td><td>Set up project, create fake app profiles (15-20 apps), generate 50K simulated app-switch events</td></tr>
+    <tr><td>2</td><td>ML Models</td><td>Build the feature converter, train Markov (baseline) and XGBoost (main) models, test accuracy</td></tr>
+    <tr><td>3</td><td>Memory Simulator</td><td>Build the memory state tracker, implement 3 baseline policies + our proposed system, initial results</td></tr>
+    <tr><td>4</td><td>Rigorous Testing</td><td>Run 1,800 benchmark simulations + 2,700 ablation experiments, compute statistics</td></tr>
+    <tr><td>5</td><td>Visualization</td><td>Create charts for the paper/report, build Streamlit dashboard</td></tr>
+    <tr><td>6&ndash;7</td><td>Patent Filing</td><td>Write patent specification, search prior art, file with Indian Patent Office</td></tr>
+    <tr><td>8&ndash;9</td><td>IEEE Paper</td><td>Write 6-page IEEE paper in LaTeX, capstone report, submit to conference</td></tr>
+  </table>
+
+  <h3>Technology Stack</h3>
+  <table>
+    <tr><th>Component</th><th>Technology</th><th>Why</th></tr>
+    <tr><td>Language</td><td>Python 3.10+</td><td>Best for ML and data science</td></tr>
+    <tr><td>ML Model</td><td>XGBoost, scikit-learn</td><td>Fast, no GPU needed, interpretable</td></tr>
+    <tr><td>Data</td><td>pandas, numpy</td><td>Standard data processing</td></tr>
+    <tr><td>Statistics</td><td>scipy</td><td>t-tests, p-values</td></tr>
+    <tr><td>Charts</td><td>matplotlib, seaborn, plotly</td><td>Publication-quality figures</td></tr>
+    <tr><td>Dashboard</td><td>Streamlit</td><td>Quick interactive web apps</td></tr>
+    <tr><td>Database</td><td>SQLite</td><td>Lightweight, no setup needed</td></tr>
+    <tr><td>Testing</td><td>pytest</td><td>Standard Python test framework</td></tr>
+  </table>
+
+  <span class="slide-number">14</span>
+</div>
+
+<!-- SLIDE 15: References -->
+<div class="slide">
+  <h2>13. References</h2>
+
+  <ol class="ref-list">
+    <li>C. Shin, J.-H. Hong, and A. K. Dey, "Prediction of Mobile Application Usage Using Contextual Information," <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i>, vol. 6, no. 4, 2012.</li>
+    <li>T. Xu, Y. Zhu, and R. Zhong, "Predicting Mobile App Usage with Heterogeneous Graph Attention Networks," <i>IEEE Trans. Mobile Computing</i>, vol. 23, no. 5, pp. 4512-4525, 2024.</li>
+    <li>Z. Huang, J. Ma, and Y. Li, "AppUsage2Vec: Modeling Smartphone App Usage for Prediction," <i>Proc. IEEE ICDE</i>, pp. 1322-1333, 2019.</li>
+    <li>S. Zhao, J. Xu, and K. Ramamritham, "ContextSense: Context-Aware Mobile App Prediction via Deep Sequential Learning," <i>ACM UbiComp</i>, 2023.</li>
+    <li>H. Pan, C. Xu, and Y. Zhang, "DeepApp: Predicting Personalized Smartphone App Usage via Context-aware Multi-task Learning," <i>ACM TIST</i>, vol. 14, no. 2, 2023.</li>
+    <li>Google AOSP, "Low Memory Killer Daemon (LMKD)," <i>AOSP Documentation</i>, 2024.</li>
+    <li>S. Lee, J. Kim, and H. Bahn, "SWAM: Revisiting Swap and OOM Killer for Improving Application Responsiveness on Mobile Devices," <i>Samsung Research, MobiSys Workshop</i>, 2023.</li>
+    <li>Y. Chen, L. Yang, and W. Zhang, "Memory-Efficient Mobile Application Management via Predictive Caching," <i>IEEE Access</i>, vol. 12, pp. 34521-34534, 2024.</li>
+    <li>Android Developers, "App Hibernation and Standby Buckets," <i>Android Developer Documentation</i>, 2024.</li>
+    <li>J. Park, Y. Lee, and S. Ha, "Learning-Based Memory Management for Mobile Devices," <i>Proc. IEEE/ACM MICRO</i>, pp. 289-301, 2023.</li>
+    <li>T. Chen and C. Guestrin, "XGBoost: A Scalable Tree Boosting System," <i>Proc. ACM SIGKDD</i>, pp. 785-794, 2016.</li>
+    <li>E. Ipek, O. Mutlu, and J. F. Martinez, "Self-Optimizing Memory Controllers: A RL Approach," <i>Proc. IEEE/ACM ISCA</i>, pp. 39-50, 2008.</li>
+    <li>Z. Shi, X. Huang, and A. Jain, "Applying Deep Learning to Data Prefetching," <i>Proc. IEEE/ACM MICRO</i>, 2023.</li>
+    <li>M. Hashemi, K. Swersky, and J. A. Smith, "Learning Memory Access Patterns," <i>Proc. ICML</i>, pp. 1919-1928, 2018.</li>
+    <li>J. Lin, W. M. Chen, and S. Han, "MCUNet: Tiny Deep Learning on IoT Devices," <i>Proc. NeurIPS</i>, 2020.</li>
+    <li>S. Laskaridis, A. Kouris, and N. D. Lane, "Adaptive Inference through Early-Exit Networks for Edge Devices," <i>Proc. ACM MobiSys</i>, 2024.</li>
+    <li>Q. He, Y. Chen, and X. Wang, "On-Device LLM Inference: Memory Optimization Strategies for Mobile Deployment," <i>Proc. IEEE Edge Computing</i>, pp. 156-167, 2025.</li>
+    <li>A. Dhakal, S. Kulkarni, and I. Stoica, "mLLM: Multi-dimensional Optimization for On-Device LLM Serving," <i>Proc. USENIX OSDI</i>, 2025.</li>
+  </ol>
+
+  <div style="text-align: center; margin-top: 40px; font-size: 14pt; font-weight: bold;">
+    Thank You
+  </div>
+
+  <span class="slide-number">15</span>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+Persona,Hit Rate,w_recency,w_frequency,w_prediction,w_importance,w_context,w_pressure
+developer,89.6%,0.173,0.203,0.293,0.180,0.151,0.079
+power_user,74.4%,0.121,0.250,0.305,0.314,0.010,0.093
+DEFAULT (hand-tuned),—,0.250,0.200,0.250,0.150,0.150,0.300

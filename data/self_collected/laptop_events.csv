@@ -1,0 +1,56 @@
+timestamp,current_app,previous_app,next_app,category,hour,day_of_week,battery,is_charging,ram_total_mb,ram_free_mb,ram_usage_pct,is_switch,window_title,process
+2026-09-15T01:11:22.750204,Terminal,Terminal,Antigravity IDE,productivity,1,1,1.0,1,24261.0,13496.0,44,0,Windows PowerShell,WindowsTerminal.exe
+2026-09-15T01:11:28.211614,Antigravity IDE,Terminal,SearchHost,productivity,1,1,1.0,1,24261.0,13455.0,44,1,capstone - Antigravity IDE - JUDGE_DEMO_GUIDE.md,Antigravity IDE.exe
+2026-09-15T01:11:33.755872,SearchHost,Antigravity IDE,MS Teams,other,1,1,1.0,1,24261.0,13349.0,44,1,,SearchHost.exe
+2026-09-15T01:11:39.417953,MS Teams,SearchHost,MS Teams,productivity,1,1,1.0,1,24261.0,12544.0,48,1,Microsoft Teams,ms-teams.exe
+2026-09-15T01:11:45.291295,MS Teams,MS Teams,SearchHost,productivity,1,1,1.0,1,24261.0,11189.0,53,0,Teams and Channels | Cloud Computing_Fall 26-27 | General | vit.ac.in | atharv.sinha2023@vitstudent.,ms-teams.exe
+2026-09-15T01:11:50.786532,SearchHost,MS Teams,File Explorer,other,1,1,1.0,1,24261.0,10685.0,55,1,,SearchHost.exe
+2026-09-15T01:11:56.249003,File Explorer,SearchHost,SearchHost,utility,1,1,1.0,1,24261.0,10642.0,56,1,,explorer.exe
+2026-09-15T01:12:01.728664,SearchHost,File Explorer,Telegram Desktop,other,1,1,1.0,1,24261.0,10393.0,57,1,,SearchHost.exe
+2026-09-15T01:12:07.228073,Telegram Desktop,SearchHost,Terminal,messaging,1,1,1.0,1,24261.0,10097.0,58,1,Telegram,Telegram.exe
+2026-09-15T01:12:12.727134,Terminal,Telegram Desktop,Telegram Desktop,productivity,1,1,1.0,1,24261.0,10142.0,58,1,Windows PowerShell,WindowsTerminal.exe
+2026-09-15T01:12:18.196171,Telegram Desktop,Terminal,Telegram Desktop,messaging,1,1,1.0,1,24261.0,10524.0,56,1,Telegram (133780),Telegram.exe
+2026-09-15T01:12:23.680853,Telegram Desktop,Telegram Desktop,mscopilot,messaging,1,1,1.0,1,24261.0,10580.0,56,0,Telegram (133780),Telegram.exe
+2026-09-15T01:12:29.207958,mscopilot,Telegram Desktop,mscopilot,other,1,1,1.0,1,24261.0,10300.0,57,1,Copilot,mscopilot.exe
+2026-09-15T01:12:34.697102,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10033.0,58,0,Copilot,mscopilot.exe
+2026-09-15T01:12:40.204202,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10096.0,58,0,Copilot,mscopilot.exe
+2026-09-15T01:12:45.671477,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10211.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:12:51.127468,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10269.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:12:56.584342,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10307.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:13:02.037573,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10405.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:13:07.505769,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10419.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:13:12.982508,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10434.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:13:18.467437,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10384.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:13:23.922477,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10395.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:13:29.371787,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10406.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:13:34.837292,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10403.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:13:40.296409,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10455.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:13:45.749603,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10503.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:13:51.192528,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10491.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:13:56.656645,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10465.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:02.117328,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10503.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:07.588372,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10521.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:13.035802,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10521.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:18.488622,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10524.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:23.944472,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10527.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:29.397100,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10530.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:34.845431,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10530.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:40.294343,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10524.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:45.741745,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10471.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:51.189185,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10472.0,56,0,Copilot,mscopilot.exe
+2026-09-15T01:14:56.665051,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10238.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:15:02.123923,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10235.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:15:07.588943,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10238.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:15:13.033173,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10318.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:15:18.484995,mscopilot,mscopilot,mscopilot,other,1,1,1.0,1,24261.0,10322.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:15:23.948013,mscopilot,mscopilot,comet,other,1,1,1.0,1,24261.0,10294.0,57,0,Copilot,mscopilot.exe
+2026-09-15T01:15:29.533750,comet,mscopilot,File Explorer,other,1,1,1.0,1,24261.0,10250.0,57,1,,comet.exe
+2026-09-15T01:15:35.033453,File Explorer,comet,File Explorer,utility,1,1,1.0,1,24261.0,10540.0,56,1,,explorer.exe
+2026-09-15T01:15:40.488922,File Explorer,File Explorer,File Explorer,utility,1,1,1.0,1,24261.0,10595.0,56,0,,explorer.exe
+2026-09-15T01:15:45.944264,File Explorer,File Explorer,WhatsApp Desktop,utility,1,1,1.0,1,24261.0,10571.0,56,0,,explorer.exe
+2026-09-15T01:15:51.395759,WhatsApp Desktop,File Explorer,File Explorer,messaging,1,1,1.0,1,24261.0,10641.0,56,1,WhatsApp,WhatsApp.Root.exe
+2026-09-15T01:15:56.841501,File Explorer,WhatsApp Desktop,File Explorer,utility,1,1,1.0,1,24261.0,11069.0,54,1,,explorer.exe
+2026-09-15T01:16:02.286632,File Explorer,File Explorer,Windows App,utility,1,1,1.0,1,24261.0,11065.0,54,0,,explorer.exe
+2026-09-15T01:16:07.765704,Windows App,File Explorer,Windows App,utility,1,1,1.0,1,24261.0,11001.0,54,1,Media Player,ApplicationFrameHost.exe
+2026-09-15T01:16:13.227144,Windows App,Windows App,Windows App,utility,1,1,1.0,1,24261.0,10817.0,55,0,Media Player,ApplicationFrameHost.exe
+2026-09-15T01:16:18.685210,Windows App,Windows App,Windows App,utility,1,1,1.0,1,24261.0,10852.0,55,0,Media Player,ApplicationFrameHost.exe

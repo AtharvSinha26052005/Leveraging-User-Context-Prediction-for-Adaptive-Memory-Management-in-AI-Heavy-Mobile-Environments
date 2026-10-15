@@ -1,0 +1,312 @@
+{
+  "users": [
+    {
+      "user_id": "user_rahul",
+      "name": "Rahul",
+      "persona": "student",
+      "age": 20,
+      "occupation": "B.Tech CSE Student",
+      "device_model": "Redmi Note 12",
+      "device_ram_gb": 4,
+      "sim_days": 10,
+      "wake_hour_weekday": 7,
+      "wake_hour_weekend": 9,
+      "sleep_hour": 1,
+      "app_weights": {
+        "Instagram": 0.15, "YouTube": 0.13, "WhatsApp": 0.14, "ChatGPT": 0.08,
+        "Telegram": 0.06, "Spotify": 0.05, "Docs": 0.05, "Gmail": 0.04,
+        "Twitter": 0.04, "Camera": 0.04, "CandyCrush": 0.04, "TikTok": 0.04,
+        "PhonePe": 0.03, "Maps": 0.02, "Calendar": 0.02, "Chrome": 0.03,
+        "Settings": 0.01, "Netflix": 0.03
+      },
+      "morning_routine": ["WhatsApp", "Instagram", "YouTube"],
+      "evening_routine": ["Instagram", "YouTube", "WhatsApp", "Spotify"],
+      "transitions": {
+        "Instagram": ["WhatsApp", "Camera", "TikTok", "YouTube"],
+        "WhatsApp": ["Instagram", "YouTube", "Telegram"],
+        "YouTube": ["Instagram", "WhatsApp", "Spotify"],
+        "ChatGPT": ["Docs", "Gmail", "Chrome", "WhatsApp"],
+        "Chrome": ["WhatsApp", "ChatGPT", "Gmail"]
+      },
+      "weekend_boost": {"gaming": 1.6, "entertainment": 1.5, "social": 1.3},
+      "weekend_suppress": {"productivity": 0.5}
+    },
+    {
+      "user_id": "user_priya",
+      "name": "Priya",
+      "persona": "student",
+      "age": 21,
+      "occupation": "B.Sc Psychology Student",
+      "device_model": "Samsung Galaxy A54",
+      "device_ram_gb": 6,
+      "sim_days": 10,
+      "wake_hour_weekday": 7,
+      "wake_hour_weekend": 10,
+      "sleep_hour": 0,
+      "app_weights": {
+        "Instagram": 0.18, "WhatsApp": 0.16, "Spotify": 0.08, "YouTube": 0.10,
+        "Snapchat": 0.07, "Telegram": 0.05, "Docs": 0.04, "Gmail": 0.04,
+        "Camera": 0.05, "Netflix": 0.04, "PhonePe": 0.03, "Maps": 0.02,
+        "Calendar": 0.02, "Chrome": 0.03, "Pinterest": 0.03, "Settings": 0.01,
+        "Twitter": 0.02, "ChatGPT": 0.03
+      },
+      "morning_routine": ["WhatsApp", "Instagram", "Spotify"],
+      "evening_routine": ["Instagram", "Netflix", "WhatsApp"],
+      "transitions": {
+        "Instagram": ["WhatsApp", "Camera", "Snapchat"],
+        "WhatsApp": ["Instagram", "YouTube", "Spotify"],
+        "Spotify": ["Instagram", "WhatsApp"],
+        "Camera": ["Instagram", "WhatsApp"],
+        "Netflix": ["WhatsApp", "Instagram"]
+      },
+      "weekend_boost": {"entertainment": 1.6, "social": 1.4},
+      "weekend_suppress": {"productivity": 0.4}
+    },
+    {
+      "user_id": "user_amit",
+      "name": "Amit",
+      "persona": "professional",
+      "age": 28,
+      "occupation": "Software Engineer at TCS",
+      "device_model": "OnePlus 12",
+      "device_ram_gb": 8,
+      "sim_days": 14,
+      "wake_hour_weekday": 6,
+      "wake_hour_weekend": 8,
+      "sleep_hour": 23,
+      "app_weights": {
+        "Gmail": 0.14, "WhatsApp": 0.12, "Calendar": 0.08, "Docs": 0.08,
+        "Maps": 0.07, "Chrome": 0.06, "Slack": 0.06, "LinkedIn": 0.05,
+        "YouTube": 0.05, "Instagram": 0.04, "Spotify": 0.04, "PhonePe": 0.04,
+        "Camera": 0.03, "Netflix": 0.04, "ChatGPT": 0.04, "Settings": 0.02,
+        "Twitter": 0.02, "Telegram": 0.02
+      },
+      "morning_routine": ["Gmail", "Calendar", "Maps", "WhatsApp"],
+      "evening_routine": ["YouTube", "Netflix", "WhatsApp"],
+      "transitions": {
+        "Gmail": ["Calendar", "Docs", "Chrome", "WhatsApp"],
+        "Calendar": ["Gmail", "Maps", "Docs"],
+        "Maps": ["WhatsApp", "Spotify", "Gmail"],
+        "Slack": ["Gmail", "Docs", "Chrome"],
+        "LinkedIn": ["Gmail", "Chrome", "WhatsApp"]
+      },
+      "weekend_boost": {"entertainment": 1.8, "social": 1.3, "navigation": 1.4},
+      "weekend_suppress": {"productivity": 0.4}
+    },
+    {
+      "user_id": "user_neha",
+      "name": "Neha",
+      "persona": "professional",
+      "age": 30,
+      "occupation": "Product Manager at Flipkart",
+      "device_model": "Samsung Galaxy S24",
+      "device_ram_gb": 8,
+      "sim_days": 14,
+      "wake_hour_weekday": 6,
+      "wake_hour_weekend": 8,
+      "sleep_hour": 23,
+      "app_weights": {
+        "Gmail": 0.12, "WhatsApp": 0.13, "Slack": 0.10, "LinkedIn": 0.07,
+        "Calendar": 0.06, "Docs": 0.06, "Chrome": 0.05, "Maps": 0.04,
+        "Instagram": 0.06, "YouTube": 0.05, "Spotify": 0.04, "PhonePe": 0.04,
+        "Camera": 0.03, "Netflix": 0.03, "CandyCrush": 0.04, "Settings": 0.02,
+        "Twitter": 0.03, "ChatGPT": 0.03
+      },
+      "morning_routine": ["Gmail", "Slack", "Calendar", "WhatsApp"],
+      "evening_routine": ["Instagram", "CandyCrush", "Netflix", "WhatsApp"],
+      "transitions": {
+        "Gmail": ["Slack", "Calendar", "Docs"],
+        "Slack": ["Gmail", "Chrome", "Docs"],
+        "LinkedIn": ["Gmail", "Chrome", "WhatsApp"],
+        "CandyCrush": ["WhatsApp", "Instagram"],
+        "Instagram": ["WhatsApp", "Camera"]
+      },
+      "weekend_boost": {"gaming": 1.8, "social": 1.5, "entertainment": 1.6},
+      "weekend_suppress": {"productivity": 0.3}
+    },
+    {
+      "user_id": "user_vikram",
+      "name": "Vikram",
+      "persona": "power_user",
+      "age": 24,
+      "occupation": "Freelance Content Creator",
+      "device_model": "ASUS ROG Phone 7",
+      "device_ram_gb": 12,
+      "sim_days": 10,
+      "wake_hour_weekday": 9,
+      "wake_hour_weekend": 11,
+      "sleep_hour": 2,
+      "app_weights": {
+        "BGMI": 0.14, "YouTube": 0.10, "WhatsApp": 0.10, "Instagram": 0.09,
+        "ChatGPT": 0.06, "Camera": 0.06, "Twitter": 0.05, "Spotify": 0.05,
+        "TikTok": 0.06, "Discord": 0.05, "Chrome": 0.04, "Netflix": 0.04,
+        "Telegram": 0.04, "PhonePe": 0.03, "Maps": 0.03, "Settings": 0.02,
+        "CandyCrush": 0.02, "Gmail": 0.02
+      },
+      "morning_routine": ["WhatsApp", "Instagram", "YouTube"],
+      "evening_routine": ["BGMI", "Discord", "WhatsApp", "YouTube"],
+      "transitions": {
+        "BGMI": ["WhatsApp", "Discord", "YouTube"],
+        "Instagram": ["Camera", "WhatsApp", "TikTok"],
+        "Camera": ["Instagram", "YouTube", "WhatsApp"],
+        "YouTube": ["WhatsApp", "Instagram", "BGMI"],
+        "Discord": ["BGMI", "WhatsApp", "YouTube"]
+      },
+      "weekend_boost": {"gaming": 2.0, "entertainment": 1.5, "social": 1.3},
+      "weekend_suppress": {"productivity": 0.3}
+    },
+    {
+      "user_id": "user_ananya",
+      "name": "Ananya",
+      "persona": "casual",
+      "age": 35,
+      "occupation": "Homemaker",
+      "device_model": "Realme 9",
+      "device_ram_gb": 4,
+      "sim_days": 7,
+      "wake_hour_weekday": 6,
+      "wake_hour_weekend": 7,
+      "sleep_hour": 22,
+      "app_weights": {
+        "WhatsApp": 0.22, "YouTube": 0.15, "Instagram": 0.10, "PhonePe": 0.06,
+        "Camera": 0.05, "Chrome": 0.05, "Maps": 0.04, "Spotify": 0.04,
+        "Netflix": 0.04, "Gmail": 0.03, "Calendar": 0.03, "Settings": 0.03,
+        "Flipkart": 0.04, "Paytm": 0.04, "Gallery": 0.04, "CandyCrush": 0.04
+      },
+      "morning_routine": ["WhatsApp", "YouTube"],
+      "evening_routine": ["WhatsApp", "YouTube", "Netflix"],
+      "transitions": {
+        "WhatsApp": ["YouTube", "Instagram", "PhonePe", "Camera"],
+        "YouTube": ["WhatsApp", "Instagram"],
+        "Instagram": ["WhatsApp", "Camera"],
+        "Camera": ["WhatsApp", "Gallery"],
+        "PhonePe": ["WhatsApp", "Paytm"]
+      },
+      "weekend_boost": {"entertainment": 1.3, "shopping": 1.5},
+      "weekend_suppress": {}
+    },
+    {
+      "user_id": "user_dev",
+      "name": "Dev",
+      "persona": "developer",
+      "age": 26,
+      "occupation": "Full-Stack Developer (Remote)",
+      "device_model": "Google Pixel 8",
+      "device_ram_gb": 8,
+      "sim_days": 14,
+      "wake_hour_weekday": 8,
+      "wake_hour_weekend": 10,
+      "sleep_hour": 1,
+      "app_weights": {
+        "ChatGPT": 0.14, "Gmail": 0.10, "Docs": 0.08, "Chrome": 0.08,
+        "WhatsApp": 0.08, "Telegram": 0.07, "Slack": 0.06, "YouTube": 0.06,
+        "Spotify": 0.05, "Twitter": 0.05, "GitHub": 0.05, "Maps": 0.03,
+        "Instagram": 0.03, "Camera": 0.02, "Settings": 0.03, "Calendar": 0.03,
+        "PhonePe": 0.02, "Netflix": 0.02
+      },
+      "morning_routine": ["Gmail", "Slack", "ChatGPT", "Chrome"],
+      "evening_routine": ["YouTube", "Twitter", "WhatsApp"],
+      "transitions": {
+        "ChatGPT": ["Chrome", "Docs", "Gmail", "GitHub"],
+        "Gmail": ["Calendar", "Slack", "ChatGPT"],
+        "Chrome": ["ChatGPT", "Docs", "GitHub"],
+        "Slack": ["Gmail", "Chrome", "Docs"],
+        "GitHub": ["ChatGPT", "Chrome", "Slack"]
+      },
+      "weekend_boost": {"entertainment": 1.5, "social": 1.4},
+      "weekend_suppress": {"productivity": 0.5}
+    },
+    {
+      "user_id": "user_kavya",
+      "name": "Kavya",
+      "persona": "student",
+      "age": 19,
+      "occupation": "12th Grade Student (Preparing for NEET)",
+      "device_model": "Poco X5",
+      "device_ram_gb": 6,
+      "sim_days": 10,
+      "wake_hour_weekday": 6,
+      "wake_hour_weekend": 8,
+      "sleep_hour": 23,
+      "app_weights": {
+        "YouTube": 0.15, "WhatsApp": 0.14, "Instagram": 0.10, "Telegram": 0.08,
+        "ChatGPT": 0.08, "Docs": 0.06, "Chrome": 0.06, "Spotify": 0.05,
+        "Camera": 0.04, "TikTok": 0.04, "PhonePe": 0.03, "Maps": 0.02,
+        "Calendar": 0.02, "Gmail": 0.03, "Netflix": 0.03, "Settings": 0.02,
+        "Twitter": 0.02, "CandyCrush": 0.03
+      },
+      "morning_routine": ["WhatsApp", "YouTube", "ChatGPT"],
+      "evening_routine": ["Instagram", "YouTube", "WhatsApp", "Spotify"],
+      "transitions": {
+        "YouTube": ["WhatsApp", "ChatGPT", "Chrome"],
+        "WhatsApp": ["Instagram", "YouTube", "Telegram"],
+        "ChatGPT": ["Chrome", "Docs", "YouTube"],
+        "Instagram": ["WhatsApp", "Camera", "TikTok"],
+        "Chrome": ["ChatGPT", "YouTube", "WhatsApp"]
+      },
+      "weekend_boost": {"entertainment": 1.6, "social": 1.5, "gaming": 1.4},
+      "weekend_suppress": {"productivity": 0.6}
+    },
+    {
+      "user_id": "user_arjun",
+      "name": "Arjun",
+      "persona": "professional",
+      "age": 32,
+      "occupation": "Senior Analyst at Deloitte",
+      "device_model": "Samsung Galaxy S24 Ultra",
+      "device_ram_gb": 12,
+      "sim_days": 14,
+      "wake_hour_weekday": 5,
+      "wake_hour_weekend": 7,
+      "sleep_hour": 22,
+      "app_weights": {
+        "Gmail": 0.14, "WhatsApp": 0.12, "Calendar": 0.08, "Docs": 0.08,
+        "LinkedIn": 0.07, "Chrome": 0.06, "Maps": 0.06, "PhonePe": 0.05,
+        "Paytm": 0.04, "YouTube": 0.05, "Spotify": 0.04, "Instagram": 0.03,
+        "Twitter": 0.04, "Camera": 0.02, "Netflix": 0.03, "Settings": 0.02,
+        "ChatGPT": 0.04, "Telegram": 0.03
+      },
+      "morning_routine": ["Gmail", "Calendar", "LinkedIn", "Maps"],
+      "evening_routine": ["YouTube", "Netflix", "WhatsApp"],
+      "transitions": {
+        "Gmail": ["Calendar", "Docs", "LinkedIn", "Chrome"],
+        "Calendar": ["Maps", "Gmail", "WhatsApp"],
+        "Maps": ["WhatsApp", "Spotify", "PhonePe"],
+        "LinkedIn": ["Gmail", "Chrome", "Twitter"],
+        "PhonePe": ["Paytm", "WhatsApp", "Gmail"]
+      },
+      "weekend_boost": {"entertainment": 1.7, "navigation": 1.5, "finance": 1.3},
+      "weekend_suppress": {"productivity": 0.3}
+    },
+    {
+      "user_id": "user_meera",
+      "name": "Meera",
+      "persona": "casual",
+      "age": 22,
+      "occupation": "Fashion Design Intern",
+      "device_model": "Redmi 12C",
+      "device_ram_gb": 3,
+      "sim_days": 7,
+      "wake_hour_weekday": 8,
+      "wake_hour_weekend": 10,
+      "sleep_hour": 0,
+      "app_weights": {
+        "Instagram": 0.20, "WhatsApp": 0.18, "YouTube": 0.10, "Camera": 0.08,
+        "Spotify": 0.06, "Pinterest": 0.06, "Snapchat": 0.05, "PhonePe": 0.04,
+        "Chrome": 0.04, "Netflix": 0.03, "TikTok": 0.04, "Maps": 0.02,
+        "Gmail": 0.03, "Settings": 0.02, "Gallery": 0.03, "Calendar": 0.02
+      },
+      "morning_routine": ["Instagram", "WhatsApp"],
+      "evening_routine": ["Instagram", "YouTube", "Netflix", "WhatsApp"],
+      "transitions": {
+        "Instagram": ["WhatsApp", "Camera", "Pinterest", "Snapchat"],
+        "WhatsApp": ["Instagram", "YouTube", "Camera"],
+        "Camera": ["Instagram", "Gallery", "WhatsApp"],
+        "Pinterest": ["Instagram", "Chrome", "Camera"],
+        "YouTube": ["Instagram", "WhatsApp"]
+      },
+      "weekend_boost": {"social": 1.5, "entertainment": 1.4},
+      "weekend_suppress": {"productivity": 0.4}
+    }
+  ]
+}

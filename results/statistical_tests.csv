@@ -1,0 +1,10 @@
+Comparison,Metric,Proposed,Baseline,Improvement,t-statistic,p-value,Cohen's d,Significant
+proposed vs noopt,Cache Hit Rate,0.757,0.683,+10.8%,6.132,0.000172,1.939,YES ***
+proposed vs noopt,Avg Latency (ms),631.710,708.130,+10.8%,-7.175,0.000052,2.269,YES ***
+proposed vs noopt,Eviction Count,495.600,624.600,+20.7%,-5.482,0.000389,1.734,YES ***
+proposed vs lru,Cache Hit Rate,0.757,0.683,+10.8%,6.132,0.000172,1.939,YES ***
+proposed vs lru,Avg Latency (ms),631.710,708.130,+10.8%,-7.175,0.000052,2.269,YES ***
+proposed vs lru,Eviction Count,495.600,624.600,+20.7%,-5.482,0.000389,1.734,YES ***
+proposed vs static_preload,Cache Hit Rate,0.757,0.713,+6.1%,5.860,0.000241,1.853,YES ***
+proposed vs static_preload,Avg Latency (ms),631.710,656.470,+3.8%,-1.524,0.161946,0.482,NO
+proposed vs static_preload,Eviction Count,495.600,670.600,+26.1%,-4.576,0.001336,1.447,YES **

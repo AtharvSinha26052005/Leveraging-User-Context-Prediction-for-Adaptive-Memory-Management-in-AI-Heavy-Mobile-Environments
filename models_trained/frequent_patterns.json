@@ -1,0 +1,102 @@
+{
+  "total_sessions": 617,
+  "min_support": 0.03,
+  "max_pattern_length": 4,
+  "top_k_patterns": 10,
+  "patterns": [
+    {
+      "pattern": [
+        "WhatsApp",
+        "WhatsApp"
+      ],
+      "session_count": 291,
+      "support_pct": 47.164
+    },
+    {
+      "pattern": [
+        "WhatsApp",
+        "YouTube"
+      ],
+      "session_count": 288,
+      "support_pct": 46.677
+    },
+    {
+      "pattern": [
+        "YouTube",
+        "WhatsApp"
+      ],
+      "session_count": 287,
+      "support_pct": 46.515
+    },
+    {
+      "pattern": [
+        "Instagram",
+        "WhatsApp"
+      ],
+      "session_count": 261,
+      "support_pct": 42.301
+    },
+    {
+      "pattern": [
+        "YouTube",
+        "YouTube"
+      ],
+      "session_count": 259,
+      "support_pct": 41.977
+    },
+    {
+      "pattern": [
+        "WhatsApp",
+        "Instagram"
+      ],
+      "session_count": 252,
+      "support_pct": 40.843
+    },
+    {
+      "pattern": [
+        "WhatsApp",
+        "Spotify"
+      ],
+      "session_count": 241,
+      "support_pct": 39.06
+    },
+    {
+      "pattern": [
+        "WhatsApp",
+        "WhatsApp",
+        "WhatsApp"
+      ],
+      "session_count": 241,
+      "support_pct": 39.06
+    },
+    {
+      "pattern": [
+        "YouTube",
+        "Instagram"
+      ],
+      "session_count": 239,
+      "support_pct": 38.736
+    },
+    {
+      "pattern": [
+        "Gmail",
+        "WhatsApp"
+      ],
+      "session_count": 237,
+      "support_pct": 38.412
+    }
+  ],
+  "feature_names": [
+    "seq_WhatsA_WhatsA",
+    "seq_WhatsA_YouTub",
+    "seq_YouTub_WhatsA",
+    "seq_Instag_WhatsA",
+    "seq_YouTub_YouTub",
+    "seq_WhatsA_Instag",
+    "seq_WhatsA_Spotif",
+    "seq_WhatsA_WhatsA_WhatsA",
+    "seq_YouTub_Instag",
+    "seq_Gmail_WhatsA",
+    "seq_best_confidence"
+  ]
+}

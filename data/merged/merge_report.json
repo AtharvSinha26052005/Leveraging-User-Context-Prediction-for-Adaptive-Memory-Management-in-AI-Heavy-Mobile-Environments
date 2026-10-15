@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "name": "synthetic",
+      "events": 50000
+    },
+    {
+      "name": "multiuser",
+      "events": 131179
+    },
+    {
+      "name": "laptop_events",
+      "events": 55
+    },
+    {
+      "name": "phone_events",
+      "events": 312
+    }
+  ],
+  "total_events": 181546,
+  "train_events": 145236,
+  "test_events": 36310,
+  "unique_apps": 45,
+  "unique_users": 17,
+  "date_range": "2026-01-01 to 2026-09-15"
+}

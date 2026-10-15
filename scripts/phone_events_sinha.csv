@@ -1,0 +1,22 @@
+timestamp,current_app,previous_app,next_app,package,category,hour,day_of_week,battery,is_charging,ram_total_mb,ram_free_mb,is_switch
+2026-10-13T18:36:44.632375,Home Screen,Home Screen,Home Screen,com.android.launcher3,system,18,1,0.01,1,7332.0,1464.0,0
+2026-10-13T18:36:49.877114,Home Screen,Home Screen,Messaging,com.android.launcher3,system,18,1,0.01,1,7332.0,1488.0,0
+2026-10-13T18:36:55.612168,Messaging,Home Screen,Tachyon,com.google.android.apps.messaging,other,18,1,0.01,1,7332.0,1247.0,1
+2026-10-13T18:37:01.802569,Tachyon,Messaging,Home Screen,com.google.android.apps.tachyon,other,18,1,0.01,1,7332.0,1235.0,1
+2026-10-13T18:37:07.024878,Home Screen,Tachyon,Home Screen,com.android.launcher3,system,18,1,0.01,1,7332.0,1312.0,1
+2026-10-13T18:37:12.212430,Home Screen,Home Screen,Youtube,com.android.launcher3,system,18,1,0.01,1,7332.0,1170.0,0
+2026-10-13T18:37:17.437479,Youtube,Home Screen,Home Screen,app.revanced.android.youtube,other,18,1,0.01,1,7332.0,1130.0,1
+2026-10-13T18:37:24.199942,Home Screen,Youtube,Chess,com.android.launcher3,system,18,1,0.01,1,7332.0,1031.0,1
+2026-10-13T18:37:29.625661,Chess,Home Screen,Id,com.chess,other,18,1,0.01,1,7332.0,1298.0,1
+2026-10-13T18:37:35.040075,Id,Chess,Home Screen,notion.id,other,18,1,0.01,1,7332.0,1332.0,1
+2026-10-13T18:37:40.659889,Home Screen,Id,Toing,com.android.launcher3,system,18,1,0.01,1,7332.0,1265.0,1
+2026-10-13T18:37:47.338917,Toing,Home Screen,Home Screen,in.swiggy.android.toing,other,18,1,0.01,1,7332.0,1119.0,1
+2026-10-13T18:37:53.410727,Home Screen,Toing,Claude,com.android.launcher3,system,18,1,0.01,1,7332.0,1475.0,1
+2026-10-13T18:37:58.815033,Claude,Home Screen,Claude,com.anthropic.claude,other,18,1,0.01,1,7332.0,1319.0,1
+2026-10-13T18:38:04.029852,Claude,Claude,Drive,com.anthropic.claude,other,18,1,0.01,1,7332.0,1359.0,0
+2026-10-13T18:38:09.448345,Drive,Claude,Login,com.iamneo.drive,other,18,1,0.01,1,7332.0,1356.0,1
+2026-10-13T18:38:17.337273,Login,Drive,Login,naukriApp.appModules.login,other,18,1,0.01,1,7332.0,1211.0,1
+2026-10-13T18:38:23.754644,Login,Login,Home Screen,naukriApp.appModules.login,other,18,1,0.01,1,7332.0,1133.0,0
+2026-10-13T18:38:28.994669,Home Screen,Login,LinkedIn,com.android.launcher3,system,18,1,0.01,1,7332.0,1272.0,1
+2026-10-13T18:38:34.781874,LinkedIn,Home Screen,LinkedIn,com.linkedin.android,productivity,18,1,0.01,1,7332.0,1206.0,1
+2026-10-13T18:38:40.373455,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,18,1,0.01,1,7332.0,1372.0,0
