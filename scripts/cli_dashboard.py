@@ -81,37 +81,27 @@ m1.load_model("models_trained/xgboost_model.json")
 m2 = xgb.XGBClassifier()
 m2.load_model("models_trained/xgboost_phase2.json")
 
-p1_trees = "100"
-p2_trees = "200"
-p1_depth = "4"
-p2_depth = "6"
-p1_lr = "0.10"
-p2_lr = "0.08"
-p1_classes = getattr(m1, "n_classes_", 29)
-p2_classes = getattr(m2, "n_classes_", 29)
-p1_feats = getattr(m1, "n_features_in_", 19)
-p2_feats = getattr(m2, "n_features_in_", 46)
-
 print(f"""
   +-------------------------------------------------------+
   |  Parameter          Phase 1         Phase 2           |
   +-------------------------------------------------------+
-  |  n_estimators       {p1_trees:<15} {p2_trees:<16}  |
-  |  max_depth          {p1_depth:<15} {p2_depth:<16}  |
-  |  learning_rate      {p1_lr:<15} {p2_lr:<16}  |
-  |  subsample          {'1.0':<15} {'0.8':<16}  |
-  |  colsample_bytree   {'1.0':<15} {'0.8':<16}  |
-  |  min_child_weight   {'1':<15} {'3':<16}  |
-  |  n_classes          {str(p1_classes):<15} {str(p2_classes):<16}  |
-  |  n_features_in      {str(p1_feats):<15} {str(p2_feats):<16}  |
+  |  n_estimators       {m1.n_estimators:<15} {m2.n_estimators:<16}  |
+  |  max_depth          {m1.max_depth:<15} {m2.max_depth:<16}  |
+  |  learning_rate      {str(m1.learning_rate):<15} {str(m2.learning_rate):<16}  |
+  |  subsample          {'N/A':<15} {'0.8':<16}  |
+  |  colsample_bytree   {'N/A':<15} {'0.8':<16}  |
+  |  min_child_weight   {'N/A':<15} {'3':<16}  |
+  |  n_classes          {m1.n_classes_:<15} {m2.n_classes_:<16}  |
+  |  n_features_in      {m1.n_features_in_:<15} {m2.n_features_in_:<16}  |
   +-------------------------------------------------------+
   |  Feature Composition:                                 |
-  |  Phase 1: {p1_feats} base features only                    |
+  |  Phase 1: {m1.n_features_in_} base features only                    |
   |  Phase 2: 19 base + 16 App2Vec + 11 PrefixSpan = 46  |
   +-------------------------------------------------------+
 """)
 
-feat_delta = p2_feats - p1_feats
+# Feature count change
+feat_delta = m2.n_features_in_ - m1.n_features_in_
 print(f"  Feature dimension increase: +{feat_delta} features ({m1.n_features_in_} -> {m2.n_features_in_})")
 print(f"  New feature groups added:")
 print(f"    [+16] App2Vec embeddings  (8-dim current_app + 8-dim prev_app)")
@@ -301,24 +291,17 @@ section("SECTION 7: BENCHMARK POLICY TABLE")
 try:
     bench = pd.read_csv("results/benchmark_results.csv")
     print("\n  Full benchmark_results.csv (last 20 rows):")
-    col_map = {
-        "cache_hit_rate": "hit_rate",
-        "avg_launch_latency_ms": "latency_ms",
-        "eviction_count": "evictions",
-        "preload_count": "preloads"
-    }
-    bench_clean = bench.rename(columns=col_map)
-    summary = bench_clean.groupby("policy").agg({
+    # Show summary grouped by policy
+    summary = bench.groupby("policy").agg({
         "hit_rate": "mean",
-        "latency_ms": "mean",
         "evictions": "mean",
         "preloads": "mean",
-    }).round(3)
+    }).round(4)
     print(f"\n  Policy Summary (averaged across all RAM configs & personas):")
-    print(f"  {'Policy':<16} {'Hit Rate':>10}  {'Latency (ms)':>14}  {'Evictions':>10}  {'Preloads':>10}")
-    print(f"  {'-'*16} {'-'*10}  {'-'*14}  {'-'*10}  {'-'*10}")
+    print(f"  {'Policy':<16} {'Hit Rate':>10}  {'Evictions':>10}  {'Preloads':>10}")
+    print(f"  {'-'*16} {'-'*10}  {'-'*10}  {'-'*10}")
     for policy, row in summary.iterrows():
-        print(f"  {str(policy):<16} {row['hit_rate']:>10.3f}  {row['latency_ms']:>14.1f}  {row['evictions']:>10.0f}  {row['preloads']:>10.0f}")
+        print(f"  {str(policy):<16} {row['hit_rate']:>10.4f}  {row['evictions']:>10.0f}  {row['preloads']:>10.0f}")
 except Exception as e:
     print(f"  Could not load benchmark: {e}")
 
