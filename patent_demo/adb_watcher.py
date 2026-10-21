@@ -58,6 +58,12 @@ except Exception:
         "com.coloros.launcher":                  "Home Screen",
         "com.realme.launcher":                   "Home Screen",
         "com.android.launcher3":                 "Home Screen",
+        "com.miui.home":                         "Home Screen",
+        "com.miui.gallery":                      "Photos",
+        "com.miui.camera":                       "Camera",
+        "com.miui.calculator":                   "Calculator",
+        "com.miui.notes":                        "Keep Notes",
+        "com.google.android.apps.messaging":     "Messages",
         "com.amazon.mShop.android.shopping":     "Amazon",
         "com.flipkart.android":                  "Flipkart",
         "com.android.dialer":                    "Phone",
@@ -136,6 +142,10 @@ class AdbWatcher:
         self._is_charging  = False
         self._ram_total_mb = 8192.0
         self._ram_free_mb  = 3200.0
+        self._device_model = "Android Device"
+        self._device_ram_tier = "8192MB LPDDR5X"
+        self._device_info  = "Android Device (8192MB LPDDR5X)"
+        self._last_device_info_refresh = 0.0
 
         # ADB health
         self._adb_ok       = (adb_path is not None)
@@ -178,6 +188,27 @@ class AdbWatcher:
     def adb_connected(self) -> bool:
         with self._lock:
             return self._adb_ok
+
+    @property
+    def device_info(self) -> str:
+        """Dynamic device model and RAM string, e.g. 'Redmi K50i (6144MB LPDDR5)'."""
+        with self._lock:
+            return self._device_info
+
+    @property
+    def device_model(self) -> str:
+        with self._lock:
+            return self._device_model
+
+    @property
+    def device_ram_tier(self) -> str:
+        with self._lock:
+            return self._device_ram_tier
+
+    @property
+    def ram_total_mb(self) -> float:
+        with self._lock:
+            return self._ram_total_mb
 
     @property
     def recent_apps(self) -> list[str]:
@@ -267,8 +298,9 @@ class AdbWatcher:
     # ── Daemon poll loop ──────────────────────────────────────────────────────
 
     def _poll_loop(self) -> None:
-        # Fetch recent apps once at startup (before first render tick)
+        # Fetch device info & recent apps once at startup (before first render tick)
         if self._adb_path is not None:
+            self._detect_device_info()
             try:
                 recents = self.get_recent_apps()
                 with self._lock:
@@ -333,6 +365,11 @@ class AdbWatcher:
                     self._recent_apps = recents
                 self._last_recent_refresh = now
 
+            # Refresh device info if still generic or periodically every 20s
+            if (now - self._last_device_info_refresh >= 20.0) or (self._device_info.startswith("Android Device")):
+                self._detect_device_info()
+                self._last_device_info_refresh = now
+
         except Exception:
             with self._lock:
                 self._fail_streak += 1
@@ -340,6 +377,36 @@ class AdbWatcher:
                     self._adb_ok = False
 
     # ── Private ADB helpers ───────────────────────────────────────────────────
+
+    def _detect_device_info(self) -> None:
+        """Query ADB for connected phone's market name/model and physical RAM tier."""
+        if self._adb_path is None:
+            return
+        try:
+            market = self._run_adb("shell", "getprop", "ro.product.marketname").strip()
+            if not market:
+                model = self._run_adb("shell", "getprop", "ro.product.model").strip()
+                brand = self._run_adb("shell", "getprop", "ro.product.brand").strip()
+                market = f"{brand} {model}".strip() if brand else model
+            dev_name = market if market else "Android Device"
+
+            total_mb, free_mb = self._get_ram()
+            tiers = [4096, 6144, 8192, 12288, 16384]
+            tier_mb = 8192
+            for t in tiers:
+                if total_mb <= t:
+                    tier_mb = t
+                    break
+            ram_type = "LPDDR5" if tier_mb <= 6144 else "LPDDR5X"
+            tier_str = f"{tier_mb}MB {ram_type}"
+
+            with self._lock:
+                self._device_model = dev_name
+                self._device_ram_tier = tier_str
+                self._device_info = f"{dev_name} ({tier_str})"
+                self._ram_total_mb = float(tier_mb)
+        except Exception:
+            pass
 
     def _run_adb(self, *args: str, timeout: float = 5.0) -> str:
         """Run an ADB command and return stdout text. Raises on failure."""

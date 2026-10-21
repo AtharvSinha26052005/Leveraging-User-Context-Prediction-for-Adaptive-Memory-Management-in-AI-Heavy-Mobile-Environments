@@ -27,7 +27,6 @@ ADB_EXE     = os.path.join(
 )
 ADB_POLL_MS = 400   # milliseconds between ADB polls
 
-# ADB noise filter — packages to ignore (transient overlays / system UI)
 IGNORED_PACKAGES = {
     "com.google.android.inputmethod.latin",
     "com.android.systemui",
@@ -35,6 +34,8 @@ IGNORED_PACKAGES = {
     "com.android.launcher",
     "com.android.launcher3",
     "com.oplus.exsystemservice",
+    "com.miui.securitycenter",
+    "com.miui.securityadd",
 }
 
 # ── Demo Director blending ────────────────────────────────────────────────────

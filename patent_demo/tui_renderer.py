@@ -254,7 +254,8 @@ class TuiRenderer:
         t.append(" AMM Patent Demo ", style="bold cyan")
         t.append(" | ADB: ")
         t.append_text(Text.from_markup(adb_dot))
-        t.append(f" | Realme 13 5G (8192MB LPDDR5X)")
+        dev_info = getattr(self.adb, "device_info", "Android Device (8192MB LPDDR5X)")
+        t.append(f" | {dev_info}")
         t.append(f" | 5-Gate: ")
         t.append(gate, style="bold green" if "PASS" in gate else "bold red")
         t.append(f" | AutoTour: ")
@@ -407,7 +408,8 @@ class TuiRenderer:
         util_line.append(f" RAM Utilization: {pct:.1f}%  [")
         util_line.append(bar, style=bar_color)
         used = self.ram_sm.used_mb + self.ram_sm.system_reserved_mb
-        util_line.append(f"]  {int(used)}/{int(self.ram_sm.total_ram_mb)} MB  |  {int(self.ram_sm.free_mb)} MB free\n")
+        total_ram = int(self.ram_sm.effective_total_ram_mb)
+        util_line.append(f"]  {int(used)}/{total_ram} MB  |  {int(self.ram_sm.free_mb)} MB free\n")
 
         # ── Process table — Issue 3: wider columns, no truncation ────────────
         table = Table(
@@ -548,9 +550,12 @@ class TuiRenderer:
         from rich.console import Group
         combined = Group(content, table, ev_log, pr_log)
 
+        ram_tier = getattr(self.adb, "device_ram_tier", "8192MB LPDDR5X")
+        ram_type = ram_tier.split()[-1] if ram_tier else "LPDDR5X"
+
         return Panel(
             combined,
-            title="[bold blue]LPDDR5X RAM STATE MACHINE -- LIVE PROCESS CACHE[/]",
+            title=f"[bold blue]{ram_type} RAM STATE MACHINE -- LIVE PROCESS CACHE[/]",
             box=box.HEAVY,
             border_style="blue",
         )

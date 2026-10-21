@@ -541,12 +541,22 @@ class RamStateMachine:
         )
 
     @property
+    def effective_total_ram_mb(self) -> float:
+        if self.adb_watcher is not None and hasattr(self.adb_watcher, "ram_total_mb"):
+            return getattr(self.adb_watcher, "ram_total_mb", self.total_ram_mb)
+        return self.total_ram_mb
+
+    @property
     def free_mb(self) -> float:
-        return max(0.0, self.total_ram_mb - self.system_reserved_mb - self.used_mb)
+        total = self.effective_total_ram_mb
+        return max(0.0, total - self.system_reserved_mb - self.used_mb)
 
     @property
     def utilization_pct(self) -> float:
-        return 100.0 * (self.total_ram_mb - self.free_mb) / self.total_ram_mb
+        total = self.effective_total_ram_mb
+        if total <= 0:
+            return 0.0
+        return 100.0 * (total - self.free_mb) / total
 
     def get_sorted_slots(self) -> list[RamSlot]:
         """

@@ -1,0 +1,1765 @@
+timestamp,current_app,previous_app,next_app,package,category,hour,day_of_week,battery,is_charging,ram_total_mb,ram_free_mb,is_switch
+2026-10-15T13:08:10.893690,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.75,1,5473.0,1316.0,0
+2026-10-15T13:08:17.452858,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.75,1,5473.0,1295.0,0
+2026-10-15T13:08:24.147302,Home Screen,Home Screen,WhatsApp,com.miui.home,system,13,3,0.75,1,5473.0,1251.0,0
+2026-10-15T13:08:30.659903,WhatsApp,Home Screen,Home Screen,com.whatsapp,messaging,13,3,0.75,1,5473.0,1167.0,1
+2026-10-15T13:08:37.141106,Home Screen,WhatsApp,Instagram,com.miui.home,system,13,3,0.75,1,5473.0,1185.0,1
+2026-10-15T13:08:43.573241,Instagram,Home Screen,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1140.0,1
+2026-10-15T13:08:49.998506,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1136.0,0
+2026-10-15T13:08:56.425863,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1169.0,0
+2026-10-15T13:09:02.979694,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1109.0,0
+2026-10-15T13:09:09.419743,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1138.0,0
+2026-10-15T13:09:15.959165,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1182.0,0
+2026-10-15T13:09:22.553052,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1167.0,0
+2026-10-15T13:09:29.010015,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1114.0,0
+2026-10-15T13:09:35.426174,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1066.0,0
+2026-10-15T13:09:41.848618,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1058.0,0
+2026-10-15T13:09:48.283279,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1094.0,0
+2026-10-15T13:09:54.740129,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1061.0,0
+2026-10-15T13:10:01.181592,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1066.0,0
+2026-10-15T13:10:07.630378,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1057.0,0
+2026-10-15T13:10:14.094357,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1040.0,0
+2026-10-15T13:10:20.508288,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1066.0,0
+2026-10-15T13:10:26.951983,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1070.0,0
+2026-10-15T13:10:33.373477,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1087.0,0
+2026-10-15T13:10:39.875925,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1068.0,0
+2026-10-15T13:10:46.338317,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1007.0,0
+2026-10-15T13:10:52.825429,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1045.0,0
+2026-10-15T13:10:59.312104,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1020.0,0
+2026-10-15T13:11:05.775754,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1000.0,0
+2026-10-15T13:11:12.255055,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1023.0,0
+2026-10-15T13:11:18.692507,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1013.0,0
+2026-10-15T13:11:25.145560,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1011.0,0
+2026-10-15T13:11:31.552402,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1003.0,0
+2026-10-15T13:11:38.016230,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,991.0,0
+2026-10-15T13:11:44.424132,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,978.0,0
+2026-10-15T13:11:50.859606,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,955.0,0
+2026-10-15T13:11:57.308533,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,970.0,0
+2026-10-15T13:12:03.753376,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,956.0,0
+2026-10-15T13:12:10.194435,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,924.0,0
+2026-10-15T13:12:16.643474,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,873.0,0
+2026-10-15T13:12:23.040604,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,927.0,0
+2026-10-15T13:12:29.434633,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1042.0,0
+2026-10-15T13:12:35.837418,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1122.0,0
+2026-10-15T13:12:42.284355,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1115.0,0
+2026-10-15T13:12:48.686946,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1138.0,0
+2026-10-15T13:12:55.111940,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1108.0,0
+2026-10-15T13:13:01.513242,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1073.0,0
+2026-10-15T13:13:07.948807,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1105.0,0
+2026-10-15T13:13:14.424987,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1109.0,0
+2026-10-15T13:13:20.881685,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1125.0,0
+2026-10-15T13:13:27.389814,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1117.0,0
+2026-10-15T13:13:33.858129,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1099.0,0
+2026-10-15T13:13:40.296656,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1122.0,0
+2026-10-15T13:13:47.795192,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1102.0,0
+2026-10-15T13:13:55.001387,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1066.0,0
+2026-10-15T13:14:02.131675,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1100.0,0
+2026-10-15T13:14:09.506150,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1107.0,0
+2026-10-15T13:14:16.650559,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1111.0,0
+2026-10-15T13:14:23.786353,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1118.0,0
+2026-10-15T13:14:30.937059,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1135.0,0
+2026-10-15T13:14:38.057584,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1075.0,0
+2026-10-15T13:14:45.135009,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1125.0,0
+2026-10-15T13:14:52.420319,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1081.0,0
+2026-10-15T13:14:59.567153,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1119.0,0
+2026-10-15T13:15:06.691309,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1106.0,0
+2026-10-15T13:15:13.847080,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1100.0,0
+2026-10-15T13:15:21.013309,Instagram,Instagram,Security,com.instagram.android,social,13,3,0.75,1,5473.0,1049.0,0
+2026-10-15T13:15:27.149222,Security,Instagram,Instagram,com.miui.securitycenter,system,13,3,0.75,1,5473.0,1174.0,1
+2026-10-15T13:15:33.337425,Instagram,Security,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1162.0,1
+2026-10-15T13:15:39.505239,Instagram,Instagram,Instagram,com.instagram.android,social,13,3,0.75,1,5473.0,1138.0,0
+2026-10-15T13:15:45.637120,Instagram,Instagram,Dialer,com.instagram.android,social,13,3,0.75,1,5473.0,1096.0,0
+2026-10-15T13:15:51.774975,Dialer,Instagram,Home Screen,com.google.android.dialer,other,13,3,0.75,1,5473.0,1302.0,1
+2026-10-15T13:15:57.895324,Home Screen,Dialer,WhatsApp,com.miui.home,system,13,3,0.75,1,5473.0,1251.0,1
+2026-10-15T13:16:04.026597,WhatsApp,Home Screen,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1198.0,1
+2026-10-15T13:16:10.164643,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1132.0,0
+2026-10-15T13:16:16.265850,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1276.0,0
+2026-10-15T13:16:22.368107,WhatsApp,WhatsApp,Home Screen,com.whatsapp,messaging,13,3,0.75,1,5473.0,1251.0,0
+2026-10-15T13:16:28.468545,Home Screen,WhatsApp,Home Screen,com.miui.home,system,13,3,0.75,1,5473.0,1609.0,1
+2026-10-15T13:16:34.588152,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.75,1,5473.0,1561.0,0
+2026-10-15T13:16:40.718957,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.75,1,5473.0,1507.0,0
+2026-10-15T13:16:46.867429,Home Screen,Home Screen,WhatsApp,com.miui.home,system,13,3,0.75,1,5473.0,1420.0,0
+2026-10-15T13:16:52.978185,WhatsApp,Home Screen,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1566.0,1
+2026-10-15T13:16:59.139355,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1493.0,0
+2026-10-15T13:17:05.298794,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1450.0,0
+2026-10-15T13:17:11.285899,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1457.0,0
+2026-10-15T13:17:17.454742,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1311.0,0
+2026-10-15T13:17:23.570137,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1362.0,0
+2026-10-15T13:17:29.796848,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1369.0,0
+2026-10-15T13:17:35.969554,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1398.0,0
+2026-10-15T13:17:42.193328,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1380.0,0
+2026-10-15T13:17:48.392963,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1372.0,0
+2026-10-15T13:17:54.581492,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1368.0,0
+2026-10-15T13:18:00.767136,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1359.0,0
+2026-10-15T13:18:07.014367,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1360.0,0
+2026-10-15T13:18:13.236530,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1350.0,0
+2026-10-15T13:18:19.383213,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1346.0,0
+2026-10-15T13:18:25.566611,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1341.0,0
+2026-10-15T13:18:31.737674,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1336.0,0
+2026-10-15T13:18:37.964722,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1338.0,0
+2026-10-15T13:18:44.175879,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1335.0,0
+2026-10-15T13:18:50.354207,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1323.0,0
+2026-10-15T13:18:56.539961,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1295.0,0
+2026-10-15T13:19:02.732048,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1306.0,0
+2026-10-15T13:19:08.930579,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1330.0,0
+2026-10-15T13:19:15.156465,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1329.0,0
+2026-10-15T13:19:21.329626,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1307.0,0
+2026-10-15T13:19:27.548018,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1291.0,0
+2026-10-15T13:19:33.773826,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1290.0,0
+2026-10-15T13:19:40.018302,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1280.0,0
+2026-10-15T13:19:46.258910,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1266.0,0
+2026-10-15T13:19:52.497062,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1265.0,0
+2026-10-15T13:19:58.719717,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1240.0,0
+2026-10-15T13:20:04.910084,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1250.0,0
+2026-10-15T13:20:11.159069,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1249.0,0
+2026-10-15T13:20:17.419229,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1246.0,0
+2026-10-15T13:20:23.641041,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1252.0,0
+2026-10-15T13:20:29.828450,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1262.0,0
+2026-10-15T13:20:35.970661,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1261.0,0
+2026-10-15T13:20:42.167638,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1248.0,0
+2026-10-15T13:20:48.288936,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1205.0,0
+2026-10-15T13:20:54.438229,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1176.0,0
+2026-10-15T13:21:00.626879,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1262.0,0
+2026-10-15T13:21:06.754406,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1245.0,0
+2026-10-15T13:21:12.950014,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1382.0,0
+2026-10-15T13:21:19.122622,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1384.0,0
+2026-10-15T13:21:25.327527,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1386.0,0
+2026-10-15T13:21:31.562271,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1396.0,0
+2026-10-15T13:21:37.749511,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1395.0,0
+2026-10-15T13:21:43.964575,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1400.0,0
+2026-10-15T13:21:50.205188,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1405.0,0
+2026-10-15T13:21:56.455593,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1416.0,0
+2026-10-15T13:22:02.670502,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1411.0,0
+2026-10-15T13:22:08.866235,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1406.0,0
+2026-10-15T13:22:15.067725,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1404.0,0
+2026-10-15T13:22:21.345518,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1409.0,0
+2026-10-15T13:22:27.600567,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1414.0,0
+2026-10-15T13:22:33.825325,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1409.0,0
+2026-10-15T13:22:40.081692,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1319.0,0
+2026-10-15T13:22:46.310358,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1339.0,0
+2026-10-15T13:22:52.539479,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1354.0,0
+2026-10-15T13:22:58.673538,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1348.0,0
+2026-10-15T13:23:04.796023,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1364.0,0
+2026-10-15T13:23:10.934944,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1355.0,0
+2026-10-15T13:23:17.087131,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1347.0,0
+2026-10-15T13:23:23.419228,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1329.0,0
+2026-10-15T13:23:29.664556,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1350.0,0
+2026-10-15T13:23:35.919331,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1358.0,0
+2026-10-15T13:23:42.188394,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1357.0,0
+2026-10-15T13:23:48.481703,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1352.0,0
+2026-10-15T13:23:54.744801,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1353.0,0
+2026-10-15T13:24:01.096279,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1350.0,0
+2026-10-15T13:24:07.419738,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1333.0,0
+2026-10-15T13:24:13.698141,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1344.0,0
+2026-10-15T13:24:20.009457,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1335.0,0
+2026-10-15T13:24:26.255706,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1356.0,0
+2026-10-15T13:24:32.433923,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1350.0,0
+2026-10-15T13:24:38.631805,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1347.0,0
+2026-10-15T13:24:44.819862,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1338.0,0
+2026-10-15T13:24:50.978309,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1322.0,0
+2026-10-15T13:24:57.171105,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1326.0,0
+2026-10-15T13:25:03.330554,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1314.0,0
+2026-10-15T13:25:09.527885,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1306.0,0
+2026-10-15T13:25:15.743779,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1251.0,0
+2026-10-15T13:25:21.969093,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1550.0,0
+2026-10-15T13:25:28.240227,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1527.0,0
+2026-10-15T13:25:34.440826,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1505.0,0
+2026-10-15T13:25:40.723933,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1504.0,0
+2026-10-15T13:25:46.954515,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1509.0,0
+2026-10-15T13:25:53.217865,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1504.0,0
+2026-10-15T13:25:59.432046,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1516.0,0
+2026-10-15T13:26:05.589082,WhatsApp,WhatsApp,Home Screen,com.whatsapp,messaging,13,3,0.75,1,5473.0,1522.0,0
+2026-10-15T13:26:11.784261,Home Screen,WhatsApp,LinkedIn,com.miui.home,system,13,3,0.75,1,5473.0,1505.0,1
+2026-10-15T13:26:17.923549,LinkedIn,Home Screen,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1132.0,1
+2026-10-15T13:26:24.029745,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1158.0,0
+2026-10-15T13:26:30.124565,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1179.0,0
+2026-10-15T13:26:36.262147,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1200.0,0
+2026-10-15T13:26:42.418159,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1181.0,0
+2026-10-15T13:26:48.559637,LinkedIn,LinkedIn,WhatsApp,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1344.0,0
+2026-10-15T13:26:54.713272,WhatsApp,LinkedIn,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1409.0,1
+2026-10-15T13:27:00.823903,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1442.0,0
+2026-10-15T13:27:06.854593,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.75,1,5473.0,1510.0,0
+2026-10-15T13:27:12.983023,WhatsApp,WhatsApp,Home Screen,com.whatsapp,messaging,13,3,0.75,1,5473.0,1425.0,0
+2026-10-15T13:27:19.076315,Home Screen,WhatsApp,LinkedIn,com.miui.home,system,13,3,0.75,1,5473.0,1190.0,1
+2026-10-15T13:27:25.194362,LinkedIn,Home Screen,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1084.0,1
+2026-10-15T13:27:31.325746,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1124.0,0
+2026-10-15T13:27:37.500684,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1283.0,0
+2026-10-15T13:27:43.678622,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1274.0,0
+2026-10-15T13:27:49.792588,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1258.0,0
+2026-10-15T13:27:56.014061,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1242.0,0
+2026-10-15T13:28:02.215432,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1264.0,0
+2026-10-15T13:28:08.401790,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1188.0,0
+2026-10-15T13:28:14.575264,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1226.0,0
+2026-10-15T13:28:20.812559,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1230.0,0
+2026-10-15T13:28:27.044241,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1241.0,0
+2026-10-15T13:28:33.291472,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1236.0,0
+2026-10-15T13:28:39.453479,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1278.0,0
+2026-10-15T13:28:45.657572,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1276.0,0
+2026-10-15T13:28:51.820051,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1272.0,0
+2026-10-15T13:28:58.021828,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1267.0,0
+2026-10-15T13:29:04.205828,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1259.0,0
+2026-10-15T13:29:10.401649,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1256.0,0
+2026-10-15T13:29:16.581208,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1190.0,0
+2026-10-15T13:29:22.810434,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1201.0,0
+2026-10-15T13:29:29.132709,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1202.0,0
+2026-10-15T13:29:35.340017,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1202.0,0
+2026-10-15T13:29:41.575603,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1199.0,0
+2026-10-15T13:29:47.742710,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1207.0,0
+2026-10-15T13:29:53.933975,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1204.0,0
+2026-10-15T13:30:00.099281,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1186.0,0
+2026-10-15T13:30:06.257674,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1143.0,0
+2026-10-15T13:30:12.438626,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1136.0,0
+2026-10-15T13:30:18.590988,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1135.0,0
+2026-10-15T13:30:24.761430,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1146.0,0
+2026-10-15T13:30:30.915006,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1170.0,0
+2026-10-15T13:30:37.065785,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1171.0,0
+2026-10-15T13:30:43.265885,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1186.0,0
+2026-10-15T13:30:49.438042,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1197.0,0
+2026-10-15T13:30:55.618177,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1211.0,0
+2026-10-15T13:31:01.769065,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1209.0,0
+2026-10-15T13:31:07.956045,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1204.0,0
+2026-10-15T13:31:14.138653,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1196.0,0
+2026-10-15T13:31:20.273578,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1197.0,0
+2026-10-15T13:31:26.435141,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1191.0,0
+2026-10-15T13:31:32.626333,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1183.0,0
+2026-10-15T13:31:38.802863,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1180.0,0
+2026-10-15T13:31:44.969366,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1191.0,0
+2026-10-15T13:31:51.164987,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1191.0,0
+2026-10-15T13:31:57.327463,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1388.0,0
+2026-10-15T13:32:03.508684,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1447.0,0
+2026-10-15T13:32:09.719717,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1449.0,0
+2026-10-15T13:32:15.897280,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1438.0,0
+2026-10-15T13:32:22.033646,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1439.0,0
+2026-10-15T13:32:28.197468,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1430.0,0
+2026-10-15T13:32:34.406964,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1429.0,0
+2026-10-15T13:32:40.590578,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1429.0,0
+2026-10-15T13:32:46.856238,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1417.0,0
+2026-10-15T13:32:53.005050,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1391.0,0
+2026-10-15T13:32:59.148295,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1385.0,0
+2026-10-15T13:33:05.311104,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1370.0,0
+2026-10-15T13:33:11.475159,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1359.0,0
+2026-10-15T13:33:17.664032,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1365.0,0
+2026-10-15T13:33:23.811075,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1353.0,0
+2026-10-15T13:33:30.002468,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1360.0,0
+2026-10-15T13:33:36.138553,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1356.0,0
+2026-10-15T13:33:42.334002,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1374.0,0
+2026-10-15T13:33:48.530208,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.75,1,5473.0,1365.0,0
+2026-10-15T13:33:54.703538,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1275.0,0
+2026-10-15T13:34:00.783152,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1306.0,0
+2026-10-15T13:34:06.930806,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1300.0,0
+2026-10-15T13:34:13.139560,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1295.0,0
+2026-10-15T13:34:19.303385,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1276.0,0
+2026-10-15T13:34:25.485965,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1275.0,0
+2026-10-15T13:34:31.654752,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1280.0,0
+2026-10-15T13:34:37.858048,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1286.0,0
+2026-10-15T13:34:44.006234,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1286.0,0
+2026-10-15T13:34:50.152192,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1241.0,0
+2026-10-15T13:34:56.312008,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1239.0,0
+2026-10-15T13:35:02.449980,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1236.0,0
+2026-10-15T13:35:08.616781,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1231.0,0
+2026-10-15T13:35:14.750831,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1229.0,0
+2026-10-15T13:35:20.867434,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1233.0,0
+2026-10-15T13:35:27.012026,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1228.0,0
+2026-10-15T13:35:33.185060,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1219.0,0
+2026-10-15T13:35:39.401385,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1216.0,0
+2026-10-15T13:35:45.585470,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1237.0,0
+2026-10-15T13:35:51.760945,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1238.0,0
+2026-10-15T13:35:57.938913,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1238.0,0
+2026-10-15T13:36:04.098588,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1238.0,0
+2026-10-15T13:36:10.208381,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1158.0,0
+2026-10-15T13:36:16.330768,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1080.0,0
+2026-10-15T13:36:22.455796,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1204.0,0
+2026-10-15T13:36:28.593456,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1193.0,0
+2026-10-15T13:36:34.708050,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1207.0,0
+2026-10-15T13:36:40.876392,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1197.0,0
+2026-10-15T13:36:47.026320,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1159.0,0
+2026-10-15T13:36:53.197535,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1152.0,0
+2026-10-15T13:36:59.374513,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1160.0,0
+2026-10-15T13:37:05.540014,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1159.0,0
+2026-10-15T13:37:11.711109,LinkedIn,LinkedIn,LinkedIn,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1158.0,0
+2026-10-15T13:37:17.865824,LinkedIn,LinkedIn,Home Screen,com.linkedin.android,productivity,13,3,0.76,1,5473.0,1091.0,0
+2026-10-15T13:37:23.942020,Home Screen,LinkedIn,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1256.0,1
+2026-10-15T13:37:30.029857,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1337.0,0
+2026-10-15T13:37:36.175883,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1338.0,0
+2026-10-15T13:37:42.328340,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1337.0,0
+2026-10-15T13:37:48.481998,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1336.0,0
+2026-10-15T13:37:54.636817,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1339.0,0
+2026-10-15T13:38:00.784233,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1337.0,0
+2026-10-15T13:38:06.922595,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1331.0,0
+2026-10-15T13:38:13.065037,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1329.0,0
+2026-10-15T13:38:19.227633,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1317.0,0
+2026-10-15T13:38:25.367991,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1323.0,0
+2026-10-15T13:38:31.503310,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1348.0,0
+2026-10-15T13:38:37.624766,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1342.0,0
+2026-10-15T13:38:43.769015,Home Screen,Home Screen,Facebook,com.miui.home,system,13,3,0.76,1,5473.0,1317.0,0
+2026-10-15T13:38:49.884017,Facebook,Home Screen,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1260.0,1
+2026-10-15T13:38:56.016378,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1254.0,0
+2026-10-15T13:39:02.157194,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1263.0,0
+2026-10-15T13:39:08.288572,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1276.0,0
+2026-10-15T13:39:14.457078,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1258.0,0
+2026-10-15T13:39:20.662751,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1256.0,0
+2026-10-15T13:39:26.839340,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1253.0,0
+2026-10-15T13:39:33.029560,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1276.0,0
+2026-10-15T13:39:39.192481,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1243.0,0
+2026-10-15T13:39:45.400625,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1240.0,0
+2026-10-15T13:39:51.580061,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1253.0,0
+2026-10-15T13:39:57.758837,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1265.0,0
+2026-10-15T13:40:03.910852,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1251.0,0
+2026-10-15T13:40:10.066721,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1246.0,0
+2026-10-15T13:40:16.231960,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1253.0,0
+2026-10-15T13:40:22.382187,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1250.0,0
+2026-10-15T13:40:28.525259,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1251.0,0
+2026-10-15T13:40:34.703799,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1223.0,0
+2026-10-15T13:40:40.881951,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1219.0,0
+2026-10-15T13:40:47.027222,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1215.0,0
+2026-10-15T13:40:53.211427,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1217.0,0
+2026-10-15T13:40:59.344009,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1193.0,0
+2026-10-15T13:41:05.495416,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1268.0,0
+2026-10-15T13:41:11.610546,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1247.0,0
+2026-10-15T13:41:17.644305,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1254.0,0
+2026-10-15T13:41:23.716961,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1240.0,0
+2026-10-15T13:41:29.770451,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1261.0,0
+2026-10-15T13:41:35.835303,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1257.0,0
+2026-10-15T13:41:41.919682,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1255.0,0
+2026-10-15T13:41:47.967592,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1255.0,0
+2026-10-15T13:41:54.048853,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1254.0,0
+2026-10-15T13:42:00.143695,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1212.0,0
+2026-10-15T13:42:06.194218,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1233.0,0
+2026-10-15T13:42:12.279570,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1188.0,0
+2026-10-15T13:42:18.313788,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1231.0,0
+2026-10-15T13:42:24.416055,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1238.0,0
+2026-10-15T13:42:30.468500,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1216.0,0
+2026-10-15T13:42:36.520629,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1203.0,0
+2026-10-15T13:42:42.553413,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1210.0,0
+2026-10-15T13:42:48.653191,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1198.0,0
+2026-10-15T13:42:54.696404,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1203.0,0
+2026-10-15T13:43:00.814918,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1191.0,0
+2026-10-15T13:43:06.869517,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1164.0,0
+2026-10-15T13:43:12.939079,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1170.0,0
+2026-10-15T13:43:19.047928,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1186.0,0
+2026-10-15T13:43:25.123137,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1202.0,0
+2026-10-15T13:43:31.173625,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1187.0,0
+2026-10-15T13:43:37.206019,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1184.0,0
+2026-10-15T13:43:43.259864,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1165.0,0
+2026-10-15T13:43:49.331771,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1122.0,0
+2026-10-15T13:43:55.385422,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1134.0,0
+2026-10-15T13:44:01.458178,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1132.0,0
+2026-10-15T13:44:07.509832,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1129.0,0
+2026-10-15T13:44:13.548840,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1125.0,0
+2026-10-15T13:44:19.604258,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1118.0,0
+2026-10-15T13:44:25.675008,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1108.0,0
+2026-10-15T13:44:31.717838,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1121.0,0
+2026-10-15T13:44:37.774981,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1134.0,0
+2026-10-15T13:44:43.826561,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1134.0,0
+2026-10-15T13:44:49.886634,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1131.0,0
+2026-10-15T13:44:55.960612,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1141.0,0
+2026-10-15T13:45:02.047121,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1134.0,0
+2026-10-15T13:45:08.080862,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1132.0,0
+2026-10-15T13:45:14.123495,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1134.0,0
+2026-10-15T13:45:20.171236,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1156.0,0
+2026-10-15T13:45:26.236280,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1166.0,0
+2026-10-15T13:45:32.309034,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1166.0,0
+2026-10-15T13:45:38.403636,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1172.0,0
+2026-10-15T13:45:44.469375,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1161.0,0
+2026-10-15T13:45:50.559863,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1157.0,0
+2026-10-15T13:45:56.636872,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1154.0,0
+2026-10-15T13:46:02.701619,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1164.0,0
+2026-10-15T13:46:08.778607,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1157.0,0
+2026-10-15T13:46:14.868231,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1174.0,0
+2026-10-15T13:46:20.963900,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1163.0,0
+2026-10-15T13:46:27.064500,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1163.0,0
+2026-10-15T13:46:33.148225,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1145.0,0
+2026-10-15T13:46:39.207285,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1152.0,0
+2026-10-15T13:46:45.326070,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1147.0,0
+2026-10-15T13:46:51.386681,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1149.0,0
+2026-10-15T13:46:57.435498,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1152.0,0
+2026-10-15T13:47:03.495499,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1136.0,0
+2026-10-15T13:47:09.496060,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1142.0,0
+2026-10-15T13:47:15.552356,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1138.0,0
+2026-10-15T13:47:21.614391,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1146.0,0
+2026-10-15T13:47:27.695178,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1145.0,0
+2026-10-15T13:47:33.750697,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1141.0,0
+2026-10-15T13:47:39.807812,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1138.0,0
+2026-10-15T13:47:45.853914,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,994.0,0
+2026-10-15T13:47:51.888284,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,930.0,0
+2026-10-15T13:47:57.969671,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,942.0,0
+2026-10-15T13:48:04.040508,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,938.0,0
+2026-10-15T13:48:10.089704,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,941.0,0
+2026-10-15T13:48:16.127391,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,946.0,0
+2026-10-15T13:48:22.149151,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,939.0,0
+2026-10-15T13:48:28.183199,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,924.0,0
+2026-10-15T13:48:34.237611,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,931.0,0
+2026-10-15T13:48:40.283012,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,930.0,0
+2026-10-15T13:48:46.317671,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,928.0,0
+2026-10-15T13:48:52.349383,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,939.0,0
+2026-10-15T13:48:58.378870,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,939.0,0
+2026-10-15T13:49:04.456042,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,987.0,0
+2026-10-15T13:49:10.540941,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1333.0,0
+2026-10-15T13:49:16.579822,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1477.0,0
+2026-10-15T13:49:22.629034,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1435.0,0
+2026-10-15T13:49:28.661715,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1373.0,0
+2026-10-15T13:49:34.685790,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1340.0,0
+2026-10-15T13:49:40.771664,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1343.0,0
+2026-10-15T13:49:46.852708,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1364.0,0
+2026-10-15T13:49:52.914957,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1353.0,0
+2026-10-15T13:49:58.950767,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1344.0,0
+2026-10-15T13:50:04.980429,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1334.0,0
+2026-10-15T13:50:11.022061,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1349.0,0
+2026-10-15T13:50:17.092459,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1349.0,0
+2026-10-15T13:50:23.155526,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1354.0,0
+2026-10-15T13:50:29.208399,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1325.0,0
+2026-10-15T13:50:35.240852,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1445.0,0
+2026-10-15T13:50:41.245622,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1494.0,0
+2026-10-15T13:50:47.249601,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1496.0,0
+2026-10-15T13:50:53.317127,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1491.0,0
+2026-10-15T13:50:59.337299,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1467.0,0
+2026-10-15T13:51:05.427993,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1495.0,0
+2026-10-15T13:51:11.521629,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1499.0,0
+2026-10-15T13:51:17.567030,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1470.0,0
+2026-10-15T13:51:23.671530,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1485.0,0
+2026-10-15T13:51:29.732653,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1501.0,0
+2026-10-15T13:51:35.758255,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1499.0,0
+2026-10-15T13:51:41.783314,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1488.0,0
+2026-10-15T13:51:47.817001,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1490.0,0
+2026-10-15T13:51:53.877793,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1495.0,0
+2026-10-15T13:51:59.920130,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1492.0,0
+2026-10-15T13:52:05.962400,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1480.0,0
+2026-10-15T13:52:12.039168,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1475.0,0
+2026-10-15T13:52:18.081367,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1485.0,0
+2026-10-15T13:52:24.129118,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1473.0,0
+2026-10-15T13:52:30.193964,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1471.0,0
+2026-10-15T13:52:36.257323,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1479.0,0
+2026-10-15T13:52:42.297246,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1483.0,0
+2026-10-15T13:52:48.361387,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1413.0,0
+2026-10-15T13:52:54.441741,Facebook,Facebook,Facebook,com.facebook.katana,social,13,3,0.76,1,5473.0,1401.0,0
+2026-10-15T13:53:00.488306,Facebook,Facebook,Home Screen,com.facebook.katana,social,13,3,0.76,1,5473.0,1404.0,0
+2026-10-15T13:53:06.533647,Home Screen,Facebook,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1363.0,1
+2026-10-15T13:53:12.573986,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1379.0,0
+2026-10-15T13:53:18.641604,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1392.0,0
+2026-10-15T13:53:24.731479,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1382.0,0
+2026-10-15T13:53:30.769642,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1374.0,0
+2026-10-15T13:53:36.817874,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1384.0,0
+2026-10-15T13:53:42.891941,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1392.0,0
+2026-10-15T13:53:48.940059,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1378.0,0
+2026-10-15T13:53:55.011616,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1379.0,0
+2026-10-15T13:54:01.064045,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1378.0,0
+2026-10-15T13:54:07.125387,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1375.0,0
+2026-10-15T13:54:13.163729,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1375.0,0
+2026-10-15T13:54:19.222241,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1374.0,0
+2026-10-15T13:54:25.291942,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1371.0,0
+2026-10-15T13:54:31.330943,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1371.0,0
+2026-10-15T13:54:37.398592,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1370.0,0
+2026-10-15T13:54:43.462141,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1216.0,0
+2026-10-15T13:54:49.443690,Home Screen,Home Screen,Home Screen,com.miui.home,system,13,3,0.76,1,5473.0,1238.0,0
+2026-10-15T13:54:55.454906,Home Screen,Home Screen,Snapchat,com.miui.home,system,13,3,0.76,1,5473.0,1267.0,0
+2026-10-15T13:55:01.559276,Snapchat,Home Screen,Snapchat,com.snapchat.android,social,13,3,0.76,1,5473.0,862.0,1
+2026-10-15T13:55:07.570317,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,13,3,0.76,1,5473.0,1294.0,0
+2026-10-15T13:55:13.569471,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,13,3,0.76,1,5473.0,1275.0,0
+2026-10-15T13:55:19.589010,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,13,3,0.76,1,5473.0,1273.0,0
+2026-10-15T13:55:25.639438,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,13,3,0.76,1,5473.0,1212.0,0
+2026-10-15T13:55:31.738506,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,13,3,0.76,1,5473.0,1213.0,0
+2026-10-15T13:55:37.831307,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,13,3,0.76,1,5473.0,1154.0,0
+2026-10-15T13:55:43.925841,Snapchat,Snapchat,Dialer,com.snapchat.android,social,13,3,0.76,1,5473.0,1133.0,0
+2026-10-15T13:55:50.082226,Dialer,Snapchat,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1181.0,1
+2026-10-15T13:55:56.218554,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1275.0,0
+2026-10-15T13:56:02.274040,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1311.0,0
+2026-10-15T13:56:08.332456,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1313.0,0
+2026-10-15T13:56:14.409702,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1323.0,0
+2026-10-15T13:56:20.515087,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1310.0,0
+2026-10-15T13:56:26.676243,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1213.0,0
+2026-10-15T13:56:32.822088,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1233.0,0
+2026-10-15T13:56:39.006033,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1234.0,0
+2026-10-15T13:56:45.094347,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1231.0,0
+2026-10-15T13:56:51.282651,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1192.0,0
+2026-10-15T13:56:57.405312,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1254.0,0
+2026-10-15T13:57:03.538555,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1253.0,0
+2026-10-15T13:57:09.670066,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1256.0,0
+2026-10-15T13:57:15.752858,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1246.0,0
+2026-10-15T13:57:21.833310,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1253.0,0
+2026-10-15T13:57:27.920002,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1247.0,0
+2026-10-15T13:57:34.046186,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1245.0,0
+2026-10-15T13:57:40.139834,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1214.0,0
+2026-10-15T13:57:46.278571,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1217.0,0
+2026-10-15T13:57:52.377874,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1215.0,0
+2026-10-15T13:57:58.491563,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1198.0,0
+2026-10-15T13:58:04.574832,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1082.0,0
+2026-10-15T13:58:10.696817,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1082.0,0
+2026-10-15T13:58:16.833297,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1094.0,0
+2026-10-15T13:58:22.923364,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1065.0,0
+2026-10-15T13:58:28.995900,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1129.0,0
+2026-10-15T13:58:35.084907,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1062.0,0
+2026-10-15T13:58:41.194458,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,956.0,0
+2026-10-15T13:58:47.289311,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1230.0,0
+2026-10-15T13:58:53.408267,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1272.0,0
+2026-10-15T13:58:59.547246,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1267.0,0
+2026-10-15T13:59:05.680178,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1263.0,0
+2026-10-15T13:59:11.759835,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1260.0,0
+2026-10-15T13:59:17.842084,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1258.0,0
+2026-10-15T13:59:23.894804,Dialer,Dialer,Dialer,com.google.android.dialer,other,13,3,0.76,1,5473.0,1249.0,0
+2026-10-15T13:59:29.990092,Dialer,Dialer,Snapchat,com.google.android.dialer,other,13,3,0.76,1,5473.0,1283.0,0
+2026-10-15T13:59:36.109985,Snapchat,Dialer,WhatsApp,com.snapchat.android,social,13,3,0.76,1,5473.0,1062.0,1
+2026-10-15T13:59:42.249510,WhatsApp,Snapchat,WhatsApp,com.whatsapp,messaging,13,3,0.76,1,5473.0,1301.0,1
+2026-10-15T13:59:48.383117,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.76,1,5473.0,1165.0,0
+2026-10-15T13:59:54.414290,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,13,3,0.76,1,5473.0,1255.0,0
+2026-10-15T14:00:00.421270,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1292.0,0
+2026-10-15T14:00:06.514981,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1196.0,0
+2026-10-15T14:00:12.526969,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1233.0,0
+2026-10-15T14:00:18.563188,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1247.0,0
+2026-10-15T14:00:24.582267,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1208.0,0
+2026-10-15T14:00:30.644657,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1220.0,0
+2026-10-15T14:00:36.642807,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1243.0,0
+2026-10-15T14:00:42.655595,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1233.0,0
+2026-10-15T14:00:48.724055,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.76,1,5473.0,1177.0,0
+2026-10-15T14:00:54.746796,WhatsApp,WhatsApp,Home Screen,com.whatsapp,messaging,14,3,0.76,1,5473.0,1166.0,0
+2026-10-15T14:01:00.801195,Home Screen,WhatsApp,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1210.0,1
+2026-10-15T14:01:06.813904,Home Screen,Home Screen,Security,com.miui.home,system,14,3,0.76,1,5473.0,1230.0,0
+2026-10-15T14:01:12.843268,Security,Home Screen,Mi Notes,com.miui.securitycenter,system,14,3,0.76,1,5473.0,1178.0,1
+2026-10-15T14:01:18.913413,Mi Notes,Security,Mi Notes,com.miui.notes,productivity,14,3,0.76,1,5473.0,1162.0,1
+2026-10-15T14:01:24.951872,Mi Notes,Mi Notes,Mi Notes,com.miui.notes,productivity,14,3,0.76,1,5473.0,1186.0,0
+2026-10-15T14:01:31.011256,Mi Notes,Mi Notes,Mi Notes,com.miui.notes,productivity,14,3,0.76,1,5473.0,1184.0,0
+2026-10-15T14:01:37.074533,Mi Notes,Mi Notes,Home Screen,com.miui.notes,productivity,14,3,0.76,1,5473.0,1255.0,0
+2026-10-15T14:01:43.147878,Home Screen,Mi Notes,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1217.0,1
+2026-10-15T14:01:49.173096,Home Screen,Home Screen,Authenticator2,com.miui.home,system,14,3,0.76,1,5473.0,1384.0,0
+2026-10-15T14:01:55.231984,Authenticator2,Home Screen,Authenticator2,com.google.android.apps.authenticator2,other,14,3,0.76,1,5473.0,1231.0,1
+2026-10-15T14:02:01.282354,Authenticator2,Authenticator2,Authenticator2,com.google.android.apps.authenticator2,other,14,3,0.76,1,5473.0,1241.0,0
+2026-10-15T14:02:07.374878,Authenticator2,Authenticator2,Authenticator2,com.google.android.apps.authenticator2,other,14,3,0.76,1,5473.0,1247.0,0
+2026-10-15T14:02:13.457135,Authenticator2,Authenticator2,Authenticator2,com.google.android.apps.authenticator2,other,14,3,0.76,1,5473.0,1221.0,0
+2026-10-15T14:02:19.487856,Authenticator2,Authenticator2,Authenticator2,com.google.android.apps.authenticator2,other,14,3,0.76,1,5473.0,1221.0,0
+2026-10-15T14:02:25.518301,Authenticator2,Authenticator2,Authenticator2,com.google.android.apps.authenticator2,other,14,3,0.76,1,5473.0,1192.0,0
+2026-10-15T14:02:31.531877,Authenticator2,Authenticator2,Authenticator2,com.google.android.apps.authenticator2,other,14,3,0.76,1,5473.0,1186.0,0
+2026-10-15T14:02:37.627304,Authenticator2,Authenticator2,Home Screen,com.google.android.apps.authenticator2,other,14,3,0.76,1,5473.0,1181.0,0
+2026-10-15T14:02:43.698288,Home Screen,Authenticator2,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1183.0,1
+2026-10-15T14:02:49.769876,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1447.0,0
+2026-10-15T14:02:55.903119,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1436.0,0
+2026-10-15T14:03:02.056097,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1377.0,0
+2026-10-15T14:03:08.154721,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1379.0,0
+2026-10-15T14:03:14.187786,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1384.0,0
+2026-10-15T14:03:20.263389,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1356.0,0
+2026-10-15T14:03:26.374126,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1203.0,0
+2026-10-15T14:03:32.380658,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1231.0,0
+2026-10-15T14:03:38.447716,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1186.0,0
+2026-10-15T14:03:44.521423,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1262.0,0
+2026-10-15T14:03:50.606420,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1250.0,0
+2026-10-15T14:03:56.689723,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1248.0,0
+2026-10-15T14:04:02.719044,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1246.0,0
+2026-10-15T14:04:08.681000,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1181.0,0
+2026-10-15T14:04:14.718794,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1191.0,0
+2026-10-15T14:04:20.774394,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1229.0,0
+2026-10-15T14:04:26.836944,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1196.0,0
+2026-10-15T14:04:32.783074,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1205.0,0
+2026-10-15T14:04:38.886600,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1191.0,0
+2026-10-15T14:04:44.953228,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1203.0,0
+2026-10-15T14:04:51.042266,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1190.0,0
+2026-10-15T14:04:57.122573,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1165.0,0
+2026-10-15T14:05:03.188624,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1183.0,0
+2026-10-15T14:05:09.283861,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1177.0,0
+2026-10-15T14:05:15.386162,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1186.0,0
+2026-10-15T14:05:21.482538,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1208.0,0
+2026-10-15T14:05:27.492275,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1204.0,0
+2026-10-15T14:05:33.502012,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1201.0,0
+2026-10-15T14:05:39.551049,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1190.0,0
+2026-10-15T14:05:45.596268,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1205.0,0
+2026-10-15T14:05:51.699925,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1208.0,0
+2026-10-15T14:05:57.788239,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1194.0,0
+2026-10-15T14:06:03.845728,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1200.0,0
+2026-10-15T14:06:09.912619,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1215.0,0
+2026-10-15T14:06:15.966815,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1201.0,0
+2026-10-15T14:06:22.015214,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1194.0,0
+2026-10-15T14:06:28.106009,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1207.0,0
+2026-10-15T14:06:34.211037,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1193.0,0
+2026-10-15T14:06:40.299321,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1188.0,0
+2026-10-15T14:06:46.411445,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1160.0,0
+2026-10-15T14:06:52.540448,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1555.0,0
+2026-10-15T14:06:58.646397,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1540.0,0
+2026-10-15T14:07:04.718784,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1510.0,0
+2026-10-15T14:07:10.842200,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1534.0,0
+2026-10-15T14:07:17.003896,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1532.0,0
+2026-10-15T14:07:23.292595,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1526.0,0
+2026-10-15T14:07:29.361866,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1565.0,0
+2026-10-15T14:07:35.443689,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1557.0,0
+2026-10-15T14:07:41.480875,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1435.0,0
+2026-10-15T14:07:47.498133,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1414.0,0
+2026-10-15T14:07:53.545293,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1411.0,0
+2026-10-15T14:07:59.566759,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1397.0,0
+2026-10-15T14:08:05.610195,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1434.0,0
+2026-10-15T14:08:11.661896,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1447.0,0
+2026-10-15T14:08:17.737633,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1445.0,0
+2026-10-15T14:08:23.775810,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1435.0,0
+2026-10-15T14:08:29.886960,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1425.0,0
+2026-10-15T14:08:35.938195,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1494.0,0
+2026-10-15T14:08:42.004139,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1446.0,0
+2026-10-15T14:08:48.010051,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1462.0,0
+2026-10-15T14:08:54.086761,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1450.0,0
+2026-10-15T14:09:00.169938,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1459.0,0
+2026-10-15T14:09:06.229172,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1473.0,0
+2026-10-15T14:09:12.329857,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1454.0,0
+2026-10-15T14:09:18.410053,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1464.0,0
+2026-10-15T14:09:24.441613,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1470.0,0
+2026-10-15T14:09:30.542324,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1465.0,0
+2026-10-15T14:09:36.602912,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1488.0,0
+2026-10-15T14:09:42.678014,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1473.0,0
+2026-10-15T14:09:48.763877,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1463.0,0
+2026-10-15T14:09:54.856235,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1466.0,0
+2026-10-15T14:10:00.902369,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1473.0,0
+2026-10-15T14:10:06.994299,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1469.0,0
+2026-10-15T14:10:13.071698,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1456.0,0
+2026-10-15T14:10:19.118203,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1476.0,0
+2026-10-15T14:10:25.163682,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1393.0,0
+2026-10-15T14:10:31.184764,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1279.0,0
+2026-10-15T14:10:37.198726,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1377.0,0
+2026-10-15T14:10:43.249052,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1318.0,0
+2026-10-15T14:10:49.317344,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1371.0,0
+2026-10-15T14:10:55.378287,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1362.0,0
+2026-10-15T14:11:01.473525,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1374.0,0
+2026-10-15T14:11:07.539977,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1381.0,0
+2026-10-15T14:11:13.611112,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1380.0,0
+2026-10-15T14:11:19.675590,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1288.0,0
+2026-10-15T14:11:25.713511,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1319.0,0
+2026-10-15T14:11:31.756669,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1320.0,0
+2026-10-15T14:11:37.819825,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1325.0,0
+2026-10-15T14:11:43.894891,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.76,1,5473.0,1282.0,0
+2026-10-15T14:11:49.934281,Home Screen,Home Screen,Security,com.miui.home,system,14,3,0.76,1,5473.0,1279.0,0
+2026-10-15T14:11:55.960131,Security,Home Screen,Snapchat,com.miui.securitycenter,system,14,3,0.76,1,5473.0,1352.0,1
+2026-10-15T14:12:02.038592,Snapchat,Security,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1184.0,1
+2026-10-15T14:12:08.097227,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1364.0,0
+2026-10-15T14:12:14.135784,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1337.0,0
+2026-10-15T14:12:20.390295,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1331.0,0
+2026-10-15T14:12:26.646649,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1289.0,0
+2026-10-15T14:12:32.970925,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1256.0,0
+2026-10-15T14:12:39.223406,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1191.0,0
+2026-10-15T14:12:45.399936,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1181.0,0
+2026-10-15T14:12:51.552558,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1177.0,0
+2026-10-15T14:12:57.715117,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1159.0,0
+2026-10-15T14:13:03.859479,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1200.0,0
+2026-10-15T14:13:10.062985,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1280.0,0
+2026-10-15T14:13:16.221674,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1303.0,0
+2026-10-15T14:13:22.425903,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1315.0,0
+2026-10-15T14:13:28.590237,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1299.0,0
+2026-10-15T14:13:34.739757,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1451.0,0
+2026-10-15T14:13:40.891184,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1458.0,0
+2026-10-15T14:13:47.061938,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1447.0,0
+2026-10-15T14:13:53.248680,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1427.0,0
+2026-10-15T14:13:59.434747,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1457.0,0
+2026-10-15T14:14:05.578104,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1444.0,0
+2026-10-15T14:14:11.782375,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1452.0,0
+2026-10-15T14:14:18.052370,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1449.0,0
+2026-10-15T14:14:24.288665,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1447.0,0
+2026-10-15T14:14:30.484478,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1452.0,0
+2026-10-15T14:14:36.666930,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1439.0,0
+2026-10-15T14:14:42.861929,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1413.0,0
+2026-10-15T14:14:49.025363,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1419.0,0
+2026-10-15T14:14:55.270653,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1435.0,0
+2026-10-15T14:15:01.475100,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1430.0,0
+2026-10-15T14:15:07.695912,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1425.0,0
+2026-10-15T14:15:13.879708,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1431.0,0
+2026-10-15T14:15:20.069555,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1427.0,0
+2026-10-15T14:15:26.268729,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1424.0,0
+2026-10-15T14:15:32.401219,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1381.0,0
+2026-10-15T14:15:38.593923,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1415.0,0
+2026-10-15T14:15:44.779678,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1391.0,0
+2026-10-15T14:15:50.926822,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1427.0,0
+2026-10-15T14:15:57.115708,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1431.0,0
+2026-10-15T14:16:03.309057,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1422.0,0
+2026-10-15T14:16:09.507170,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1426.0,0
+2026-10-15T14:16:15.655051,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1418.0,0
+2026-10-15T14:16:21.809679,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1422.0,0
+2026-10-15T14:16:27.971024,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1386.0,0
+2026-10-15T14:16:34.137619,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1381.0,0
+2026-10-15T14:16:40.287568,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1380.0,0
+2026-10-15T14:16:46.511912,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1378.0,0
+2026-10-15T14:16:52.684380,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1388.0,0
+2026-10-15T14:16:58.854776,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1374.0,0
+2026-10-15T14:17:05.015720,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1356.0,0
+2026-10-15T14:17:11.234510,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1361.0,0
+2026-10-15T14:17:17.423308,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1366.0,0
+2026-10-15T14:17:23.586311,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1363.0,0
+2026-10-15T14:17:29.770114,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1373.0,0
+2026-10-15T14:17:35.974291,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1363.0,0
+2026-10-15T14:17:42.183405,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1364.0,0
+2026-10-15T14:17:48.366891,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1365.0,0
+2026-10-15T14:17:54.560639,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1359.0,0
+2026-10-15T14:18:00.752186,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1352.0,0
+2026-10-15T14:18:06.933629,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1349.0,0
+2026-10-15T14:18:13.141416,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1351.0,0
+2026-10-15T14:18:19.290645,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1341.0,0
+2026-10-15T14:18:25.473800,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1345.0,0
+2026-10-15T14:18:31.604530,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1331.0,0
+2026-10-15T14:18:37.732236,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1321.0,0
+2026-10-15T14:18:43.875114,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1318.0,0
+2026-10-15T14:18:50.042558,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1288.0,0
+2026-10-15T14:18:56.182167,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1288.0,0
+2026-10-15T14:19:02.308961,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1284.0,0
+2026-10-15T14:19:08.442229,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1077.0,0
+2026-10-15T14:19:14.585080,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1016.0,0
+2026-10-15T14:19:20.708293,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1087.0,0
+2026-10-15T14:19:26.836535,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1178.0,0
+2026-10-15T14:19:33.027838,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1194.0,0
+2026-10-15T14:19:39.196588,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1138.0,0
+2026-10-15T14:19:45.325653,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1158.0,0
+2026-10-15T14:19:51.554159,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1159.0,0
+2026-10-15T14:19:57.707302,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1160.0,0
+2026-10-15T14:20:03.898541,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1158.0,0
+2026-10-15T14:20:10.041499,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1121.0,0
+2026-10-15T14:20:16.199303,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1191.0,0
+2026-10-15T14:20:22.336050,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1185.0,0
+2026-10-15T14:20:28.533957,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1208.0,0
+2026-10-15T14:20:34.706437,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1206.0,0
+2026-10-15T14:20:40.851173,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1192.0,0
+2026-10-15T14:20:46.977196,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1182.0,0
+2026-10-15T14:20:52.951371,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1168.0,0
+2026-10-15T14:20:59.112836,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1151.0,0
+2026-10-15T14:21:05.284959,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1158.0,0
+2026-10-15T14:21:11.385128,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1161.0,0
+2026-10-15T14:21:17.529994,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1156.0,0
+2026-10-15T14:21:23.715694,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1161.0,0
+2026-10-15T14:21:29.883369,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1155.0,0
+2026-10-15T14:21:36.010559,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1161.0,0
+2026-10-15T14:21:42.119266,Snapchat,Snapchat,Phone,com.snapchat.android,social,14,3,0.76,1,5473.0,1215.0,0
+2026-10-15T14:21:48.245213,Phone,Snapchat,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1207.0,1
+2026-10-15T14:21:54.370736,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1210.0,0
+2026-10-15T14:22:00.496473,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1191.0,0
+2026-10-15T14:22:06.629967,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1229.0,0
+2026-10-15T14:22:12.789677,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1228.0,0
+2026-10-15T14:22:18.936924,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1236.0,0
+2026-10-15T14:22:25.112597,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1236.0,0
+2026-10-15T14:22:31.298542,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1240.0,0
+2026-10-15T14:22:37.507435,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1213.0,0
+2026-10-15T14:22:43.685995,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1227.0,0
+2026-10-15T14:22:49.857518,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1247.0,0
+2026-10-15T14:22:56.053750,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1267.0,0
+2026-10-15T14:23:02.243448,Phone,Phone,Phone,com.android.phone,system,14,3,0.76,1,5473.0,1268.0,0
+2026-10-15T14:23:08.384410,Phone,Phone,Snapchat,com.android.phone,system,14,3,0.76,1,5473.0,1239.0,0
+2026-10-15T14:23:14.560875,Snapchat,Phone,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1246.0,1
+2026-10-15T14:23:20.710253,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1237.0,0
+2026-10-15T14:23:26.860957,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1260.0,0
+2026-10-15T14:23:33.032702,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1256.0,0
+2026-10-15T14:23:39.207669,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1579.0,0
+2026-10-15T14:23:45.339257,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1409.0,0
+2026-10-15T14:23:51.512282,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1307.0,0
+2026-10-15T14:23:57.657528,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1300.0,0
+2026-10-15T14:24:03.848621,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1312.0,0
+2026-10-15T14:24:10.027856,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1324.0,0
+2026-10-15T14:24:16.200239,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1349.0,0
+2026-10-15T14:24:22.362171,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1391.0,0
+2026-10-15T14:24:28.543016,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1387.0,0
+2026-10-15T14:24:34.755332,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1378.0,0
+2026-10-15T14:24:40.935836,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1384.0,0
+2026-10-15T14:24:47.131101,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1389.0,0
+2026-10-15T14:24:53.285934,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1385.0,0
+2026-10-15T14:24:59.445773,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1466.0,0
+2026-10-15T14:25:05.598127,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1388.0,0
+2026-10-15T14:25:11.798381,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1392.0,0
+2026-10-15T14:25:17.979940,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1410.0,0
+2026-10-15T14:25:24.148950,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1391.0,0
+2026-10-15T14:25:30.299257,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1385.0,0
+2026-10-15T14:25:36.479463,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1395.0,0
+2026-10-15T14:25:42.648220,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1383.0,0
+2026-10-15T14:25:48.798210,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1390.0,0
+2026-10-15T14:25:54.969206,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1378.0,0
+2026-10-15T14:26:01.100849,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1372.0,0
+2026-10-15T14:26:07.283800,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1387.0,0
+2026-10-15T14:26:13.442493,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1402.0,0
+2026-10-15T14:26:19.600705,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1396.0,0
+2026-10-15T14:26:25.782198,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1385.0,0
+2026-10-15T14:26:31.929069,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1389.0,0
+2026-10-15T14:26:38.120318,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1392.0,0
+2026-10-15T14:26:44.251747,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1375.0,0
+2026-10-15T14:26:50.406723,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1394.0,0
+2026-10-15T14:26:56.555166,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1373.0,0
+2026-10-15T14:27:02.754768,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1374.0,0
+2026-10-15T14:27:08.910447,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1379.0,0
+2026-10-15T14:27:15.051911,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1377.0,0
+2026-10-15T14:27:21.185663,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1376.0,0
+2026-10-15T14:27:27.364330,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1376.0,0
+2026-10-15T14:27:33.557088,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1369.0,0
+2026-10-15T14:27:39.720392,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1372.0,0
+2026-10-15T14:27:45.869181,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1363.0,0
+2026-10-15T14:27:52.040563,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1362.0,0
+2026-10-15T14:27:58.200034,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1140.0,0
+2026-10-15T14:28:04.341066,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1094.0,0
+2026-10-15T14:28:10.550533,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1053.0,0
+2026-10-15T14:28:16.738529,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1050.0,0
+2026-10-15T14:28:22.899513,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1053.0,0
+2026-10-15T14:28:29.100665,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1123.0,0
+2026-10-15T14:28:35.367573,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1226.0,0
+2026-10-15T14:28:41.506429,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1222.0,0
+2026-10-15T14:28:47.652251,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1210.0,0
+2026-10-15T14:28:53.818625,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1179.0,0
+2026-10-15T14:28:59.979544,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1180.0,0
+2026-10-15T14:29:06.185460,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1183.0,0
+2026-10-15T14:29:12.374601,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1183.0,0
+2026-10-15T14:29:18.544150,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1177.0,0
+2026-10-15T14:29:24.686628,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1188.0,0
+2026-10-15T14:29:30.853906,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1192.0,0
+2026-10-15T14:29:37.046733,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1198.0,0
+2026-10-15T14:29:43.218081,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1190.0,0
+2026-10-15T14:29:49.355334,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1178.0,0
+2026-10-15T14:29:55.519705,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1184.0,0
+2026-10-15T14:30:01.654088,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1166.0,0
+2026-10-15T14:30:07.804179,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1128.0,0
+2026-10-15T14:30:13.970308,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1107.0,0
+2026-10-15T14:30:20.094603,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1111.0,0
+2026-10-15T14:30:26.240639,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1116.0,0
+2026-10-15T14:30:32.439247,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1148.0,0
+2026-10-15T14:30:38.572374,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1143.0,0
+2026-10-15T14:30:44.728479,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1140.0,0
+2026-10-15T14:30:50.903502,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1148.0,0
+2026-10-15T14:30:57.042658,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1135.0,0
+2026-10-15T14:31:03.155332,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1146.0,0
+2026-10-15T14:31:09.352850,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1155.0,0
+2026-10-15T14:31:15.525104,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1137.0,0
+2026-10-15T14:31:21.637655,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1122.0,0
+2026-10-15T14:31:27.782011,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1108.0,0
+2026-10-15T14:31:33.964998,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1120.0,0
+2026-10-15T14:31:40.116413,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1125.0,0
+2026-10-15T14:31:46.272092,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1126.0,0
+2026-10-15T14:31:52.407044,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1128.0,0
+2026-10-15T14:31:58.588720,Snapchat,Snapchat,Snapchat,com.snapchat.android,social,14,3,0.76,1,5473.0,1122.0,0
+2026-10-15T14:32:04.776327,Snapchat,Snapchat,Home Screen,com.snapchat.android,social,14,3,0.76,1,5473.0,1122.0,0
+2026-10-15T14:32:10.948333,Home Screen,Snapchat,WhatsApp,com.miui.home,system,14,3,0.76,1,5473.0,1065.0,1
+2026-10-15T14:32:17.094549,WhatsApp,Home Screen,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1370.0,1
+2026-10-15T14:32:23.223389,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1378.0,0
+2026-10-15T14:32:29.335736,WhatsApp,WhatsApp,Home Screen,com.whatsapp,messaging,14,3,0.75,1,5473.0,1287.0,0
+2026-10-15T14:32:35.461294,Home Screen,WhatsApp,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1373.0,1
+2026-10-15T14:32:41.646150,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1376.0,0
+2026-10-15T14:32:47.783466,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1372.0,0
+2026-10-15T14:32:53.896633,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1398.0,0
+2026-10-15T14:33:00.035993,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1386.0,0
+2026-10-15T14:33:06.161595,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1369.0,0
+2026-10-15T14:33:12.246429,Home Screen,Home Screen,Chrome,com.miui.home,system,14,3,0.75,1,5473.0,1384.0,0
+2026-10-15T14:33:18.416109,Chrome,Home Screen,Chrome,com.android.chrome,browser,14,3,0.75,1,5473.0,1237.0,1
+2026-10-15T14:33:24.510417,Chrome,Chrome,Chrome,com.android.chrome,browser,14,3,0.75,1,5473.0,1312.0,0
+2026-10-15T14:33:30.639871,Chrome,Chrome,Chrome,com.android.chrome,browser,14,3,0.75,1,5473.0,1265.0,0
+2026-10-15T14:33:36.766691,Chrome,Chrome,Home Screen,com.android.chrome,browser,14,3,0.75,1,5473.0,1230.0,0
+2026-10-15T14:33:42.886336,Home Screen,Chrome,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1624.0,1
+2026-10-15T14:33:49.002606,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1558.0,0
+2026-10-15T14:33:55.147845,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1648.0,0
+2026-10-15T14:34:01.354114,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1648.0,0
+2026-10-15T14:34:07.507231,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1544.0,0
+2026-10-15T14:34:13.653982,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1525.0,0
+2026-10-15T14:34:19.875256,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1529.0,0
+2026-10-15T14:34:26.096539,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1557.0,0
+2026-10-15T14:34:32.289344,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1566.0,0
+2026-10-15T14:34:38.426127,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1548.0,0
+2026-10-15T14:34:44.607493,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1572.0,0
+2026-10-15T14:34:50.770878,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1588.0,0
+2026-10-15T14:34:56.919982,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1587.0,0
+2026-10-15T14:35:03.103775,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1575.0,0
+2026-10-15T14:35:09.261132,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1583.0,0
+2026-10-15T14:35:15.447173,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1574.0,0
+2026-10-15T14:35:21.618946,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1566.0,0
+2026-10-15T14:35:27.795376,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1577.0,0
+2026-10-15T14:35:33.949237,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1576.0,0
+2026-10-15T14:35:40.137943,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1576.0,0
+2026-10-15T14:35:46.312592,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1569.0,0
+2026-10-15T14:35:52.476793,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1555.0,0
+2026-10-15T14:35:58.646959,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1559.0,0
+2026-10-15T14:36:04.838391,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1507.0,0
+2026-10-15T14:36:10.987830,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1437.0,0
+2026-10-15T14:36:17.200600,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1438.0,0
+2026-10-15T14:36:23.427888,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1450.0,0
+2026-10-15T14:36:29.590645,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1457.0,0
+2026-10-15T14:36:35.833934,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1454.0,0
+2026-10-15T14:36:41.985177,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1443.0,0
+2026-10-15T14:36:48.177742,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1435.0,0
+2026-10-15T14:36:54.387292,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1423.0,0
+2026-10-15T14:37:00.581379,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1462.0,0
+2026-10-15T14:37:06.796247,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1447.0,0
+2026-10-15T14:37:12.976311,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1445.0,0
+2026-10-15T14:37:19.158394,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1367.0,0
+2026-10-15T14:37:25.280834,Home Screen,Home Screen,Security,com.miui.home,system,14,3,0.75,1,5473.0,1481.0,0
+2026-10-15T14:37:31.432635,Security,Home Screen,Instagram,com.miui.securitycenter,system,14,3,0.75,1,5473.0,1571.0,1
+2026-10-15T14:37:37.562234,Instagram,Security,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1176.0,1
+2026-10-15T14:37:43.825207,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1134.0,0
+2026-10-15T14:37:49.962711,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1201.0,0
+2026-10-15T14:37:56.102809,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1129.0,0
+2026-10-15T14:38:02.287733,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1153.0,0
+2026-10-15T14:38:08.417167,Instagram,Instagram,Phone,com.instagram.android,social,14,3,0.75,1,5473.0,1155.0,0
+2026-10-15T14:38:14.564720,Phone,Instagram,Instagram,com.android.phone,system,14,3,0.75,1,5473.0,1235.0,1
+2026-10-15T14:38:20.718631,Instagram,Phone,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1106.0,1
+2026-10-15T14:38:26.839203,Instagram,Instagram,Home Screen,com.instagram.android,social,14,3,0.75,1,5473.0,1217.0,0
+2026-10-15T14:38:33.002044,Home Screen,Instagram,Chrome,com.miui.home,system,14,3,0.75,1,5473.0,1126.0,1
+2026-10-15T14:38:39.113633,Chrome,Home Screen,Messaging,com.android.chrome,browser,14,3,0.75,1,5473.0,1147.0,1
+2026-10-15T14:38:45.267573,Messaging,Chrome,Instagram,com.google.android.apps.messaging,other,14,3,0.75,1,5473.0,1251.0,1
+2026-10-15T14:38:51.370746,Instagram,Messaging,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1294.0,1
+2026-10-15T14:38:57.486453,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1239.0,0
+2026-10-15T14:39:03.667852,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1187.0,0
+2026-10-15T14:39:09.832248,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1166.0,0
+2026-10-15T14:39:15.980684,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1157.0,0
+2026-10-15T14:39:22.128214,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1148.0,0
+2026-10-15T14:39:28.298790,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1149.0,0
+2026-10-15T14:39:34.400537,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1144.0,0
+2026-10-15T14:39:40.560434,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1208.0,0
+2026-10-15T14:39:46.744531,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1214.0,0
+2026-10-15T14:39:52.902151,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1217.0,0
+2026-10-15T14:39:59.061583,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1267.0,0
+2026-10-15T14:40:05.201705,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1263.0,0
+2026-10-15T14:40:11.331768,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1252.0,0
+2026-10-15T14:40:17.469348,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1242.0,0
+2026-10-15T14:40:23.666506,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1234.0,0
+2026-10-15T14:40:29.831247,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1239.0,0
+2026-10-15T14:40:35.972704,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1231.0,0
+2026-10-15T14:40:42.179607,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1232.0,0
+2026-10-15T14:40:48.349229,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1250.0,0
+2026-10-15T14:40:54.493095,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1251.0,0
+2026-10-15T14:41:00.640520,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1219.0,0
+2026-10-15T14:41:06.790034,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1199.0,0
+2026-10-15T14:41:12.931999,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1231.0,0
+2026-10-15T14:41:19.056147,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1225.0,0
+2026-10-15T14:41:25.187328,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1217.0,0
+2026-10-15T14:41:31.323270,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1202.0,0
+2026-10-15T14:41:37.441260,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1202.0,0
+2026-10-15T14:41:43.543548,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1229.0,0
+2026-10-15T14:41:49.707216,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1223.0,0
+2026-10-15T14:41:55.897021,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1199.0,0
+2026-10-15T14:42:02.041807,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1210.0,0
+2026-10-15T14:42:08.198700,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1225.0,0
+2026-10-15T14:42:14.353012,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1240.0,0
+2026-10-15T14:42:20.513804,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1144.0,0
+2026-10-15T14:42:26.637808,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1245.0,0
+2026-10-15T14:42:32.775722,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1257.0,0
+2026-10-15T14:42:38.947968,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1235.0,0
+2026-10-15T14:42:45.280953,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1280.0,0
+2026-10-15T14:42:51.486141,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1269.0,0
+2026-10-15T14:42:57.613746,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1253.0,0
+2026-10-15T14:43:03.749930,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1245.0,0
+2026-10-15T14:43:09.886922,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1255.0,0
+2026-10-15T14:43:16.054501,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1268.0,0
+2026-10-15T14:43:22.188768,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1251.0,0
+2026-10-15T14:43:28.354461,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1240.0,0
+2026-10-15T14:43:34.479976,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1234.0,0
+2026-10-15T14:43:40.648883,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1215.0,0
+2026-10-15T14:43:46.807141,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1245.0,0
+2026-10-15T14:43:52.951340,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1234.0,0
+2026-10-15T14:43:59.130266,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1208.0,0
+2026-10-15T14:44:05.337293,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1187.0,0
+2026-10-15T14:44:11.505560,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1209.0,0
+2026-10-15T14:44:17.659440,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1195.0,0
+2026-10-15T14:44:23.802065,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1137.0,0
+2026-10-15T14:44:29.878494,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1035.0,0
+2026-10-15T14:44:35.980648,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1056.0,0
+2026-10-15T14:44:42.100933,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1019.0,0
+2026-10-15T14:44:48.233258,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1053.0,0
+2026-10-15T14:44:54.354170,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1058.0,0
+2026-10-15T14:45:00.467285,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1008.0,0
+2026-10-15T14:45:06.640539,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1212.0,0
+2026-10-15T14:45:12.785032,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1226.0,0
+2026-10-15T14:45:18.944551,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1217.0,0
+2026-10-15T14:45:25.114337,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1248.0,0
+2026-10-15T14:45:31.297946,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1216.0,0
+2026-10-15T14:45:37.457207,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1245.0,0
+2026-10-15T14:45:43.683467,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1244.0,0
+2026-10-15T14:45:49.858715,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1216.0,0
+2026-10-15T14:45:55.855878,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1205.0,0
+2026-10-15T14:46:01.897038,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1197.0,0
+2026-10-15T14:46:07.916036,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1209.0,0
+2026-10-15T14:46:14.027424,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1232.0,0
+2026-10-15T14:46:20.056002,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1229.0,0
+2026-10-15T14:46:26.106839,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1213.0,0
+2026-10-15T14:46:32.196434,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1202.0,0
+2026-10-15T14:46:38.450633,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1190.0,0
+2026-10-15T14:46:44.543258,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1212.0,0
+2026-10-15T14:46:50.663957,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1202.0,0
+2026-10-15T14:46:56.787151,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1224.0,0
+2026-10-15T14:47:02.928229,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1326.0,0
+2026-10-15T14:47:09.015803,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1305.0,0
+2026-10-15T14:47:15.102613,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1316.0,0
+2026-10-15T14:47:21.178236,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1294.0,0
+2026-10-15T14:47:27.274804,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1303.0,0
+2026-10-15T14:47:33.350380,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1296.0,0
+2026-10-15T14:47:39.413453,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1280.0,0
+2026-10-15T14:47:45.536624,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1110.0,0
+2026-10-15T14:47:51.609523,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1189.0,0
+2026-10-15T14:47:57.680693,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1191.0,0
+2026-10-15T14:48:03.755749,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1181.0,0
+2026-10-15T14:48:09.793511,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1162.0,0
+2026-10-15T14:48:15.851974,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1172.0,0
+2026-10-15T14:48:21.878500,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1175.0,0
+2026-10-15T14:48:27.853422,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1157.0,0
+2026-10-15T14:48:34.014419,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1184.0,0
+2026-10-15T14:48:40.085267,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1167.0,0
+2026-10-15T14:48:46.141056,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1173.0,0
+2026-10-15T14:48:52.145929,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1170.0,0
+2026-10-15T14:48:58.212981,Instagram,Instagram,Instagram,com.instagram.android,social,14,3,0.75,1,5473.0,1175.0,0
+2026-10-15T14:49:04.323873,Instagram,Instagram,Dialer,com.instagram.android,social,14,3,0.75,1,5473.0,1160.0,0
+2026-10-15T14:49:10.391021,Dialer,Instagram,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1081.0,1
+2026-10-15T14:49:16.598826,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1134.0,0
+2026-10-15T14:49:22.705887,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1168.0,0
+2026-10-15T14:49:28.877620,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1153.0,0
+2026-10-15T14:49:35.199408,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1254.0,0
+2026-10-15T14:49:41.313167,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1242.0,0
+2026-10-15T14:49:47.519239,Dialer,Dialer,WhatsApp,com.google.android.dialer,other,14,3,0.75,1,5473.0,1344.0,0
+2026-10-15T14:49:53.604747,WhatsApp,Dialer,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1145.0,1
+2026-10-15T14:49:59.763146,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1095.0,0
+2026-10-15T14:50:05.861996,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1104.0,0
+2026-10-15T14:50:11.880285,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1064.0,0
+2026-10-15T14:50:17.926140,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1132.0,0
+2026-10-15T14:50:23.976177,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1220.0,0
+2026-10-15T14:50:29.944390,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1222.0,0
+2026-10-15T14:50:35.806914,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1220.0,0
+2026-10-15T14:50:41.793483,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1210.0,0
+2026-10-15T14:50:47.879012,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1208.0,0
+2026-10-15T14:50:53.944588,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1199.0,0
+2026-10-15T14:51:00.021435,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1211.0,0
+2026-10-15T14:51:06.068799,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1164.0,0
+2026-10-15T14:51:12.068160,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1185.0,0
+2026-10-15T14:51:17.973135,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1152.0,0
+2026-10-15T14:51:24.018640,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1175.0,0
+2026-10-15T14:51:30.044349,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1169.0,0
+2026-10-15T14:51:36.125297,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1148.0,0
+2026-10-15T14:51:42.176180,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1171.0,0
+2026-10-15T14:51:48.308101,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1173.0,0
+2026-10-15T14:51:54.354373,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1092.0,0
+2026-10-15T14:52:00.417792,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1206.0,0
+2026-10-15T14:52:06.478948,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1151.0,0
+2026-10-15T14:52:12.549310,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1152.0,0
+2026-10-15T14:52:18.601948,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1177.0,0
+2026-10-15T14:52:24.660648,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1149.0,0
+2026-10-15T14:52:30.748352,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1143.0,0
+2026-10-15T14:52:36.807421,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1167.0,0
+2026-10-15T14:52:42.863340,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1150.0,0
+2026-10-15T14:52:48.969106,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1137.0,0
+2026-10-15T14:52:55.049735,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1140.0,0
+2026-10-15T14:53:01.219697,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1115.0,0
+2026-10-15T14:53:07.314842,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1097.0,0
+2026-10-15T14:53:13.373732,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1114.0,0
+2026-10-15T14:53:19.482442,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1095.0,0
+2026-10-15T14:53:25.561179,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1084.0,0
+2026-10-15T14:53:31.665419,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1084.0,0
+2026-10-15T14:53:37.741689,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1063.0,0
+2026-10-15T14:53:43.797423,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1061.0,0
+2026-10-15T14:53:49.833835,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,14,3,0.75,1,5473.0,1033.0,0
+2026-10-15T14:53:55.958807,WhatsApp,WhatsApp,Dialer,com.whatsapp,messaging,14,3,0.75,1,5473.0,1313.0,0
+2026-10-15T14:54:02.104883,Dialer,WhatsApp,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1360.0,1
+2026-10-15T14:54:08.217084,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1462.0,0
+2026-10-15T14:54:14.253431,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1459.0,0
+2026-10-15T14:54:20.279214,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1483.0,0
+2026-10-15T14:54:26.302020,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1508.0,0
+2026-10-15T14:54:32.377655,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1496.0,0
+2026-10-15T14:54:38.395282,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1538.0,0
+2026-10-15T14:54:44.441511,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1527.0,0
+2026-10-15T14:54:50.455511,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1476.0,0
+2026-10-15T14:54:56.469736,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1535.0,0
+2026-10-15T14:55:02.553950,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1497.0,0
+2026-10-15T14:55:08.624794,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1496.0,0
+2026-10-15T14:55:14.682609,Dialer,Dialer,Dialer,com.google.android.dialer,other,14,3,0.75,1,5473.0,1328.0,0
+2026-10-15T14:55:20.693913,Dialer,Dialer,Truecaller,com.google.android.dialer,other,14,3,0.75,1,5473.0,1527.0,0
+2026-10-15T14:55:26.749063,Truecaller,Dialer,Home Screen,com.truecaller,other,14,3,0.75,1,5473.0,1417.0,1
+2026-10-15T14:55:32.816149,Home Screen,Truecaller,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1387.0,1
+2026-10-15T14:55:38.916539,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1410.0,0
+2026-10-15T14:55:44.933154,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1402.0,0
+2026-10-15T14:55:50.934830,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1397.0,0
+2026-10-15T14:55:56.912566,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1414.0,0
+2026-10-15T14:56:02.933327,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1409.0,0
+2026-10-15T14:56:08.966370,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1406.0,0
+2026-10-15T14:56:15.020304,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1401.0,0
+2026-10-15T14:56:21.073412,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1412.0,0
+2026-10-15T14:56:27.114842,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1407.0,0
+2026-10-15T14:56:33.142941,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1446.0,0
+2026-10-15T14:56:39.164268,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1459.0,0
+2026-10-15T14:56:45.226761,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1466.0,0
+2026-10-15T14:56:51.251166,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1464.0,0
+2026-10-15T14:56:57.478573,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1453.0,0
+2026-10-15T14:57:03.590859,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1445.0,0
+2026-10-15T14:57:09.680412,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1463.0,0
+2026-10-15T14:57:15.755000,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1463.0,0
+2026-10-15T14:57:21.818046,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1464.0,0
+2026-10-15T14:57:27.898328,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1468.0,0
+2026-10-15T14:57:34.013185,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1454.0,0
+2026-10-15T14:57:40.095656,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1463.0,0
+2026-10-15T14:57:46.189561,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1466.0,0
+2026-10-15T14:57:52.256022,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1464.0,0
+2026-10-15T14:57:58.344437,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1464.0,0
+2026-10-15T14:58:04.460283,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1461.0,0
+2026-10-15T14:58:10.534264,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1400.0,0
+2026-10-15T14:58:16.559834,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1399.0,0
+2026-10-15T14:58:22.632771,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1547.0,0
+2026-10-15T14:58:28.691047,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1598.0,0
+2026-10-15T14:58:34.746813,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1605.0,0
+2026-10-15T14:58:40.829372,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1611.0,0
+2026-10-15T14:58:46.901241,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1612.0,0
+2026-10-15T14:58:52.960099,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1599.0,0
+2026-10-15T14:58:59.024855,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1570.0,0
+2026-10-15T14:59:05.105330,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1565.0,0
+2026-10-15T14:59:11.161192,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1520.0,0
+2026-10-15T14:59:17.218922,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1527.0,0
+2026-10-15T14:59:23.290696,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1466.0,0
+2026-10-15T14:59:29.336171,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1484.0,0
+2026-10-15T14:59:35.403773,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1484.0,0
+2026-10-15T14:59:41.497016,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1520.0,0
+2026-10-15T14:59:47.593759,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1575.0,0
+2026-10-15T14:59:53.685658,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1578.0,0
+2026-10-15T14:59:59.776113,Home Screen,Home Screen,Home Screen,com.miui.home,system,14,3,0.75,1,5473.0,1580.0,0
+2026-10-15T15:00:05.897022,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1577.0,0
+2026-10-15T15:00:11.986839,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1496.0,0
+2026-10-15T15:00:18.075624,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1496.0,0
+2026-10-15T15:00:24.162573,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1496.0,0
+2026-10-15T15:00:30.218914,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1492.0,0
+2026-10-15T15:00:36.287330,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1490.0,0
+2026-10-15T15:00:42.366309,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1480.0,0
+2026-10-15T15:00:48.466095,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1477.0,0
+2026-10-15T15:00:54.549879,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1460.0,0
+2026-10-15T15:01:00.629105,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1447.0,0
+2026-10-15T15:01:06.744145,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1461.0,0
+2026-10-15T15:01:12.836326,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1451.0,0
+2026-10-15T15:01:18.943564,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1457.0,0
+2026-10-15T15:01:25.038738,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1452.0,0
+2026-10-15T15:01:31.099585,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1443.0,0
+2026-10-15T15:01:37.180933,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1437.0,0
+2026-10-15T15:01:43.242120,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1427.0,0
+2026-10-15T15:01:49.315638,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1421.0,0
+2026-10-15T15:01:55.421552,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1422.0,0
+2026-10-15T15:02:01.511384,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1419.0,0
+2026-10-15T15:02:07.587104,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1424.0,0
+2026-10-15T15:02:13.640028,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1418.0,0
+2026-10-15T15:02:19.731008,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1404.0,0
+2026-10-15T15:02:25.796460,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1404.0,0
+2026-10-15T15:02:31.848218,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1402.0,0
+2026-10-15T15:02:37.936623,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1384.0,0
+2026-10-15T15:02:43.954642,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1367.0,0
+2026-10-15T15:02:50.023311,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1361.0,0
+2026-10-15T15:02:56.100112,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1357.0,0
+2026-10-15T15:03:02.145658,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1358.0,0
+2026-10-15T15:03:08.222855,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1351.0,0
+2026-10-15T15:03:14.322030,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1365.0,0
+2026-10-15T15:03:20.413393,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1359.0,0
+2026-10-15T15:03:26.552445,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.75,1,5473.0,1358.0,0
+2026-10-15T15:03:32.615698,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1358.0,0
+2026-10-15T15:03:38.680387,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1353.0,0
+2026-10-15T15:03:44.774319,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1350.0,0
+2026-10-15T15:03:50.924536,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1349.0,0
+2026-10-15T15:03:56.976591,Home Screen,Home Screen,App,com.miui.home,system,15,3,0.76,1,5473.0,1278.0,0
+2026-10-15T15:04:03.038525,App,Home Screen,App,com.nis.app,other,15,3,0.76,1,5473.0,1255.0,1
+2026-10-15T15:04:09.102294,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1313.0,0
+2026-10-15T15:04:15.171588,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1437.0,0
+2026-10-15T15:04:21.220134,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1630.0,0
+2026-10-15T15:04:27.227115,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1605.0,0
+2026-10-15T15:04:33.284598,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1542.0,0
+2026-10-15T15:04:39.381284,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1544.0,0
+2026-10-15T15:04:45.440437,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1442.0,0
+2026-10-15T15:04:51.514134,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1431.0,0
+2026-10-15T15:04:57.618500,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1393.0,0
+2026-10-15T15:05:03.634426,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1489.0,0
+2026-10-15T15:05:09.698687,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1466.0,0
+2026-10-15T15:05:15.787664,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1475.0,0
+2026-10-15T15:05:21.795460,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1466.0,0
+2026-10-15T15:05:27.853090,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1456.0,0
+2026-10-15T15:05:33.921658,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1456.0,0
+2026-10-15T15:05:39.978778,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1429.0,0
+2026-10-15T15:05:46.052612,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1436.0,0
+2026-10-15T15:05:52.117287,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1442.0,0
+2026-10-15T15:05:58.187468,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1435.0,0
+2026-10-15T15:06:04.273551,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1414.0,0
+2026-10-15T15:06:10.297256,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1376.0,0
+2026-10-15T15:06:16.386808,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1307.0,0
+2026-10-15T15:06:22.451232,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1308.0,0
+2026-10-15T15:06:28.496940,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1402.0,0
+2026-10-15T15:06:34.541783,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1394.0,0
+2026-10-15T15:06:40.572631,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1390.0,0
+2026-10-15T15:06:46.642741,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1378.0,0
+2026-10-15T15:06:52.745339,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1362.0,0
+2026-10-15T15:06:58.817919,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1367.0,0
+2026-10-15T15:07:04.949376,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1381.0,0
+2026-10-15T15:07:10.990472,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1397.0,0
+2026-10-15T15:07:17.107116,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1388.0,0
+2026-10-15T15:07:23.152336,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1402.0,0
+2026-10-15T15:07:29.226927,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1411.0,0
+2026-10-15T15:07:35.347308,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1406.0,0
+2026-10-15T15:07:41.448589,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1400.0,0
+2026-10-15T15:07:47.556834,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1390.0,0
+2026-10-15T15:07:53.652851,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1410.0,0
+2026-10-15T15:07:59.736450,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1407.0,0
+2026-10-15T15:08:05.831435,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1390.0,0
+2026-10-15T15:08:11.927602,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1379.0,0
+2026-10-15T15:08:18.061003,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1375.0,0
+2026-10-15T15:08:24.175540,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1396.0,0
+2026-10-15T15:08:30.323348,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1388.0,0
+2026-10-15T15:08:36.450168,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1378.0,0
+2026-10-15T15:08:42.542844,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1377.0,0
+2026-10-15T15:08:48.620973,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1365.0,0
+2026-10-15T15:08:54.673932,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1319.0,0
+2026-10-15T15:09:00.772324,App,App,WhatsApp,com.nis.app,other,15,3,0.76,1,5473.0,1254.0,0
+2026-10-15T15:09:06.818085,WhatsApp,App,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1300.0,1
+2026-10-15T15:09:12.815464,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1444.0,0
+2026-10-15T15:09:18.880217,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1494.0,0
+2026-10-15T15:09:24.932337,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1473.0,0
+2026-10-15T15:09:30.960222,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1419.0,0
+2026-10-15T15:09:36.970340,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1416.0,0
+2026-10-15T15:09:42.997462,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1414.0,0
+2026-10-15T15:09:49.027112,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1429.0,0
+2026-10-15T15:09:55.104040,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1405.0,0
+2026-10-15T15:10:01.145462,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1404.0,0
+2026-10-15T15:10:07.194885,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1431.0,0
+2026-10-15T15:10:13.215364,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.76,1,5473.0,1487.0,0
+2026-10-15T15:10:19.232867,WhatsApp,WhatsApp,App,com.whatsapp,messaging,15,3,0.76,1,5473.0,1462.0,0
+2026-10-15T15:10:25.248404,App,WhatsApp,App,com.nis.app,other,15,3,0.76,1,5473.0,1327.0,1
+2026-10-15T15:10:31.314478,App,App,Dialer,com.nis.app,other,15,3,0.76,1,5473.0,1238.0,0
+2026-10-15T15:10:37.458786,Dialer,App,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1200.0,1
+2026-10-15T15:10:43.508980,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1350.0,0
+2026-10-15T15:10:49.551228,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1389.0,0
+2026-10-15T15:10:55.648321,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1457.0,0
+2026-10-15T15:11:01.688399,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1426.0,0
+2026-10-15T15:11:07.709967,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1434.0,0
+2026-10-15T15:11:13.717428,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1424.0,0
+2026-10-15T15:11:19.758784,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1427.0,0
+2026-10-15T15:11:25.789794,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1418.0,0
+2026-10-15T15:11:31.841948,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1419.0,0
+2026-10-15T15:11:37.860866,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1537.0,0
+2026-10-15T15:11:43.867816,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1634.0,0
+2026-10-15T15:11:49.906741,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1660.0,0
+2026-10-15T15:11:55.958925,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1670.0,0
+2026-10-15T15:12:02.032585,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1668.0,0
+2026-10-15T15:12:08.109970,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1554.0,0
+2026-10-15T15:12:14.205531,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1606.0,0
+2026-10-15T15:12:20.266039,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1608.0,0
+2026-10-15T15:12:26.338332,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1599.0,0
+2026-10-15T15:12:32.446785,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1598.0,0
+2026-10-15T15:12:38.522556,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1594.0,0
+2026-10-15T15:12:44.609904,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1563.0,0
+2026-10-15T15:12:50.668229,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1575.0,0
+2026-10-15T15:12:56.763989,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1574.0,0
+2026-10-15T15:13:02.860736,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1584.0,0
+2026-10-15T15:13:08.940987,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1582.0,0
+2026-10-15T15:13:15.057854,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1568.0,0
+2026-10-15T15:13:21.166979,Dialer,Dialer,Dialer,com.google.android.dialer,other,15,3,0.76,1,5473.0,1575.0,0
+2026-10-15T15:13:27.224458,Dialer,Dialer,App,com.google.android.dialer,other,15,3,0.76,1,5473.0,1333.0,0
+2026-10-15T15:13:33.316907,App,Dialer,Home Screen,com.nis.app,other,15,3,0.76,1,5473.0,1138.0,1
+2026-10-15T15:13:39.498592,Home Screen,App,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1128.0,1
+2026-10-15T15:13:45.611286,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1160.0,0
+2026-10-15T15:13:51.673654,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1459.0,0
+2026-10-15T15:13:57.651083,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1381.0,0
+2026-10-15T15:14:03.649966,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1431.0,0
+2026-10-15T15:14:09.661053,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1432.0,0
+2026-10-15T15:14:15.675494,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1368.0,0
+2026-10-15T15:14:21.701039,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1389.0,0
+2026-10-15T15:14:27.734498,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1388.0,0
+2026-10-15T15:14:33.824203,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1362.0,0
+2026-10-15T15:14:39.805036,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1516.0,0
+2026-10-15T15:14:45.849077,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1512.0,0
+2026-10-15T15:14:51.865962,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1540.0,0
+2026-10-15T15:14:57.967036,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1502.0,0
+2026-10-15T15:15:04.005960,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1473.0,0
+2026-10-15T15:15:10.089449,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1430.0,0
+2026-10-15T15:15:16.188702,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1447.0,0
+2026-10-15T15:15:22.271730,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1452.0,0
+2026-10-15T15:15:28.351972,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1446.0,0
+2026-10-15T15:15:34.426350,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1446.0,0
+2026-10-15T15:15:40.487156,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1442.0,0
+2026-10-15T15:15:46.566304,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1430.0,0
+2026-10-15T15:15:52.620685,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1428.0,0
+2026-10-15T15:15:58.660657,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1418.0,0
+2026-10-15T15:16:04.728284,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1415.0,0
+2026-10-15T15:16:10.748315,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1425.0,0
+2026-10-15T15:16:16.823571,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1428.0,0
+2026-10-15T15:16:22.888419,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1427.0,0
+2026-10-15T15:16:28.944847,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1424.0,0
+2026-10-15T15:16:35.029357,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1418.0,0
+2026-10-15T15:16:41.095181,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1416.0,0
+2026-10-15T15:16:47.155047,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1412.0,0
+2026-10-15T15:16:53.208526,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1398.0,0
+2026-10-15T15:16:59.308831,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1390.0,0
+2026-10-15T15:17:05.484820,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1384.0,0
+2026-10-15T15:17:11.604596,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1372.0,0
+2026-10-15T15:17:17.676527,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1380.0,0
+2026-10-15T15:17:23.759266,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.76,1,5473.0,1381.0,0
+2026-10-15T15:17:29.904688,Home Screen,Home Screen,App,com.miui.home,system,15,3,0.76,1,5473.0,1498.0,0
+2026-10-15T15:17:35.947300,App,Home Screen,App,com.nis.app,other,15,3,0.76,1,5473.0,1302.0,1
+2026-10-15T15:17:42.007307,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1362.0,0
+2026-10-15T15:17:48.066324,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1372.0,0
+2026-10-15T15:17:54.131885,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1459.0,0
+2026-10-15T15:18:00.168551,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1492.0,0
+2026-10-15T15:18:06.188423,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1494.0,0
+2026-10-15T15:18:12.234754,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1420.0,0
+2026-10-15T15:18:18.307985,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1421.0,0
+2026-10-15T15:18:24.349788,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1380.0,0
+2026-10-15T15:18:30.360348,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1397.0,0
+2026-10-15T15:18:36.395005,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1345.0,0
+2026-10-15T15:18:42.414342,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1333.0,0
+2026-10-15T15:18:48.418016,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1353.0,0
+2026-10-15T15:18:54.424450,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1372.0,0
+2026-10-15T15:19:00.472368,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1340.0,0
+2026-10-15T15:19:06.460077,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1366.0,0
+2026-10-15T15:19:12.515974,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1344.0,0
+2026-10-15T15:19:18.565463,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1339.0,0
+2026-10-15T15:19:24.578505,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1297.0,0
+2026-10-15T15:19:30.612978,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1330.0,0
+2026-10-15T15:19:36.672194,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1337.0,0
+2026-10-15T15:19:42.705820,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1347.0,0
+2026-10-15T15:19:48.763440,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1329.0,0
+2026-10-15T15:19:54.792811,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1373.0,0
+2026-10-15T15:20:00.812738,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1366.0,0
+2026-10-15T15:20:06.853306,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1367.0,0
+2026-10-15T15:20:12.927771,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1363.0,0
+2026-10-15T15:20:19.013843,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1358.0,0
+2026-10-15T15:20:25.068958,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1364.0,0
+2026-10-15T15:20:31.092940,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1360.0,0
+2026-10-15T15:20:37.130470,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1345.0,0
+2026-10-15T15:20:43.204912,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1348.0,0
+2026-10-15T15:20:49.261381,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1342.0,0
+2026-10-15T15:20:55.332807,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1323.0,0
+2026-10-15T15:21:01.362213,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1323.0,0
+2026-10-15T15:21:07.406430,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1318.0,0
+2026-10-15T15:21:13.466223,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1307.0,0
+2026-10-15T15:21:19.515958,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1328.0,0
+2026-10-15T15:21:25.582979,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1320.0,0
+2026-10-15T15:21:31.652274,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1329.0,0
+2026-10-15T15:21:37.744346,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1313.0,0
+2026-10-15T15:21:43.755928,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1316.0,0
+2026-10-15T15:21:49.786481,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1300.0,0
+2026-10-15T15:21:56.061234,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1299.0,0
+2026-10-15T15:22:02.171702,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1312.0,0
+2026-10-15T15:22:08.332359,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1303.0,0
+2026-10-15T15:22:14.360135,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1095.0,0
+2026-10-15T15:22:20.431150,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1144.0,0
+2026-10-15T15:22:26.636068,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1187.0,0
+2026-10-15T15:22:32.675498,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1161.0,0
+2026-10-15T15:22:38.696898,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1167.0,0
+2026-10-15T15:22:44.769138,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1155.0,0
+2026-10-15T15:22:50.797450,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1184.0,0
+2026-10-15T15:22:56.825696,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1187.0,0
+2026-10-15T15:23:02.867578,App,App,App,com.nis.app,other,15,3,0.76,1,5473.0,1184.0,0
+2026-10-15T15:23:08.967435,App,App,Home Screen,com.nis.app,other,15,3,0.76,1,5473.0,1204.0,0
+2026-10-15T15:23:14.973450,Home Screen,App,Permissioncontroller,com.miui.home,system,15,3,0.76,1,5473.0,1641.0,1
+2026-10-15T15:23:21.018098,Permissioncontroller,Home Screen,Permissioncontroller,com.google.android.permissioncontroller,other,15,3,0.76,1,5473.0,1209.0,1
+2026-10-15T15:23:27.101115,Permissioncontroller,Permissioncontroller,Permissioncontroller,com.google.android.permissioncontroller,other,15,3,0.76,1,5473.0,1153.0,0
+2026-10-15T15:23:33.231450,Permissioncontroller,Permissioncontroller,Permissioncontroller,com.google.android.permissioncontroller,other,15,3,0.76,1,5473.0,1266.0,0
+2026-10-15T15:23:39.281020,Permissioncontroller,Permissioncontroller,Permissioncontroller,com.google.android.permissioncontroller,other,15,3,0.76,1,5473.0,1264.0,0
+2026-10-15T15:23:45.292847,Permissioncontroller,Permissioncontroller,Imobile,com.google.android.permissioncontroller,other,15,3,0.76,1,5473.0,1308.0,0
+2026-10-15T15:23:51.351633,Imobile,Permissioncontroller,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,1059.0,1
+2026-10-15T15:23:57.408337,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,1130.0,0
+2026-10-15T15:24:03.414595,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,1090.0,0
+2026-10-15T15:24:09.449106,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,1024.0,0
+2026-10-15T15:24:15.557274,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,1004.0,0
+2026-10-15T15:24:21.630998,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,1060.0,0
+2026-10-15T15:24:27.887214,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,844.0,0
+2026-10-15T15:24:34.026112,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,831.0,0
+2026-10-15T15:24:40.182832,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,822.0,0
+2026-10-15T15:24:46.312822,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,804.0,0
+2026-10-15T15:24:52.518137,Imobile,Imobile,Phone,com.pubg.imobile,other,15,3,0.76,1,5473.0,711.0,0
+2026-10-15T15:24:58.643735,Phone,Imobile,Imobile,com.android.phone,system,15,3,0.76,1,5473.0,976.0,1
+2026-10-15T15:25:04.948207,Imobile,Phone,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,960.0,1
+2026-10-15T15:25:11.843308,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,769.0,0
+2026-10-15T15:25:18.484683,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,886.0,0
+2026-10-15T15:25:24.813472,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.76,1,5473.0,795.0,0
+2026-10-15T15:25:31.003989,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,847.0,0
+2026-10-15T15:25:37.067302,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,958.0,0
+2026-10-15T15:25:43.107246,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,858.0,0
+2026-10-15T15:25:49.182640,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,825.0,0
+2026-10-15T15:25:55.265250,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,955.0,0
+2026-10-15T15:26:01.341432,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,845.0,0
+2026-10-15T15:26:07.464530,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,951.0,0
+2026-10-15T15:26:13.574046,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,893.0,0
+2026-10-15T15:26:19.636166,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,1018.0,0
+2026-10-15T15:26:25.681260,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,803.0,0
+2026-10-15T15:26:31.741491,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,741.0,0
+2026-10-15T15:26:37.805674,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,791.0,0
+2026-10-15T15:26:43.842614,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,845.0,0
+2026-10-15T15:26:49.863461,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,820.0,0
+2026-10-15T15:26:55.882756,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,904.0,0
+2026-10-15T15:27:01.916687,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,867.0,0
+2026-10-15T15:27:08.000681,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,909.0,0
+2026-10-15T15:27:13.991704,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,933.0,0
+2026-10-15T15:27:20.122900,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,733.0,0
+2026-10-15T15:27:26.194738,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,894.0,0
+2026-10-15T15:27:32.224362,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,949.0,0
+2026-10-15T15:27:38.217390,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,831.0,0
+2026-10-15T15:27:44.245378,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,741.0,0
+2026-10-15T15:27:50.275174,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,742.0,0
+2026-10-15T15:27:56.318464,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,697.0,0
+2026-10-15T15:28:02.346507,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,663.0,0
+2026-10-15T15:28:08.375097,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,700.0,0
+2026-10-15T15:28:14.399635,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,665.0,0
+2026-10-15T15:28:20.473695,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,769.0,0
+2026-10-15T15:28:26.525358,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,871.0,0
+2026-10-15T15:28:32.586734,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.75,1,5473.0,879.0,0
+2026-10-15T15:28:38.625746,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,769.0,0
+2026-10-15T15:28:44.790222,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,736.0,0
+2026-10-15T15:28:51.007981,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,703.0,0
+2026-10-15T15:28:57.171338,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,733.0,0
+2026-10-15T15:29:03.240486,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,742.0,0
+2026-10-15T15:29:09.322779,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,772.0,0
+2026-10-15T15:29:15.385853,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,625.0,0
+2026-10-15T15:29:21.478516,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,713.0,0
+2026-10-15T15:29:27.503714,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,751.0,0
+2026-10-15T15:29:33.611143,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,710.0,0
+2026-10-15T15:29:39.717025,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,691.0,0
+2026-10-15T15:29:45.746558,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,686.0,0
+2026-10-15T15:29:51.752968,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,669.0,0
+2026-10-15T15:29:57.750639,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,687.0,0
+2026-10-15T15:30:03.783534,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,736.0,0
+2026-10-15T15:30:09.845066,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,668.0,0
+2026-10-15T15:30:15.933442,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,717.0,0
+2026-10-15T15:30:21.929480,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,703.0,0
+2026-10-15T15:30:27.962790,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,694.0,0
+2026-10-15T15:30:34.007525,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,722.0,0
+2026-10-15T15:30:40.066383,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,670.0,0
+2026-10-15T15:30:46.282344,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,641.0,0
+2026-10-15T15:30:52.378073,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,802.0,0
+2026-10-15T15:30:58.718002,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,693.0,0
+2026-10-15T15:31:05.485184,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,747.0,0
+2026-10-15T15:31:11.571685,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,734.0,0
+2026-10-15T15:31:17.694176,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,721.0,0
+2026-10-15T15:31:24.112386,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,702.0,0
+2026-10-15T15:31:30.255825,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,776.0,0
+2026-10-15T15:31:36.394479,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.74,1,5473.0,820.0,0
+2026-10-15T15:31:42.490040,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,860.0,0
+2026-10-15T15:31:48.529293,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,834.0,0
+2026-10-15T15:31:54.567254,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,806.0,0
+2026-10-15T15:32:00.671086,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,794.0,0
+2026-10-15T15:32:06.681926,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,790.0,0
+2026-10-15T15:32:12.789274,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,731.0,0
+2026-10-15T15:32:18.845785,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,645.0,0
+2026-10-15T15:32:24.927842,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,729.0,0
+2026-10-15T15:32:31.006695,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,728.0,0
+2026-10-15T15:32:37.026261,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,706.0,0
+2026-10-15T15:32:43.075173,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,679.0,0
+2026-10-15T15:32:49.167841,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,680.0,0
+2026-10-15T15:32:55.183851,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,689.0,0
+2026-10-15T15:33:01.248746,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,695.0,0
+2026-10-15T15:33:07.311401,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,667.0,0
+2026-10-15T15:33:13.449933,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,715.0,0
+2026-10-15T15:33:19.518589,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,778.0,0
+2026-10-15T15:33:25.598900,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,708.0,0
+2026-10-15T15:33:31.777572,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,760.0,0
+2026-10-15T15:33:37.875106,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,747.0,0
+2026-10-15T15:33:43.909457,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,778.0,0
+2026-10-15T15:33:49.955157,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,714.0,0
+2026-10-15T15:33:56.063272,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,749.0,0
+2026-10-15T15:34:02.219090,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,714.0,0
+2026-10-15T15:34:08.243977,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,693.0,0
+2026-10-15T15:34:14.277161,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,710.0,0
+2026-10-15T15:34:20.305842,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,605.0,0
+2026-10-15T15:34:26.332395,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,628.0,0
+2026-10-15T15:34:32.361306,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,599.0,0
+2026-10-15T15:34:38.373148,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,600.0,0
+2026-10-15T15:34:44.396311,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,616.0,0
+2026-10-15T15:34:50.447498,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,611.0,0
+2026-10-15T15:34:56.466854,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,624.0,0
+2026-10-15T15:35:02.506095,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,663.0,0
+2026-10-15T15:35:08.510795,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.73,1,5473.0,665.0,0
+2026-10-15T15:35:14.558953,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,663.0,0
+2026-10-15T15:35:20.659070,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,617.0,0
+2026-10-15T15:35:26.680744,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,709.0,0
+2026-10-15T15:35:32.800867,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,686.0,0
+2026-10-15T15:35:38.803538,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,741.0,0
+2026-10-15T15:35:44.852471,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,779.0,0
+2026-10-15T15:35:50.881626,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,774.0,0
+2026-10-15T15:35:56.932691,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,755.0,0
+2026-10-15T15:36:02.966095,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,685.0,0
+2026-10-15T15:36:09.095128,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,717.0,0
+2026-10-15T15:36:15.176373,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,775.0,0
+2026-10-15T15:36:21.263788,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,651.0,0
+2026-10-15T15:36:27.306571,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,661.0,0
+2026-10-15T15:36:33.364058,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,659.0,0
+2026-10-15T15:36:39.405504,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,649.0,0
+2026-10-15T15:36:45.444721,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,653.0,0
+2026-10-15T15:36:51.477103,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,678.0,0
+2026-10-15T15:36:57.567330,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,626.0,0
+2026-10-15T15:37:03.642859,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,668.0,0
+2026-10-15T15:37:09.698575,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,683.0,0
+2026-10-15T15:37:15.790820,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,624.0,0
+2026-10-15T15:37:21.903719,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,584.0,0
+2026-10-15T15:37:27.965997,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,680.0,0
+2026-10-15T15:37:34.053886,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,636.0,0
+2026-10-15T15:37:40.088733,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,642.0,0
+2026-10-15T15:37:46.142423,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,640.0,0
+2026-10-15T15:37:52.192407,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,682.0,0
+2026-10-15T15:37:58.152148,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,729.0,0
+2026-10-15T15:38:04.210930,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,724.0,0
+2026-10-15T15:38:10.288706,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,642.0,0
+2026-10-15T15:38:16.321309,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,587.0,0
+2026-10-15T15:38:22.337578,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,619.0,0
+2026-10-15T15:38:28.362505,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,587.0,0
+2026-10-15T15:38:34.401105,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,613.0,0
+2026-10-15T15:38:40.418531,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,620.0,0
+2026-10-15T15:38:46.442637,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.72,1,5473.0,640.0,0
+2026-10-15T15:38:52.466740,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,651.0,0
+2026-10-15T15:38:58.483055,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,644.0,0
+2026-10-15T15:39:04.505305,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,640.0,0
+2026-10-15T15:39:10.563168,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,631.0,0
+2026-10-15T15:39:16.615588,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,574.0,0
+2026-10-15T15:39:22.624955,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,560.0,0
+2026-10-15T15:39:28.682920,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,609.0,0
+2026-10-15T15:39:34.743965,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,527.0,0
+2026-10-15T15:39:41.047192,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,754.0,0
+2026-10-15T15:39:47.108586,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,762.0,0
+2026-10-15T15:39:53.362855,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,664.0,0
+2026-10-15T15:39:59.621934,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,646.0,0
+2026-10-15T15:40:05.698678,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,708.0,0
+2026-10-15T15:40:11.739273,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,707.0,0
+2026-10-15T15:40:17.752133,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,603.0,0
+2026-10-15T15:40:23.752270,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,612.0,0
+2026-10-15T15:40:29.819729,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,537.0,0
+2026-10-15T15:40:35.918914,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,597.0,0
+2026-10-15T15:40:41.943856,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,628.0,0
+2026-10-15T15:40:47.985551,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,673.0,0
+2026-10-15T15:40:53.999462,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,697.0,0
+2026-10-15T15:41:00.070935,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,674.0,0
+2026-10-15T15:41:06.115373,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,670.0,0
+2026-10-15T15:41:12.192001,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,666.0,0
+2026-10-15T15:41:18.225279,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,595.0,0
+2026-10-15T15:41:24.313938,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,663.0,0
+2026-10-15T15:41:30.440813,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,739.0,0
+2026-10-15T15:41:36.492447,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,679.0,0
+2026-10-15T15:41:42.606587,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,696.0,0
+2026-10-15T15:41:48.684677,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,642.0,0
+2026-10-15T15:41:54.836176,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,700.0,0
+2026-10-15T15:42:00.829618,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,751.0,0
+2026-10-15T15:42:06.896705,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,725.0,0
+2026-10-15T15:42:13.019680,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,712.0,0
+2026-10-15T15:42:19.042965,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,640.0,0
+2026-10-15T15:42:25.111049,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,610.0,0
+2026-10-15T15:42:31.109326,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,695.0,0
+2026-10-15T15:42:37.126069,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,647.0,0
+2026-10-15T15:42:43.169425,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,574.0,0
+2026-10-15T15:42:49.216293,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.71,1,5473.0,744.0,0
+2026-10-15T15:42:55.275398,Imobile,Imobile,Imobile,com.pubg.imobile,other,15,3,0.7,1,5473.0,696.0,0
+2026-10-15T15:43:01.310169,Imobile,Imobile,Home Screen,com.pubg.imobile,other,15,3,0.7,1,5473.0,803.0,0
+2026-10-15T15:43:07.338471,Home Screen,Imobile,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1630.0,1
+2026-10-15T15:43:13.369802,Home Screen,Home Screen,WhatsApp,com.miui.home,system,15,3,0.7,1,5473.0,1573.0,0
+2026-10-15T15:43:19.436625,WhatsApp,Home Screen,WhatsApp,com.whatsapp,messaging,15,3,0.7,1,5473.0,1514.0,1
+2026-10-15T15:43:25.492841,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.7,1,5473.0,1492.0,0
+2026-10-15T15:43:31.539178,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.7,1,5473.0,1487.0,0
+2026-10-15T15:43:37.628818,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.7,1,5473.0,1496.0,0
+2026-10-15T15:43:43.678682,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,15,3,0.7,1,5473.0,1390.0,0
+2026-10-15T15:43:49.698679,WhatsApp,WhatsApp,Home Screen,com.whatsapp,messaging,15,3,0.7,1,5473.0,1338.0,0
+2026-10-15T15:43:55.765318,Home Screen,WhatsApp,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1309.0,1
+2026-10-15T15:44:01.808477,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1354.0,0
+2026-10-15T15:44:07.892777,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1377.0,0
+2026-10-15T15:44:13.955323,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1377.0,0
+2026-10-15T15:44:19.994499,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1377.0,0
+2026-10-15T15:44:26.055065,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1377.0,0
+2026-10-15T15:44:32.127644,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1376.0,0
+2026-10-15T15:44:38.176154,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1376.0,0
+2026-10-15T15:44:44.260869,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1374.0,0
+2026-10-15T15:44:50.305670,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1341.0,0
+2026-10-15T15:44:56.368510,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1344.0,0
+2026-10-15T15:45:02.486868,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1352.0,0
+2026-10-15T15:45:08.561851,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1365.0,0
+2026-10-15T15:45:14.643486,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1361.0,0
+2026-10-15T15:45:20.719620,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1361.0,0
+2026-10-15T15:45:26.794088,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.7,1,5473.0,1361.0,0
+2026-10-15T15:45:32.913412,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1353.0,0
+2026-10-15T15:45:39.016056,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1353.0,0
+2026-10-15T15:45:45.126799,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1350.0,0
+2026-10-15T15:45:51.242561,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1341.0,0
+2026-10-15T15:45:57.363310,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1350.0,0
+2026-10-15T15:46:03.491891,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1406.0,0
+2026-10-15T15:46:09.594660,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1402.0,0
+2026-10-15T15:46:15.695770,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1389.0,0
+2026-10-15T15:46:21.774149,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1387.0,0
+2026-10-15T15:46:27.845940,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1376.0,0
+2026-10-15T15:46:33.923088,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1376.0,0
+2026-10-15T15:46:40.006813,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1371.0,0
+2026-10-15T15:46:46.081700,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1370.0,0
+2026-10-15T15:46:52.164463,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1368.0,0
+2026-10-15T15:46:58.279381,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1361.0,0
+2026-10-15T15:47:04.339037,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1362.0,0
+2026-10-15T15:47:10.455869,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1370.0,0
+2026-10-15T15:47:16.550966,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1380.0,0
+2026-10-15T15:47:22.595658,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1412.0,0
+2026-10-15T15:47:28.659594,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1409.0,0
+2026-10-15T15:47:34.772299,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1372.0,0
+2026-10-15T15:47:40.808762,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1331.0,0
+2026-10-15T15:47:46.878058,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1260.0,0
+2026-10-15T15:47:52.942832,Home Screen,Home Screen,Home Screen,com.miui.home,system,15,3,0.71,1,5473.0,1427.0,0
+2026-10-15T15:47:59.004843,Home Screen,Home Screen,Reddit,com.miui.home,system,15,3,0.71,1,5473.0,1378.0,0
+2026-10-15T15:48:05.056066,Reddit,Home Screen,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1320.0,1
+2026-10-15T15:48:11.122621,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1296.0,0
+2026-10-15T15:48:17.206287,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1372.0,0
+2026-10-15T15:48:23.251040,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1453.0,0
+2026-10-15T15:48:29.281896,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1440.0,0
+2026-10-15T15:48:35.324935,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1450.0,0
+2026-10-15T15:48:41.375052,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1478.0,0
+2026-10-15T15:48:47.485690,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1477.0,0
+2026-10-15T15:48:53.540019,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1317.0,0
+2026-10-15T15:48:59.592591,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1250.0,0
+2026-10-15T15:49:05.673744,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1316.0,0
+2026-10-15T15:49:11.703088,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1313.0,0
+2026-10-15T15:49:17.718798,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1329.0,0
+2026-10-15T15:49:23.740769,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1307.0,0
+2026-10-15T15:49:29.755920,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1309.0,0
+2026-10-15T15:49:35.783338,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1297.0,0
+2026-10-15T15:49:41.810316,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1283.0,0
+2026-10-15T15:49:47.845395,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1301.0,0
+2026-10-15T15:49:53.881454,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1281.0,0
+2026-10-15T15:49:59.902322,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1292.0,0
+2026-10-15T15:50:05.965214,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1283.0,0
+2026-10-15T15:50:11.988314,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1313.0,0
+2026-10-15T15:50:18.026777,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1322.0,0
+2026-10-15T15:50:24.061324,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1288.0,0
+2026-10-15T15:50:30.065257,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1303.0,0
+2026-10-15T15:50:36.090536,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1310.0,0
+2026-10-15T15:50:42.108662,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1310.0,0
+2026-10-15T15:50:48.135353,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1296.0,0
+2026-10-15T15:50:54.143868,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1294.0,0
+2026-10-15T15:51:00.184576,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1295.0,0
+2026-10-15T15:51:06.237063,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1282.0,0
+2026-10-15T15:51:12.298239,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1277.0,0
+2026-10-15T15:51:18.312694,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1275.0,0
+2026-10-15T15:51:24.334912,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1271.0,0
+2026-10-15T15:51:30.399762,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1292.0,0
+2026-10-15T15:51:36.470777,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1184.0,0
+2026-10-15T15:51:42.517482,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1230.0,0
+2026-10-15T15:51:48.553149,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1247.0,0
+2026-10-15T15:51:54.620691,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1237.0,0
+2026-10-15T15:52:00.684526,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1247.0,0
+2026-10-15T15:52:06.734304,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1204.0,0
+2026-10-15T15:52:12.745716,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1220.0,0
+2026-10-15T15:52:18.785988,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1190.0,0
+2026-10-15T15:52:24.815023,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1167.0,0
+2026-10-15T15:52:30.867859,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1166.0,0
+2026-10-15T15:52:36.961480,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1165.0,0
+2026-10-15T15:52:42.989506,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1242.0,0
+2026-10-15T15:52:49.039811,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1252.0,0
+2026-10-15T15:52:55.070804,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1250.0,0
+2026-10-15T15:53:01.079152,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1235.0,0
+2026-10-15T15:53:07.091755,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1243.0,0
+2026-10-15T15:53:13.137506,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1234.0,0
+2026-10-15T15:53:19.220797,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1230.0,0
+2026-10-15T15:53:25.318241,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1239.0,0
+2026-10-15T15:53:31.391947,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1237.0,0
+2026-10-15T15:53:37.445698,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1237.0,0
+2026-10-15T15:53:43.473190,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1224.0,0
+2026-10-15T15:53:49.563536,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1212.0,0
+2026-10-15T15:53:55.665620,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1219.0,0
+2026-10-15T15:54:01.770951,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1255.0,0
+2026-10-15T15:54:07.828712,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1253.0,0
+2026-10-15T15:54:13.904241,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1264.0,0
+2026-10-15T15:54:19.975786,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1264.0,0
+2026-10-15T15:54:26.067421,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1269.0,0
+2026-10-15T15:54:32.124125,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1269.0,0
+2026-10-15T15:54:38.211301,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1267.0,0
+2026-10-15T15:54:44.310174,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1257.0,0
+2026-10-15T15:54:50.324326,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1247.0,0
+2026-10-15T15:54:56.439860,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1241.0,0
+2026-10-15T15:55:02.521209,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1252.0,0
+2026-10-15T15:55:08.616645,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1244.0,0
+2026-10-15T15:55:14.666947,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1241.0,0
+2026-10-15T15:55:20.779458,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1235.0,0
+2026-10-15T15:55:26.863232,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1234.0,0
+2026-10-15T15:55:32.988116,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1238.0,0
+2026-10-15T15:55:39.060075,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1236.0,0
+2026-10-15T15:55:45.162947,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1231.0,0
+2026-10-15T15:55:51.217902,Reddit,Reddit,Reddit,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1244.0,0
+2026-10-15T15:55:57.333401,Reddit,Reddit,Home Screen,com.reddit.frontpage,social,15,3,0.71,1,5473.0,1238.0,0
+2026-10-15T15:56:03.404964,Home Screen,Reddit,Fourplayers,com.miui.home,system,15,3,0.71,1,5473.0,1445.0,1
+2026-10-15T15:56:09.447691,Fourplayers,Home Screen,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1391.0,1
+2026-10-15T15:56:15.648583,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1115.0,0
+2026-10-15T15:56:21.749403,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1265.0,0
+2026-10-15T15:56:27.791791,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1240.0,0
+2026-10-15T15:56:33.798925,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1209.0,0
+2026-10-15T15:56:39.832875,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1280.0,0
+2026-10-15T15:56:45.849336,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1266.0,0
+2026-10-15T15:56:51.922119,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1256.0,0
+2026-10-15T15:56:57.956739,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1219.0,0
+2026-10-15T15:57:04.046850,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1200.0,0
+2026-10-15T15:57:10.152970,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1140.0,0
+2026-10-15T15:57:16.175653,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1139.0,0
+2026-10-15T15:57:22.200638,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1148.0,0
+2026-10-15T15:57:28.285903,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1178.0,0
+2026-10-15T15:57:34.314922,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1153.0,0
+2026-10-15T15:57:40.363823,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1150.0,0
+2026-10-15T15:57:46.406542,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1160.0,0
+2026-10-15T15:57:52.512750,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1283.0,0
+2026-10-15T15:57:58.556130,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1223.0,0
+2026-10-15T15:58:04.555409,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1217.0,0
+2026-10-15T15:58:10.576542,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1220.0,0
+2026-10-15T15:58:16.645617,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1217.0,0
+2026-10-15T15:58:22.775145,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1212.0,0
+2026-10-15T15:58:28.795040,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1212.0,0
+2026-10-15T15:58:34.877527,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1210.0,0
+2026-10-15T15:58:40.976271,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1200.0,0
+2026-10-15T15:58:46.987666,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1190.0,0
+2026-10-15T15:58:53.039310,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1222.0,0
+2026-10-15T15:58:59.113442,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1225.0,0
+2026-10-15T15:59:05.184802,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1207.0,0
+2026-10-15T15:59:11.275066,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1119.0,0
+2026-10-15T15:59:17.300116,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1081.0,0
+2026-10-15T15:59:23.402294,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1189.0,0
+2026-10-15T15:59:29.544673,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1214.0,0
+2026-10-15T15:59:35.679228,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1186.0,0
+2026-10-15T15:59:41.725517,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1193.0,0
+2026-10-15T15:59:47.802434,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1178.0,0
+2026-10-15T15:59:53.867210,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1141.0,0
+2026-10-15T15:59:59.949735,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,15,3,0.71,1,5473.0,1149.0,0
+2026-10-15T16:00:06.016853,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1121.0,0
+2026-10-15T16:00:12.036362,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1154.0,0
+2026-10-15T16:00:18.129006,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1141.0,0
+2026-10-15T16:00:24.173574,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1139.0,0
+2026-10-15T16:00:30.279963,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1142.0,0
+2026-10-15T16:00:36.378455,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1130.0,0
+2026-10-15T16:00:42.479252,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1132.0,0
+2026-10-15T16:00:48.506145,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1093.0,0
+2026-10-15T16:00:54.551442,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1193.0,0
+2026-10-15T16:01:00.622266,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1187.0,0
+2026-10-15T16:01:06.689819,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1185.0,0
+2026-10-15T16:01:12.759780,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1181.0,0
+2026-10-15T16:01:18.810996,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1167.0,0
+2026-10-15T16:01:24.963193,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1197.0,0
+2026-10-15T16:01:31.083239,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1189.0,0
+2026-10-15T16:01:37.166370,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1194.0,0
+2026-10-15T16:01:43.223642,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1189.0,0
+2026-10-15T16:01:49.287651,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1187.0,0
+2026-10-15T16:01:55.363678,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1177.0,0
+2026-10-15T16:02:01.455963,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1174.0,0
+2026-10-15T16:02:07.513006,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1175.0,0
+2026-10-15T16:02:13.609728,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1173.0,0
+2026-10-15T16:02:19.649812,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1183.0,0
+2026-10-15T16:02:25.703397,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1159.0,0
+2026-10-15T16:02:31.785005,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1155.0,0
+2026-10-15T16:02:37.867546,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1146.0,0
+2026-10-15T16:02:43.916493,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1145.0,0
+2026-10-15T16:02:49.976547,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1087.0,0
+2026-10-15T16:02:56.006329,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1111.0,0
+2026-10-15T16:03:02.070109,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1109.0,0
+2026-10-15T16:03:08.107967,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1122.0,0
+2026-10-15T16:03:14.198560,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1119.0,0
+2026-10-15T16:03:20.242289,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1116.0,0
+2026-10-15T16:03:26.278222,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1113.0,0
+2026-10-15T16:03:32.376689,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1098.0,0
+2026-10-15T16:03:38.580116,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1102.0,0
+2026-10-15T16:03:44.754851,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1092.0,0
+2026-10-15T16:03:50.898213,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1067.0,0
+2026-10-15T16:03:57.032116,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1065.0,0
+2026-10-15T16:04:03.171564,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1059.0,0
+2026-10-15T16:04:09.375916,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1051.0,0
+2026-10-15T16:04:15.534367,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1040.0,0
+2026-10-15T16:04:21.664873,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1026.0,0
+2026-10-15T16:04:27.808158,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1015.0,0
+2026-10-15T16:04:33.984767,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1009.0,0
+2026-10-15T16:04:40.125888,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1015.0,0
+2026-10-15T16:04:46.291353,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1017.0,0
+2026-10-15T16:04:52.466816,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1037.0,0
+2026-10-15T16:04:58.590303,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1044.0,0
+2026-10-15T16:05:04.740649,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1023.0,0
+2026-10-15T16:05:10.913306,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1026.0,0
+2026-10-15T16:05:17.045643,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1023.0,0
+2026-10-15T16:05:23.227798,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1001.0,0
+2026-10-15T16:05:29.356843,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,1005.0,0
+2026-10-15T16:05:35.557476,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,972.0,0
+2026-10-15T16:05:41.718114,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,988.0,0
+2026-10-15T16:05:47.877691,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,985.0,0
+2026-10-15T16:05:54.028263,Fourplayers,Fourplayers,Fourplayers,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,968.0,0
+2026-10-15T16:06:00.222693,Fourplayers,Fourplayers,Home Screen,com.JindoBlu.FourPlayers,other,16,3,0.71,1,5473.0,964.0,0
+2026-10-15T16:06:06.405819,Home Screen,Fourplayers,WhatsApp,com.miui.home,system,16,3,0.71,1,5473.0,1471.0,1
+2026-10-15T16:06:12.568767,WhatsApp,Home Screen,WhatsApp,com.whatsapp,messaging,16,3,0.71,1,5473.0,1550.0,1
+2026-10-15T16:06:18.782537,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,16,3,0.71,1,5473.0,1495.0,0
+2026-10-15T16:06:24.888885,WhatsApp,WhatsApp,WhatsApp,com.whatsapp,messaging,16,3,0.71,1,5473.0,1419.0,0
+2026-10-15T16:06:30.996404,WhatsApp,WhatsApp,Home Screen,com.whatsapp,messaging,16,3,0.71,1,5473.0,1366.0,0
+2026-10-15T16:06:37.158453,Home Screen,WhatsApp,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1533.0,1
+2026-10-15T16:06:43.282140,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1550.0,0
+2026-10-15T16:06:49.364627,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1562.0,0
+2026-10-15T16:06:55.429714,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1545.0,0
+2026-10-15T16:07:01.618560,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1541.0,0
+2026-10-15T16:07:07.756241,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1533.0,0
+2026-10-15T16:07:13.911352,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1534.0,0
+2026-10-15T16:07:20.090409,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1524.0,0
+2026-10-15T16:07:26.333228,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1508.0,0
+2026-10-15T16:07:32.426280,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1496.0,0
+2026-10-15T16:07:38.512848,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1506.0,0
+2026-10-15T16:07:44.696599,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1503.0,0
+2026-10-15T16:07:50.841976,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1501.0,0
+2026-10-15T16:07:56.995082,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1317.0,0
+2026-10-15T16:08:03.138266,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1276.0,0
+2026-10-15T16:08:09.311860,Home Screen,Home Screen,Home Screen,com.miui.home,system,16,3,0.71,1,5473.0,1238.0,0
